@@ -1,5 +1,0 @@
-[B]Version 1.0.1[/B]
-- Release version
-
-[B]Version 1.0[/B]
-- Initial test version
