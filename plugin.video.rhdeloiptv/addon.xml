@@ -21,16 +21,16 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-
-  <extension point="xbmc.addon.repository" name="repository.rhdelo">
-		<info compressed="false">https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/Rhdelo/repositorioRHDELO/raw/master/zips</datadir>
-	</extension>
   
   <extension point="xbmc.addon.metadata">
     <summary>Creado por RHDELO</summary>
     <description>RHDELO IPTV 2019</description>
     <platform>all</platform>
   </extension>
+  
+  <extension point="xbmc.addon.repository" name="repository.rhdelo">
+		<info compressed="false">https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Rhdelo/repositorioRHDELO/raw/master/zips</datadir>
+	</extension>
 </addon>
