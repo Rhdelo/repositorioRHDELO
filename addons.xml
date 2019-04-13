@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.rhdeloiptv"
-       name="[COLOR gold]RHDELO IPTV[/COLOR][COLOR blue] 1[/COLOR].[COLOR yellow]0[/COLOR].[COLOR red]1[/COLOR]"
+       name="[COLOR gold]RHDELO IPTV[/COLOR]"
        version="1.0.1"
        provider-name="RHDELO">
   <requires>
