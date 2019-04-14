@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/6tlhc5C.png" tvg-id="ext" group-title="Channels",TVE 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/Fj24tpF.png" tvg-id="ext" group-title="Channels",TVE 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7tRK6Wv.png" group-title="Channels",La 2
