@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/W1IA801.png" tvg-id="ext" group-title="Channels",Neox
+https://livestartover.atresmedia.com/geoneox/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nWwblbW.png" tvg-id="ext" group-title="Channels",Nova
+https://livestartover.atresmedia.com/geonova/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/K0pQSpw.png" tvg-id="ext" group-title="Channels",Mega
+https://livestartover.atresmedia.com/mega/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/7bysnuv.png" tvg-id="ext" group-title="Channels",AtresSeries
+https://livestartover.atresmedia.com/geoa3series/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aFtBKNc.png" tvg-id="ext" group-title="Channels",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1zo3Hft.png" tvg-id="ext" group-title="Channels",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NRhhnig.png" tvg-id="ext" group-title="Channels",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xjyyTmw.png" tvg-id="ext" group-title="Channels",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/JCp6LN8.png" tvg-id="ext" group-title="Channels",MTMAD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on&hdntl=exp=1555348142~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=0a12e55fdc17c996e24d551a22383cd28f82651468757a442a27ee71d900108f
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
