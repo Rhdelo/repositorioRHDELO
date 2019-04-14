@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.rhdeloiptv"
        name="[COLOR gold]RHDELO IPTV[/COLOR]"
-       version="1.0.1"
+       version="1.0"
        provider-name="RHDELO">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -27,7 +27,6 @@
     <description>RHDELO IPTV 2019</description>
     <platform>all</platform>
   </extension>
-  
   <extension point="xbmc.addon.repository" name="repository.rhdelo">
 		<info compressed="false">https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/addons.xml.md5</checksum>
