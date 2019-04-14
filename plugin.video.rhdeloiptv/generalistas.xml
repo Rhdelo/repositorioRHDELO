@@ -2,17 +2,17 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/6tlhc5C.png" tvg-id="ext" group-title="Channels",TVE 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-logo="https://imgur.com/6tlhc5C" group-title="Channels",La 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/7tRK6Wv.png" group-title="Channels",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Antena 3
+#EXTINF:0 tvg-logo="https://i.imgur.com/YyTr1iJ.png" tvg-id="ext" group-title="Channels",Antena 3
 https://livestartover.atresmedia.com/antena3/bitrate_1.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cuatro
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6lotaQ.png" tvg-id="ext" group-title="Channels",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telecinco
+#EXTINF:0 tvg-logo="https://i.imgur.com/S0V83jf.png" tvg-id="ext" group-title="Channels",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",La Sexta
+#EXTINF:0 tvg-logo="https://i.imgur.com/1DvtPBV.png" tvg-id="ext" group-title="Channels",La Sexta
 https://livestartover.atresmedia.com/geolasexta/bitrate_1.m3u8
