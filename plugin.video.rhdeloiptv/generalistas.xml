@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE 1
+#EXTINF:0 tvg-logo="https://imgur.com/6tlhc5C" tvg-id="ext" group-title="Channels",TVE 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="https://imgur.com/6tlhc5C" group-title="Channels",La 2
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Antena 3
 https://livestartover.atresmedia.com/antena3/bitrate_1.m3u8
