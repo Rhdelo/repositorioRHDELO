@@ -95,7 +95,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Gracias por usar TvGratis</summary>
-    <description>TvGratis, todo el contenido que se muestra en el addon ha sido buscado y recopilado en la red,este addon es gratuito si te cobran por el te estan engañando.....</description>
+    <description>TvGratis, todo el contenido que se muestra en el addon ha sido buscado y recopilado en la red,este addon es gratuito si te cobran por el te estan engaÃ±ando.....</description>
     <platform>all</platform>
   </extension>
   	<extension point="xbmc.addon.repository" name="repository.rhdelo">
