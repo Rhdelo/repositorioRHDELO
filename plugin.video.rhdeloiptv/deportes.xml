@@ -12,7 +12,7 @@ https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:es3_web/chunkl
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cfUSIcr.jpg" tvg-id="ext" group-title="Channels",SevillaFC Tv
-https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/index_0700_av-p.m3u8
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ZHTkT9x.jpg" tvg-id="ext" group-title="Channels",Betis Tv
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/chunklist_b1000000.m3u8
