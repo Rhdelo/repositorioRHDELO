@@ -32,8 +32,8 @@ https://paramount-live.flumotion.com/live/chunks.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",DMAX
 https://grifo7.mitopo.me/live/dmax/index.m3u8?token=wRl6o-NReZCibUE-qFZiIg&expires=1555350508
 
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Ten
-http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320" group-title="Generalistas",La Voz 24h HD
+https://pull12.atresmedia.com/lavoz/master.m3u8
 
 #EXTINF:-1 tvg-id="DKISS TDT SD 1.sp" tvg-logo="http://graph.facebook.com/DKissTV/picture?width=320&height=320" group-title="Generalistas",DKISS HD
 http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8

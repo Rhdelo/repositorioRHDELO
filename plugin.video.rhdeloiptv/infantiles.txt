@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.imgur.com/D2QyViL.jpg" tvg-id="ext" group-title="Channels",Disney Channel
-https://cdnapisec.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/https/uiConfId/40058201/a.m3u8?referrer=aHR0cHM6Ly90di5kaXNuZXkuZXM=&playSessionId=361d7f81-6d37-282d-f091-373c3a84a0cc&responseFormat=jsonp&callback=jQuery111104495736864829085_1555363624328&_=1555363624329
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/luqe92v.png" tvg-id="ext" group-title="Channels",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="DCH ASTRA HD 1.sp" tvg-logo="http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320" group-title="Infantiles",Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8
