@@ -5,14 +5,14 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_2800_av-p.m3u8?s
 #EXTINF:0 tvg-logo="https://i.imgur.com/nWW0uln.png" tvg-id="ext" group-title="Channels",Gol Tv
 https://webgol-hls-live-overon.akamaized.net/edge_gol/_definst_/gol_24_laliga_MB_2128/chunklist.m3u8?_token_=ip=81.0.6.62~exp=1555409017~acl=%2F%2A~hmac=c2cc6822e39632ae2b50cc67a873d755012dd8a6
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/TV2pn9P.png" tvg-id="ext" group-title="Channels",Esport3
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:es3_web/chunklist_b1296000.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/jcJTLxU.png" tvg-id="ext" group-title="Channels",Real Madrid Tv
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/cfUSIcr.jpg" tvg-id="ext" group-title="Channels",SevillaFC Tv
-https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/index_0700_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1555438103~acl=%2fi%2f0wzckw85c_1%40723099*~data=hdntl~hmac=f55cd4c16af50d74ef626c86c72c3f31362b8ddeddf67e04cbede61aee979a43
+https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/index_0700_av-p.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/jcJTLxU.png" tvg-id="ext" group-title="Channels",Betis Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZHTkT9x.jpg" tvg-id="ext" group-title="Channels",Betis Tv
 https://cdnlive.shooowit.net/rbetislive/smil:television.smil/chunklist_b1000000.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/TV2pn9P.png" tvg-id="ext" group-title="Channels",Betis Tv
-https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:es3_web/chunklist_b1296000.m3u8
