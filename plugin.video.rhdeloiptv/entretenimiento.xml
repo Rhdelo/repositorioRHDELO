@@ -26,10 +26,10 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/JCp6LN8.png" tvg-id="ext" group-title="Channels",MTMAD
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on&hdntl=exp=1555348142~acl=%2fi%2fmtmad_1%40744785%2f*~data=hdntl~hmac=0a12e55fdc17c996e24d551a22383cd28f82651468757a442a27ee71d900108f
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/kOeNixT.png" tvg-id="ext" group-title="Channels",Paramount Network
+https://paramount-live.flumotion.com/live/chunks.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
 
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
-
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
-
+https://grifo7.mitopo.me/live/dmax/index.m3u8?token=wRl6o-NReZCibUE-qFZiIg&expires=1555350508
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
