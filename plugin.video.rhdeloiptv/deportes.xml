@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/VJGSAP5.png" tvg-id="ext" group-title="Channels",Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_2800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/nWW0uln.png" tvg-id="ext" group-title="Channels",Gol Tv
+https://webgol-hls-live-overon.akamaized.net/edge_gol/_definst_/gol_24_laliga_MB_2128/chunklist.m3u8?_token_=ip=81.0.6.62~exp=1555409017~acl=%2F%2A~hmac=c2cc6822e39632ae2b50cc67a873d755012dd8a6
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jcJTLxU.png" tvg-id="ext" group-title="Channels",Real Madrid Tv
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&rebase=on
