@@ -1,3 +1,8 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/H3joeUa.png" tvg-id="ext" group-title="Channels",PROMO
-https://youtu.be/aU1xym_zJeI
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>PROMO</title>
+<urlsolve>https://youtu.be/aU1xym_zJeI</urlsolve>
+<thumbnail>https://www.madrid.es/UnidadWeb/UGBBDD/EntidadesYOrganismos/Deportes/Hipodromos/Hipodromos/ficheros/logo.png</thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+</item>
