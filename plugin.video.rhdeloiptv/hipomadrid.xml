@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>Prueba</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://www.youtube.com/watch?v=aU1xym_zJeI</externallink>
-</item>
+#EXTM3U
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",PROMO
+https://www.youtube.com/watch?v=aU1xym_zJeI
