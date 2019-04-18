@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Teatro</title>
+<thumbnail>https://i.imgur.com/ud72wLk.jpg</thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/hipomadrid.xml</externallink>
+</item>
+
+<item>
+<title>Musica</title>
+<thumbnail>https://i.imgur.com/EZXRP9M.png</thumbnail>
+<fanart>https://i.imgur.com/zJcnl06.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/hiposanisidro.xml</externallink>
+</item>
