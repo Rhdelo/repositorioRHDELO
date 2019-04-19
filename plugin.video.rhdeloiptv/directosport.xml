@@ -23,3 +23,11 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/hipodromo.xml</externallink>
 </item>
+
+<item>
+<title>Circuito</title>
+<thumbnail>https://i.imgur.com/Mb92zhB.png</thumbnail>
+<fanart>https://i.imgur.com/1sC0eDw.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/circuitomenu.xml</externallink>
+</item>
