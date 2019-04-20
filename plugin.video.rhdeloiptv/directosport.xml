@@ -17,11 +17,11 @@
 </item>
 
 <item>
-<title>Hipódromo</title>
-<thumbnail>https://i.imgur.com/qsNuird.png</thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<title>Cuadrilatero</title>
+<thumbnail>https://i.imgur.com/Hzw9zzY.png</thumbnail>
+<fanart>https://i.imgur.com/77ZkVf1.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/hipodromo.xml</externallink>
+<externallink></externallink>
 </item>
 
 <item>
@@ -31,3 +31,12 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/circuitomenu.xml</externallink>
 </item>
+
+<item>
+<title>Hipódromo</title>
+<thumbnail>https://i.imgur.com/qsNuird.png</thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/hipodromo.xml</externallink>
+</item>
+
