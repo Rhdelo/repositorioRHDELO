@@ -18,10 +18,18 @@
 
 <item>
 <title>IMSA Official</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/Nwo9DNl.png</thumbnail>
 <fanart>https://i.imgur.com/ql4g6On.png</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/imsa.xml</externallink>
+</item>
+
+<item>
+<title>Ferrari Challenge</title>
+<thumbnail>https://i.imgur.com/nPbr5Ig.png</thumbnail>
+<fanart>https://i.imgur.com/wTeoeo3.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ferrari.xml</externallink>
 </item>
 
 <item>
@@ -30,6 +38,22 @@
 <fanart>https://i.imgur.com/oSi9jP2.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/fdrift.xml</externallink>
+</item>
+
+<item>
+<title>FIA WEC</title>
+<thumbnail>https://i.imgur.com/2HlCYGr.png</thumbnail>
+<fanart>https://i.imgur.com/G7IwoQo.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>American Flat Track</title>
+<thumbnail>https://i.imgur.com/kKQNTnA.png</thumbnail>
+<fanart>https://i.imgur.com/auI6ozO.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
 
 <item>
