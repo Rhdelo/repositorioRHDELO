@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Cine</title>
+<thumbnail>http://hemisferios.info/wp-content/uploads/2018/04/P_hUm8jr_400x400.jpg</thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>Documentales</title>
+<thumbnail>https://i.imgur.com/Z6HPjvo.png</thumbnail>
+<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
 <title>Musica</title>
 <thumbnail>https://i.imgur.com/EZXRP9M.png</thumbnail>
 <fanart>https://i.imgur.com/zJcnl06.png</fanart>
@@ -16,11 +32,4 @@
 <externallink></externallink>
 </item>
 
-<item>
-<title>Cine</title>
-<thumbnail>http://hemisferios.info/wp-content/uploads/2018/04/P_hUm8jr_400x400.jpg</thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
 
