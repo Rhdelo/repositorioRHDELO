@@ -2,6 +2,6 @@
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Rai 1
 https://raievent8-live.akamaized.net/hls/live/619187/raievent8/raievent8_2400/chunklist.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Rai 2
-https://raidue1-live.akamaized.net/hls/live/598310/raidue1/rai2_1800/exp=1556116313~acl=%2fhls%2flive%2f598310%2fraidue1%2f*!%2fhls%2flive%2f598310-b%2fraidue1%2f*!%2f*.key~data=hdntl~hmac=6ddaa56bcb0a7bc5f78ba6f2ec8ac95de4cad8cb26dc788ea4aab3c7928fc025/chunklist.m3u8?aka_me_session_id=AAAAAAAAAABZc8BcAAAAALQzOZqfBNMISEekYZz46k1Bpai1ZpO6qYzxAsR3mR7gWrt2lu5yLlU2hJNQqJMij9e7f+BLcdrZ
+https://raidue1-live.akamaized.net/hls/live/598310/raidue1/rai2_1800/exp=1556117971~acl=%2fhls%2flive%2f598310%2fraidue1%2f*!%2fhls%2flive%2f598310-b%2fraidue1%2f*!%2f*.key~data=hdntl~hmac=87ce10aa31cdb9b23d504960ef57c1aab716fa5e1c4e90b9c65898219799e6c2/chunklist.m3u8?aka_me_session_id=AAAAAAAAAADTecBcAAAAABdcoKlhyzZzkfSK61bJrZ844yvcflcjK474cCN2BPcdhAMFjAzezApy3glADOS6JeBnz39UUYWE
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Rai 4
 https://raiquattro1-live.akamaized.net/hls/live/598315/raiquattro1/rai4_1800/exp=1556116410~acl=%2fhls%2flive%2f598315%2fraiquattro1%2f*!%2fhls%2flive%2f598315-b%2fraiquattro1%2f*!%2f*.key~data=hdntl~hmac=cd8c964ed5d4893e1eb64d115835334e730d70973d90992491df7ead333f4f76/chunklist.m3u8?aka_me_session_id=AAAAAAAAAAC6c8BcAAAAAHd%2fGoT0fB5kNmXrltnXdvjrac5p27dtKgIA9h5Cw4gcX6fniXe4sn3HIOhaUdh5Yem7Cr88PyTe
