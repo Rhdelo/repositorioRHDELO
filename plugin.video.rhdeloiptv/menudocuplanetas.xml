@@ -6,7 +6,7 @@
 <thumbnail>https://i.imgur.com/lvpkdUU.png</thumbnail>
 <fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
+<externallink></externallink>
 </item>
 
 <item>
@@ -34,6 +34,23 @@
 </item>
 
 <item>
+<title>La Tierra</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentaleslaTierra.xml</externallink>
+</item>
+
+<item>
+<title>La Luna</title>
+<thumbnail>https://i.imgur.com/rw7Tvi8.png</thumbnail>
+<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
+</item>
+
+
+<item>
 <title>Marte</title>
 <thumbnail>https://i.imgur.com/rPFTabi.png</thumbnail>
 <fanart>https://i.imgur.com/Fp5sC3B.jpg</fanart>
@@ -46,7 +63,7 @@
 <thumbnail>https://i.imgur.com/f939ouY.png</thumbnail>
 <fanart>https://i.imgur.com/zeJ9zw9.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesJupiter.xml</externallink>
 </item>
 
 <item>
@@ -62,7 +79,7 @@
 <thumbnail>https://i.imgur.com/vlr9n5Q.png</thumbnail>
 <fanart>https://i.imgur.com/ko4BrFW.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
+<externallink>https://github.com/Rhdelo/repositorioRHDELO/blob/master/plugin.video.rhdeloiptv/documentalesUranoyNeptuno.xml</externallink>
 </item>
 
 <item>
@@ -70,13 +87,5 @@
 <thumbnail>https://i.imgur.com/jTlnMVm.png</thumbnail>
 <fanart>https://i.imgur.com/og0lb8u.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
-</item>
-
-<item>
-<title>Pluton</title>
-<thumbnail>https://i.imgur.com/lvpkdUU.png</thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalesLuna.xml</externallink>
+<externallink>https://github.com/Rhdelo/repositorioRHDELO/blob/master/plugin.video.rhdeloiptv/documentalesUranoyNeptuno.xml</externallink>
 </item>
