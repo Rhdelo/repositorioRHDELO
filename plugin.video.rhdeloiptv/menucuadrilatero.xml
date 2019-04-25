@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>UFC</title>
+<title>TV</title>
 <thumbnail>https://i.imgur.com/oOgKqGY.png</thumbnail>
 <fanart>https://i.imgur.com/8E1lZf4.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ufcmenu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/boxeotv.xml</externallink>
 </item>
 
 <item>
@@ -14,4 +14,12 @@
 <fanart>https://i.imgur.com/92XGFCa.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuboxeopromocionalArgentina.xml</externallink>
+</item>
+
+<item>
+<title>UFC</title>
+<thumbnail>https://i.imgur.com/oOgKqGY.png</thumbnail>
+<fanart>https://i.imgur.com/8E1lZf4.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ufcmenu.xml</externallink>
 </item>

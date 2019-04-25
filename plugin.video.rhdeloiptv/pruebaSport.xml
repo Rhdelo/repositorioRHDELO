@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,US: BEIN SPORT | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fj24tpF.png" ,US: BEIN SPORT | HD
 http://thenew.tv:8000/Roxy1/Roxy12/6390
 #EXTINF:-1,US: BEIN SPORTS  | HD
 http://thenew.tv:8000/Roxy1/Roxy12/6389
