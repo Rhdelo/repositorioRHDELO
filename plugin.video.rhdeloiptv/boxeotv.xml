@@ -3,25 +3,3 @@
 http://iptvnet-tv.ddns.net:8000/live/kodi_master/NxxtEqKYwT/3954.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ENG: FIGHT BOX | HD
 http://thenew.tv:8000/Roxy1/Roxy12/6360
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ENG: FIGHT BOX | SD
-http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
-#EXTINF: -1, LAT-TyC Sports HD:
-rtmp: //sl100tb.cxnlive.com/live/tyc.stream
-#EXTINF: -1, NTV Football 1
-http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
-#EXTINF: -1, Poker
-http://195.154.188.161/hls/pokerhd.m3u8
-#EXTINF: -1, RUS-Nash Futbol rtmp
-rtmp: //iptv.sat-elit.net/iptv/531
-#EXTINF: -1, RUS-NTV Basketbol rtmp
-rtmp: //iptv.sat-elit.net/iptv/529
-#EXTINF: -1, RUS-NTV Futbol 2 rtmp
-rtmp: //iptv.sat-elit.net/iptv/530
-#EXTINF: -1, RUS-NTV Futbol rtmp
-rtmp: //iptv.sat-elit.net/iptv/124
-#EXTINF: -1, RUS-NTV Sport rtmp
-rtmp: //iptv.sat-elit.net/iptv/123
-#EXTINF: -1, RUS-canal exterior rtmp
-rtmp: //iptv.sat-elit.net/iptv/119
-#EXTINF: -1, RUS-Rus.Extrim rtmp
-rtmp: //iptv.sat-elit.net/iptv/533
