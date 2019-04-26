@@ -1,19 +1,8 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_300_300/pictures/16/07/19/16/57/263464.jpg" group-title="Estrenos",La Chica Del Tren
-https://goo.gl/XwRB1y
-
-#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/guardians_of_the_galaxy-595487268-large.jpg" group-title="Estrenos",Guardianes De La Galaxia
-https://goo.gl/sFaEVq
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/08/11/16/02/016881.jpg" group-title="Estrenos",Cigueñas
-https://goo.gl/9ppZRC
-
-#EXTINF:-1 tvg-logo="http://bit.ly/PORT_THEMINE" group-title="ESTRENOS",THE MINE (2017)
-http://bit.ly/THEMINE
-
-#EXTINF:-1 tvg-logo="http://bit.ly/PORT_SAHARA_OPC" group-title="ESTRENOS",SAHARA (2017)
-http://bit.ly/SAHARAMOVIE
-
-#EXTINF:-1 tvg-logo="http://bit.ly/PORTPET" group-title="ESTRENOS", Mascota Humana (2016)
-http://bit.ly/MASCOTAHUMANA
+<item>
+<title>Capitana Marvel</title>
+<urlsolve>https://ohgoodloadingwow.verystream.net/stream/B2dJr4FQdzV/0LI6tKm70C_6Kl0L/OyGtAGFtHHJjEjJj76inQpTY_sF5A_6PP2VWz2x_1A2U6X7VZ20aUqp7Rj_AyHjuLvZJgWrDmQLnDAMByqk1_PQcJAdnfXyR7mAihsSyoB621K9CUR1vLTdqZDsiMxsZvayOfKmeN4xav3WDzCXMb3Jy7E_q-TgknHewXf6wfPfsGCuTv-UuyqOSvJB4UG6I1S2-0FTNBaS1N20HyAgHPx0_QRSrjd8dQOvg-yL5vBOBJfm2rInHka7NbetJTEcB34aMTa8xFX2-ETiUUPUv6hB-SYwLuHckLZ9oskOXusQYpm2ZxAB_jHNpF5q3K4IP7_Ae_W-wKmHCk4cIFj6_phokdB8gbQNSv9_UQ5JZdjZ5ot4KYg9w2lYKQJWvapFgQHuyoPeoHWfLSC_7uU37lwAdtGyMeYkIAXQqu4qMisZZiDMXVfUVgNRZpT3UqUxH/c4pt41n.m4rv3l.2019.tchq.castellano.mp4?mime=true</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
