@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1,~ CARTELERA ESTRENOS~
-#EXTINF:-1 tvg-logo="",Capitana Marvel
-https://verystream.com/gettoken/B2dJr4FQdzV~1556363742~81.0.0.0~D74NZs2h?mime=true
+
+#EXTINF:0 tvg-logo="",Capitana Marvel
+https://verystream.com/e/B2dJr4FQdzV/c4pt41n.m4rv3l.2019.tchq.castellano.mp4
