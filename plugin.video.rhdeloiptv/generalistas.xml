@@ -3,7 +3,7 @@
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7tRK6Wv.png" group-title="Channels",La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/YyTr1iJ.png" tvg-id="ext" group-title="Channels",Antena 3
 https://livestartover.atresmedia.com/antena3/bitrate_1.m3u8
