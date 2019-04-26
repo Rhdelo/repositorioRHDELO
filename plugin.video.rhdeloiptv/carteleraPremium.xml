@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
+#EXTINF:-1,~ CARTELERA ~
 
-<item>
-<title>Capitana Marvel</title>
-<urlsolve>https://verystream.com/e/B2dJr4FQdzV/c4pt41n.m4rv3l.2019.tchq.castellano.mp4</urlsolve>
-<fanart></fanart>
-</item>
+#EXTINF:-1 tvg-logo="",Capitana Marvel
+https://verystream.com/e/B2dJr4FQdzV/c4pt41n.m4rv3l.2019.tchq.castellano.mp4
