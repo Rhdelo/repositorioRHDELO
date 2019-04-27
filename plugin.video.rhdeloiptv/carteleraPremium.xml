@@ -3,9 +3,9 @@
 
 #EXTINF:-1,[COLOR gold]~ Cartelera de Estrenos ~[/COLOR]
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8P2hSS.png",Cold War (7,2) (6,1) (2019)
+#EXTINF:0 tvg-logo="https://i.imgur.com/k8P2hSS.png",Cold War (7,2) (2019)
 https://1fgm90i.oloadcdn.net/dl/l/FEj4Li-rEKyoA_bh/SaJYcTh1Lm8/c0ldw4rCAST.mp4?mime=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gakPqSH.png",Capitana Marvel (6,1) (2019)
 https://1fiagee.oloadcdn.net/dl/l/RoLvMSQf0zSZuAVI/EX3XtkNCjwo/50d60df1-6616-11e9-8d7f-850f78b5d1b7.mp4?mime=true
 
@@ -14,8 +14,9 @@ https://1fgm906.oloadcdn.net/dl/l/98YAhuIUBOQO6KIL/Se7ezfTLuNM/h0wt0tr41nCAST.mp
 
 #EXTINF:-1,[COLOR gold]~ Cartelera de Cine ~[/COLOR]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fLl1Kq.png",Bohemian Rhapsody (7,6) (2018)
+#EXTINF:0 tvg-logo="https://i.imgur.com/3fLl1Kq.png",Bohemian Rhapsody (7,6) (2018)
 https://1fiagee.oloadcdn.net/dl/l/XqM5CRgrM96TXsmC/T-t5MaAa5qg/b0h3m14nCAST.mp4?mime=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ec9nYJ.png",SPIDER-MAN: UN NUEVO UNIVERSO (7,8) (2018)
 https://oqfnww.oloadcdn.net/dl/l/5claSMMdPwG1Sr8d/gYABdVaZYAA/SSP111D3RCAST.mp4?mime=true
 
