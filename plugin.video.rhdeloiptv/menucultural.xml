@@ -2,7 +2,15 @@
 
 <item>
 <title>Cine Premium</title>
-<thumbnail>http://hemisferios.info/wp-content/uploads/2018/04/P_hUm8jr_400x400.jpg</thumbnail>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/carteleraPremium.xml</externallink>
+</item>
+
+<item>
+<title>Videoclub</title>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/sBTomba.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/carteleraPremium.xml</externallink>
