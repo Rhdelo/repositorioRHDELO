@@ -2,16 +2,16 @@
 
 <item>
 <title>Cine Premium</title>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<thumbnail>https://i.imgur.com/r6sgxVh.png</thumbnail>
+<fanart>https://i.imgur.com/J62chtc.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/carteleraPremium.xml</externallink>
 </item>
 
 <item>
 <title>Videoclub</title>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<thumbnail>https://i.imgur.com/mJ5gP6b.png</thumbnail>
+<fanart>https://i.imgur.com/hHSmFpn.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/videoclub.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>Series Premium</title>
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/videoclub.xml</externallink>
 </item>
@@ -27,7 +27,7 @@
 <item>
 <title>Dibujos</title>
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/seriesDibujos.xml</externallink>
 </item>
@@ -50,8 +50,8 @@
 
 <item>
 <title>Teatro</title>
-<thumbnail>https://i.imgur.com/ud72wLk.jpg</thumbnail>
-<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
