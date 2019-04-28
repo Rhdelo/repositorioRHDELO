@@ -17,6 +17,22 @@
 </item>
 
 <item>
+<title>Series Premium</title>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/videoclub.xml</externallink>
+</item>
+
+<item>
+<title>Dibujos</title>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/sBTomba.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/seriesDibujos.xml</externallink>
+</item>
+
+<item>
 <title>Documentales</title>
 <thumbnail>https://i.imgur.com/Z6HPjvo.png</thumbnail>
 <fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
