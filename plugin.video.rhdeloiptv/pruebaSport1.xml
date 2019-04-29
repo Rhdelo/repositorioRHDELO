@@ -2,9 +2,8 @@
 #EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
-#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",FUT
-https://018-56.sport365.tech:43911/ls/11f50c2c2b706b9a56a4605577bfca2fd578f401bf45926de123e2f603331a2b/1556558162/5cc6ad5d30b6c786087941/5cc731f14f75e/5cc731edb228b/10a7c6322ff73bcc5c9f776bb17b2d00/index.m3u
-
+#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",FUTBOL
+https://019-163.sport365.tech:43911/ls/34fb896a37f7539d3f9b1438c6a23d080afc46f71254dd69acda86bcba2bfdee/1556561162/5cc6af1ac8ef7751635404/5cc73d942ab14/5cc73d84a98e2/00204d927730299eb5cbf726a85c53f4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",After School Cartoons
 http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
