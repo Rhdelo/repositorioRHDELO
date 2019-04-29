@@ -2,10 +2,13 @@
 
 #EXTINF:-1,[COLOR gold CANALES PREMIUM [/COLOR] 
 
+#EXTINF:-1,[COLOR gold]~ DOCUMENTALES ~[/COLOR]
+
 #EXTINF:-1 tvg-logo="",ESP FOX
 blob:https://vergol.com/3d808ce0-8fe9-44d7-9391-04c1dacae3b4
 
-#EXTINF:-1,[COLOR gold]~ DOCUMENTALES ~[/COLOR]
+#EXTINF:-1 tvg-logo="",ESP FOX
+blob:https://vergol.com/3d808ce0-8fe9-44d7-9391-04c1dacae3b4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ESP CRIMEN + INVESTIGACION
 https://grifo4.mitopo.me/live/ci/index.m3u8?token=oFAgb-p-6qb1kejqrVzhTQ&expires=1556322999
