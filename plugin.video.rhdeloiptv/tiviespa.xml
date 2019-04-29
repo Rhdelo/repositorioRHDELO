@@ -2,16 +2,57 @@
 
 #EXTINF:-1,[COLOR gold] CANALES PREMIUM [/COLOR] 
 
+#EXTINF:-1,[COLOR gold]~ ENTRETENIMIENTO ~[/COLOR]
+
+#EXTINF:-1 tvg-logo="",ESP HOLLYWOOD
+https://grifo8.mitopo.me/live/hollywood/index.m3u8?token=dylQ9SGb5WYgNltM3uqMAQ&expires=1556638618
+
+#EXTINF:-1 tvg-logo="",ESP SYFY
+https://grifo5.mitopo.me/live/syfy/index.m3u8?token=WQiShyAL-8IhoMos3JM5yw&expires=1556638544
+
+#EXTINF:-1 tvg-logo="",ESP CALLE 13
+https://grifo6.mitopo.me/live/calle13/index.m3u8?token=g0y9-M56qWEyurTkjEzWgw&expires=1556638423
+
+#EXTINF:-1 tvg-logo="",ESP DARK
+https://pico13.pedromo.me/live/dark/index.m3u8?token=HJVttMFW8dvAmHmhcfGolA&expires=1556638309
+
+#EXTINF:-1 tvg-logo="",ESP AXN
+https://grifo7.mitopo.me/live/axn/index.m3u8?token=cqviewwZ0YI9ykQaXHYI6w&expires=1556638203
+
+#EXTINF:-1 tvg-logo="",ESP TCM
+https://grifo7.mitopo.me/live/tcm/index.m3u8?token=Tg5mGgxwwA_yFm86S7dPdA&expires=1556637876
+
+#EXTINF:-1 tvg-logo="",ESP TNT
+https://grifo3.mitopo.me/live/tnt/index.m3u8?token=fkqYFzMyl60aZvgJu3OPIw&expires=1556638051
+
+#EXTINF:-1 tvg-logo="",ESP AMC
+https://grifo7.mitopo.me/live/amc/index.m3u8?token=OxblFYWquwzoF9vijpodVw&expires=1556637628
+
+#EXTINF:-1 tvg-logo="",ESP FOX
+https://petopa152.caraponi.me/live/fox/index.m3u8?token=koSSjEJbM051RKHrJXgYSA&expires=1556636882
+
+#EXTINF:-1 tvg-logo="",ESP FOX LIFE
+https://grifo6.mitopo.me/live/foxlife/index.m3u8?token=w4E67ZLs6tEqR5umORJihg&expires=1556637730
+
 #EXTINF:-1,[COLOR gold]~ DOCUMENTALES ~[/COLOR]
 
-#EXTINF:-1 tvg-logo="",ESP FOX
-blob:https://vergol.com/3d808ce0-8fe9-44d7-9391-04c1dacae3b4
+#EXTINF:-1 tvg-logo="",ESP ODISEA
+https://grifo2.mitopo.me/live/odisea/index.m3u8?token=Iy89aJUgQ9S5xKQor9oqbA&expires=1556639061
 
-#EXTINF:-1 tvg-logo="",ESP FOX
-blob:https://vergol.com/3d808ce0-8fe9-44d7-9391-04c1dacae3b4
+#EXTINF:-1 tvg-logo="",ESP NATIONAL GEOGRAPHIC
+https://grifo4.mitopo.me/live/nationalgeo/index.m3u8?token=3Bk6n_oIVuBiNFN_SIjKIQ&expires=1556639162
+
+#EXTINF:-1 tvg-logo="",ESP NATIONAL GEOGRAPHIC WILD
+https://grifo3.mitopo.me/live/nationalwild/index.m3u8?token=Lkhq2i9zkAqFnm9gV7izoQ&expires=1556639284
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ESP DISCOVERY CHANNEL
+https://grifo3.mitopo.me/live/discovery/index.m3u8?token=6oOL-aDFMQpCAnKfu7QI1A&expires=1556638786
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ESP DMAX
+https://grifo6.mitopo.me/live/dmax/index.m3u8?token=qPes80qXw7OqDg69ujbojA&expires=1556638885
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ESP CRIMEN + INVESTIGACION
-https://grifo4.mitopo.me/live/ci/index.m3u8?token=oFAgb-p-6qb1kejqrVzhTQ&expires=1556322999
+https://grifo5.mitopo.me/live/ci/index.m3u8?token=KbxZR8O3ZU1540rDshGQgQ&expires=1556638967
 
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
 
