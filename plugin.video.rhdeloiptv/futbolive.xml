@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-id="" group-title="live",[COLOR red]CFR Cluj - FC Viitorul Constanta Romania - Liga 1[/COLOR] [COLOR green]20:00[/COLOR] Hebreo
+https://018-56.sport365.tech:43911/ls/2e657058f950d797651e58bb31e13b1613d716657418333b21146ca92fe64f06/1556563322/5cc6b99819e46965600321/5cc7460e6e78b/5cc7460d9f431/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",[COLOR red]CFR Cluj - FC Viitorul Constanta Romania - Liga 1[/COLOR] [COLOR green]20:00[/COLOR] Rumano
+https://013-45.sport365.tech:43911/ls/0791f0b6e627caeb62d481628e2c2fba2527617c90fe687c7673fd4eabbf7b91/1556563202/5cc6b8331285a730014318/5cc7453b79468/5cc7453ad3944/00204d927730299eb5cbf726a85c53f4/index.m3u8
 #EXTINF:0 tvg-id="" group-title="live",[COLOR red]Jong Ajax Amsterdam - FC Twente Netherlands - Eerste Divisie[/COLOR] [COLOR green]20:00[/COLOR] Alemán
 https://014-47.sport365.tech:43911/ls/f06c2f4a08a8e1571ddbbc331eb4b9edf8c520d8ee09aead742367b02edc0f65/1556562962/5cc6b38c77d56397315247/5cc744879ab96/5cc74486e1f96/00204d927730299eb5cbf726a85c53f4/index.m3u8
 #EXTINF:0 tvg-id="" group-title="live",[COLOR red]MSV Duisburg - DSC Arminia Bielefeld Fútbol / Germany - 2.Bundesliga[/COLOR] [COLOR green]20:30[/COLOR] Alemán
