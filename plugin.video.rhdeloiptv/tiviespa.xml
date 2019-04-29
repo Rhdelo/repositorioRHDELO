@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1,~ [COLOR gold CANALES PREMIUM [/COLOR] [COLOR red]E[/COLOR][COLOR gold]S[/COLOR][COLOR red]P[/COLOR] ~
+
+#EXTINF:-1,[COLOR gold]~ DOCUMENTALES ~[/COLOR]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ESP CRIMEN + INVESTIGACION
+https://grifo4.mitopo.me/live/ci/index.m3u8?token=oFAgb-p-6qb1kejqrVzhTQ&expires=1556322999
+
+#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES
+https://petopa151.caraponi.me/live/plusdeportes/index.m3u8?token=HAw5KCNfPA1d6Ko5a6aFyQ&expires=1556322571
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
+https://petopa152.caraponi.me/live/eurosport2/index.m3u8?token=JqR03fJWqu129tudK_EozQ&expires=1556322887
+
+#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR white]T[/COLOR]
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile[COLOR green] (FREE)[/COLOR]
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile [COLOR gold](PREMIUM)[/COLOR]
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+
+#EXTINF:-1,~ BOXEO ~
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lFJKg0R.png",ENG: FIGHT NETWORK | HD
+http://iptvnet-tv.ddns.net:8000/live/kodi_master/NxxtEqKYwT/3954.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ENG: FIGHT BOX | HD
+http://thenew.tv:8000/Roxy1/Roxy12/6360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",BoxNation
+https://e5.cdn4.us/ingest01/26836.m3u8?sf=TEdZWFZybW9pUA==&token=CGjYZQgzn9FT3rfpYB8OFg&expires=1556242027&rnd=26836
+#EXTINF:-1 tvg-logo="",ENG: UFC FIGHT PASS | HD*
+http://thenew.tv:8000/Roxy1/Roxy12/6918
+#EXTINF:-1 tvg-logo="",ENG: UFC FIGHT PASS | SD
+http://thenew.tv:8000/Roxy1/Roxy12/6917
+#EXTINF:-1 tvg-logo="",ENG: UFC NETWORK | SD
+http://thenew.tv:8000/Roxy1/Roxy12/6916
