@@ -9,12 +9,13 @@
 </item>
 
 <item>
-<title>YouTubers</title>
-<thumbnail>https://i.imgur.com/OPTqX4Y.png</thumbnail>
-<fanart></fanart>
+<title>Premium Service</title>
+<thumbnail>https://i.imgur.com/eRlQkIG.png</thumbnail>
+<fanart>https://i.imgur.com/VYqTIr8.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuyoutubers.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menucultural.xml</externallink>
 </item>
+
 
 <item>
 <title>RHDELO IPTV</title>

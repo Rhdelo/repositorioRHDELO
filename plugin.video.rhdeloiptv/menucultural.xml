@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>TV PREMIUM</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/tiviespa.xml</externallink>
+</item>
+
+<item>
 <title>Cine Premium</title>
 <thumbnail>https://i.imgur.com/6pD38mm.png</thumbnail>
 <fanart>https://i.imgur.com/J62chtc.png</fanart>
@@ -14,6 +22,14 @@
 <fanart>https://i.imgur.com/hHSmFpn.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/videoclub.xml</externallink>
+</item>
+
+<item>
+<title>NETFLIX</title>
+<thumbnail>https://i.imgur.com/9AUuRgh.png</thumbnail>
+<fanart>https://i.imgur.com/Ryl5aGB.png</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
 
 <item>

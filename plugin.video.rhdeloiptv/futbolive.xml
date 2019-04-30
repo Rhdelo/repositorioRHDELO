@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",	Philadelphia 76ers - Toronto Raptors (NBA)[COLOR green]02:00[/COLOR] ING
-https://015-49.sport365.tech:43911/ls/cff649fb2e1a3686b2bfff6d0e7c61cfdf801473de9a3ff0a4cc85a148645867/1556582282/5cc6af7fb1bf7400358604/5cc7900844266/5cc790023dd29/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",	St Louis Blues - Dallas Stars (NHL)[COLOR green]02:00[/COLOR] ING
+#EXTINF:0 tvg-id="" group-title="live",WTA Prague [COLOR green]11:00[/COLOR] ING
+https://018-56.sport365.tech:43911/ls/c7ba1669bace9f0e16bf4e35a391d16042dcb510e1ae848b7c8d2a8a4d5a72e0/1556626922/5cc80b36aada0319780388/5cc83e7eda51d/5cc83e7c834c9/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",Pablo Carreno Busta - Jeremy Chardy [COLOR green]14:00[/COLOR] ING
 https://013-45.sport365.tech:43911/ls/f6eca29f77e473af49afd110491eba78c36e7f8c56e3b17586c48588b80db69e/1556583482/5cc6ba71c780a726188797/5cc7946043685/5cc7945d279dd/00204d927730299eb5cbf726a85c53f4/index.m3u8
 #EXTINF:0 tvg-id="" group-title="live",nombre[COLOR green]hora[/COLOR] Idioma
-index.m3u8
