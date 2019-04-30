@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",[COLOR red]PEC Zwolle - FC Groningen Netherlands - Eredivisie[/COLOR] [COLOR green]20:00[/COLOR] Alemán
-https://018-56.sport365.tech:43911/ls/2d53481abb261c28190ef8d3ec0af214ffe7b16a483f9126f1265bcfde8e3afc/1556563562/5cc6b356c8425004151298/5cc746aae7901/5cc746aa37856/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",PEC Zwolle - FC Groningen Netherlands - Eredivisie[COLOR green]20:00[/COLOR] Alemán
-https://018-56.sport365.tech:43911/ls/2d53481abb261c28190ef8d3ec0af214ffe7b16a483f9126f1265bcfde8e3afc/1556563562/5cc6b356c8425004151298/5cc746aae7901/5cc746aa37856/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",CFR Cluj - FC Viitorul Constanta Romania - Liga 1[COLOR green]20:00[/COLOR] Hebreo
-https://018-56.sport365.tech:43911/ls/2e657058f950d797651e58bb31e13b1613d716657418333b21146ca92fe64f06/1556563322/5cc6b99819e46965600321/5cc7460e6e78b/5cc7460d9f431/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",CFR Cluj - FC Viitorul Constanta Romania - Liga 1[COLOR green]20:00[/COLOR] Rumano
-https://013-45.sport365.tech:43911/ls/0791f0b6e627caeb62d481628e2c2fba2527617c90fe687c7673fd4eabbf7b91/1556563202/5cc6b8331285a730014318/5cc7453b79468/5cc7453ad3944/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Jong Ajax Amsterdam - FC Twente Netherlands - Eerste Divisie[COLOR green]20:00[/COLOR] Alemán
-https://014-47.sport365.tech:43911/ls/f06c2f4a08a8e1571ddbbc331eb4b9edf8c520d8ee09aead742367b02edc0f65/1556562962/5cc6b38c77d56397315247/5cc744879ab96/5cc74486e1f96/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",MSV Duisburg - DSC Arminia Bielefeld Fútbol / Germany - 2.Bundesliga[COLOR green]20:15[/COLOR] Alemán
-https://018-56.sport365.tech:43911/ls/d9860aeee4302bd71706e241ab93a20e480161d808d686d3088abbbe6ea4922f/1556562122/5cc6b3a3f24e3505065275/5cc7413cdcaef/5cc7413aac46c/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Rot-Weiss Essen - SG Wattenscheid 09 Fútbol / Germany - Regionalliga West[COLOR green]20:30[/COLOR] Alemán
-https://013-45.sport365.tech:43911/ls/0a80ecca6a6c07427c00dca349c4332f973f05804452db7b065e99e5ceb93668/1556562362/5cc6b0df827fd145003679/5cc7426f94f78/5cc7426d5c443/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Fiorentina - US Sassuolo Italy - Serie A [COLOR green]21:00[/COLOR] Ingles
-https://018-56.sport365.tech:43911/ls/937c8fde8db25b72c7ab22c81a84245d616aa08fb7407006bfb0fe14f84d5591/1556564162/5cc6b26c4bedf924188395/5cc74974487a3/5cc74973299a3/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",	Real Betis - RCD Espanyol Fútbol / Spain - Primera Division[COLOR green]21:00[/COLOR] Castellano
-https://015-49.sport365.tech:43911/ls/5116b113ca9c82d91da2a1c6074f825c1d31e016512226d39445c4179db29a50/1556564402/5cc6b1a9e2eea072345474/5cc74a24508c0/5cc74a230b80e/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",	Philadelphia 76ers - Toronto Raptors [COLOR green]02:00[/COLOR] ING
+https://015-49.sport365.tech:43911/ls/cff649fb2e1a3686b2bfff6d0e7c61cfdf801473de9a3ff0a4cc85a148645867/1556582282/5cc6af7fb1bf7400358604/5cc7900844266/5cc790023dd29/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",nombre[COLOR green]hora[/COLOR] Idioma
+index.m3u8
