@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>TV PREMIUM</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>TV PREMIUM (OFFLINE)</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/tiviespa.xml</externallink>
 </item>
 
 <item>
-<title>Cine Premium</title>
+<title>Cine Premium (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/6pD38mm.png</thumbnail>
 <fanart>https://i.imgur.com/J62chtc.png</fanart>
 <link>http://ignoreme</link>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>Videoclub Premium</title>
+<title>Videoclub Premium (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/KiRFAKP.png</thumbnail>
 <fanart>https://i.imgur.com/hHSmFpn.png</fanart>
 <link>http://ignoreme</link>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>NETFLIX</title>
+<title>NETFLIX (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/9AUuRgh.png</thumbnail>
 <fanart>https://i.imgur.com/Ryl5aGB.png</fanart>
 <link>http://ignoreme</link>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>Series Premium</title>
+<title>Series Premium (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/OyMG57U.png</thumbnail>
 <fanart>https://i.imgur.com/swpqQjF.png</fanart>
 <link>http://ignoreme</link>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>Documentales</title>
+<title>Documentales (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/Z6HPjvo.png</thumbnail>
 <fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
 <link>http://ignoreme</link>
@@ -65,11 +65,9 @@
 </item>
 
 <item>
-<title>Marvel</title>
+<title>Marvel (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/AQ9YIAB.png</thumbnail>
 <fanart>https://i.imgur.com/g4r57T2.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
-

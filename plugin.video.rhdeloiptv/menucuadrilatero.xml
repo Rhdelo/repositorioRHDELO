@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>TV</title>
+<title>TV (CANALES OUT)</title>
 <thumbnail>https://i.imgur.com/oOgKqGY.png</thumbnail>
 <fanart>https://i.imgur.com/8E1lZf4.png</fanart>
 <link>http://ignoreme</link>
@@ -17,9 +17,9 @@
 </item>
 
 <item>
-<title>UFC</title>
+<title>UFC (CERRADO)</title>
 <thumbnail>https://i.imgur.com/oOgKqGY.png</thumbnail>
 <fanart>https://i.imgur.com/8E1lZf4.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ufcmenu.xml</externallink>
+<externallink></externallink>
 </item>
