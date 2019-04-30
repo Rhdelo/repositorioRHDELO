@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Futbol Live</title>
+<title>Sport Live</title>
 <thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/futbolive.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/livesport.xml</externallink>
 </item>
 
 <item>
-<title>Live 2</title>
+<title>Sport Live 2</title>
 <thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/pruebaSport1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/livesport2.xml</externallink>
 </item>
 
 <item>
-<title>Live 3</title>
+<title>Sport 3</title>
 <thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/pruebaSport2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/fspor.xml</externallink>
 </item>
 
 <item>
-<title>TV PREMIUM</title>
-<thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
+<title>TV Sports (CERRADO)</title>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/tiviespa.xml</externallink>
+<externallink></externallink>
 </item>
 
 <item>
-<title>Live 5</title>
+<title>Agenda (CERRADO)</title>
 <thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/pruebaSport4.xml</externallink>
+<externallink></externallink>
+</item>
+
+<item>
+<title>Sport 3</title>
+<thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/fspor.xml</externallink>
 </item>
