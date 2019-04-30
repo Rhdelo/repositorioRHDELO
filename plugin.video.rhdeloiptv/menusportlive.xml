@@ -5,5 +5,37 @@
 <thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/directosport.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/livesport.xml</externallink>
+</item>
+
+<item>
+<title>Sport Live 2</title>
+<thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/livesport2.xml</externallink>
+</item>
+
+<item>
+<title>Sport 3</title>
+<thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/fspor.xml</externallink>
+</item>
+
+<item>
+<title>TV Sports (CERRADO)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>Agenda (CERRADO)</title>
+<thumbnail>https://i.imgur.com/89GzY3D.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
 </item>
