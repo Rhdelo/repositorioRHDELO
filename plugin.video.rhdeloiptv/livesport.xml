@@ -1,20 +1,2 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",WTA Prague [COLOR green]11:00[/COLOR] ING
-https://018-56.sport365.tech:43911/ls/8a29cd9ee6899fcc559223eed054ee91dd4b57f91996c88126b75096c48c0106/1556628842/5cc80b36aada0319780388/5cc845e3ef62f/5cc845e24213c/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Belarus - Hungary Hockey / World - World Championship Division 1A [COLOR green]15:30[/COLOR] HUN
-https://019-163.sport365.tech:43911/ls/a27d122ab12c7e8889a908b59d7d76a1445b0cf6798b5e0133365dbc58a1816d/1556631962/5cc81183f0cf6324193450/5cc85222dfde7/5cc8522075761/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Hapoel Tel Aviv U19 - Hapoel Beer Sheva U19 Fútbol / Israel - U19 Youth Cup [COLOR green]15:30[/COLOR] HEBREO
-https://018-56.sport365.tech:43911/ls/b7fde8c268da330bee62d830ab3b100dee2124b5fba6964d38c6b8563335a5d7/1556631242/5cc8143587cd3151291387/5cc84f7782e36/5cc84f764aeef/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",World Championship Snooker  [COLOR green]15:30[/COLOR] ING
-https://014-47.sport365.tech:43911/ls/1ca7124d275f0f3188cf3d0c366a3ad5ae26c10c995a79c9e935273470b36b6a/1556631482/5cc80d6ca1860566818681/5cc8505d34791/5cc8505ba5e81/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",SV Viktoria 01 Aschaffenburg - TSV 1860 Munich Fútbol / Germany - Regional Cup [COLOR green]18:30[/COLOR] ALE
-https://013-45.sport365.tech:43911/ls/754e0d621f7ef7817a3c3594d679c7bfa152910982168ecc115f0d3ad7626e47/1556641922/5cc80ee79dd72946240383/5cc878d980856/5cc878d50be6d/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Montpellier HSC - Paris Saint-Germain FC - Ligue 1 [COLOR green]19:00[/COLOR] ING
-https://019-163.sport365.tech:43911/ls/9a4d4891e8a6484da075c60e8d535273768fb61f9b4af33916ad0bbcf793cc97/1556645162/5cc8148d8f030339876613/5cc885c5e6bd6/5cc885c40eecc/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",World Championship Snooker  [COLOR green]19:30[/COLOR] ING
-https://014-47.sport365.tech:43911/ls/951578d0a9eaec453ddb03c4c108e198438e0cd29b19bf529802ee08fbd8dcc0/1556644922/5cc80d7e5fa21148155303/5cc884a855174/5cc884a6a7b54/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Tottenham Hotspur FC - Ajax Amsterdam - Semifinal Champions League[COLOR green]21:00[/COLOR] ESP
-https://018-56.sport365.tech:43911/ls/ac76cb761a20edd839763547342f433f297ac096a29fd6bfa5653290bdfa06a9/1556652602/5cc80f5fa9a7f536523557/5cc8a26036361/5cc8a25e18636/00204d927730299eb5cbf726a85c53f4/index.m3u8
-https://018-56.sport365.tech:43911/ls/8fbd77e5d847a314b06f65712899513e73f4e06252fa77077622a2b5e1e0e1b2/1556651042/5cc80f5fa9a7f536523557/5cc89c3db9236/5cc89c3c28557/00204d927730299eb5cbf726a85c53f4/index.m3u8
-https://018-56.sport365.tech:43911/ls/2e1869f5b80b46ca6a35dc633024fda22d9e49e4a3a4f8767929d1588f7b64c8/1556652842/5cc80bb817627798685941/5cc8a33c8c489/5cc8a338999dc/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Club Atletico Cerro - UTC Cajamarca Fútbol / South America - Copa Sudamericana[COLOR green]00:15[/COLOR] ING
+#EXTINF:0 tvg-id="" group-title="live",[COLOR green][/COLOR] ING
