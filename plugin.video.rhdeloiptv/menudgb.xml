@@ -13,8 +13,8 @@
 <thumbnail>https://i.imgur.com/TfBmIOn.png</thumbnail>
 <fanart>https://i.imgur.com/lRGdKCi.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
-</item>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/dgbz.xml</externallink>
+</item>dgbz
 
 <item>
 <title>Dragon Ball GT</title>
@@ -26,6 +26,14 @@
 
 <item>
 <title>Dragon Ball Super</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>Peliculas Dragon Ball</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
