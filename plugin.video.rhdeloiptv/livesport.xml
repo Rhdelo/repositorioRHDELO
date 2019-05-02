@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",FC Spartak Trnava - MSK Zilina - Fútbol / Slovakia - Slovak Cup[COLOR green]18:00[/COLOR][COLOR gold] SLO[/COLOR]
-https://015-49.sport365.tech:43911/ls/a0b040a847a3cf5379491025d5776d8533d1f978540129e1c8625195cccd1b1b/1556726162/5cc97bb02f8c4689571390/5cc9c1e4194eb/5cc9c1da8cf2e/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",	Arsenal FC - Valencia CF [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
+https://018-56.sport365.tech:43911/ls/b35c3866a1dab2e0bc03a662c2c355f12480f6de248b4f20f6892175c412d669/1556826962/5ccab56d05af1487461704/5ccb4bd7dc2a3/5ccb4bd73dbe9/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",Eintracht Frankfurt - Chelsea FC [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
+https://015-49.sport365.tech:43911/ls/75df8ce10246b5bb31b744b53bce53614a2d72c9716c6faf341226b7dbbb2486/1556826722/5ccab589bccdd628476614/5ccb4adf539f6/5ccb4adeafd3f/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",UCAM Murcia - Real Madrid [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
+https://019-163.sport365.tech:43911/ls/6416cc293571eeef56398937c34bd9cfd1ce67d221930394be4740e37d228452/1556826842/5ccab5d6b1514929337494/5ccb4b6e87d61/5ccb4b6dbf2c5/00204d927730299eb5cbf726a85c53f4/index.m3u8
