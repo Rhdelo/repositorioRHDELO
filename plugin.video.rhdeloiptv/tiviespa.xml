@@ -61,12 +61,16 @@ https://petopa151.caraponi.me/live/plusdeportes/index.m3u8?token=HAw5KCNfPA1d6Ko
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
 https://petopa152.caraponi.me/live/eurosport2/index.m3u8?token=JqR03fJWqu129tudK_EozQ&expires=1556322887
 
-#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR white]T[/COLOR]
+#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
 
+#EXTINF:0,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile[COLOR green] (FREE)[/COLOR]
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile [COLOR gold](PREMIUM)[/COLOR]
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Fight Time 
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 
 #EXTINF:-1,~ BOXEO ~

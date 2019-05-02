@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Kalikenyo Rock</title>
-<thumbnail>https://i.imgur.com/cmnUjzh.png</thumbnail>
-<fanart>https://i.imgur.com/zJcnl06.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/kalike%C3%B1o.xml</externallink>
-</item>
-
-<item>
-<title>Tomorrowland</title>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/zJcnl06.png</fanart>
-<link></link>
-<externallink></externallink>
-</item>
-
-<item>
 <title>Lord Of The Lost</title>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/zJcnl06.png</fanart>
@@ -25,9 +9,49 @@
 </item>
 
 <item>
-<title></title>
+<title>Mono INC.</title>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/zJcnl06.png</fanart>
+<link></link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/mono.xml</externallink>
+</item>
+
+<item>
+<title>Megaherz</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/Unan.xml</externallink>
+</item>
+
+<item>
+<title>Unantastbar</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/Unan.xml</externallink>
+</item>
+
+<item>
+<title>Frei Wild</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/frei.xml</externallink>
+</item>
+
+<item>
+<title>Festivales</title>
+<thumbnail>https://i.imgur.com/cmnUjzh.png</thumbnail>
+<fanart>https://i.imgur.com/zJcnl06.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menufesti.xml</externallink>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link></link>
 <externallink></externallink>
 </item>
