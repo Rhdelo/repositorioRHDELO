@@ -57,7 +57,9 @@ https://grifo5.mitopo.me/live/ci/index.m3u8?token=KbxZR8O3ZU1540rDshGQgQ&expires
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA
-https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=0B7m0eAK-Wzp_vg-oNIobQ&expires=1556843790&rnd=46718
+https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=Ogb32WFgFuewi0zmj1HxKQ&expires=1556845110&rnd=46718/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA 2
+https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=Ogb32WFgFuewi0zmj1HxKQ&expires=1556845110&rnd=46718/index.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES
 http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802329&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
