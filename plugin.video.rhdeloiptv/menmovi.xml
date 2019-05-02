@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Movistar TV</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menutvm.xml</externallink>
+</item>
+
+<item>
+<title>Movistar Cine</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/movipel.xml</externallink>
+</item>
+
+<item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>

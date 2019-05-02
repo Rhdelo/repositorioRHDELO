@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>Lista</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista.xml</externallink>
+</item>
+
+<item>
+<title>Lista 2</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista2.xml</externallink>
+</item>
+
+<item>
+<title>Lista 3</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista3.xml</externallink>
+</item>
+
+<item>
+<title>Lista 4</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista4.xml</externallink>
+</item>
+
+<item>
+<title>Lista Definitiva [COLOR red]Off[/COLOR]</title>
+<thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
+<fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/tiviespa.xml</externallink>
+</item>
