@@ -57,7 +57,9 @@ https://grifo5.mitopo.me/live/ci/index.m3u8?token=KbxZR8O3ZU1540rDshGQgQ&expires
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones
-https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=8Xh07cwVja0HPkKC8_eJWA&expires=1556842005&rnd=46718
+https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=vx-iBI6SFwMfW_63JHpLNA&expires=1556843080&rnd=46718/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA
+https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=vx-iBI6SFwMfW_63JHpLNA&expires=1556843080&rnd=46718
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES
 https://petopa151.caraponi.me/live/plusdeportes/index.m3u8?token=HAw5KCNfPA1d6Ko5a6aFyQ&expires=1556322571
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
