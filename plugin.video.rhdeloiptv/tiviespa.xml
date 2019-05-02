@@ -61,9 +61,9 @@ https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=vx-iBI6SFwMfW_
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA
 https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=vx-iBI6SFwMfW_63JHpLNA&expires=1556843080&rnd=46718
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES
-https://petopa151.caraponi.me/live/plusdeportes/index.m3u8?token=HAw5KCNfPA1d6Ko5a6aFyQ&expires=1556322571
+http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802329&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
-https://petopa152.caraponi.me/live/eurosport2/index.m3u8?token=JqR03fJWqu129tudK_EozQ&expires=1556322887
+http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802328&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
 
