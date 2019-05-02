@@ -62,15 +62,15 @@ https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=Ogb32WFgFuewi0
 https://e5.cdn4.us/ingest010/46718.m3u8?sf=enNJelFyZDA3OQ==&token=Ogb32WFgFuewi0zmj1HxKQ&expires=1556845110&rnd=46718/index.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES
 http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802329&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
-http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802328&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
-https://petopa151.caraponi.me/live/golf/index.m3u8?token=cXL_8OZP-yvFksi8Fcy5qw&expires=1556923497
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES beta
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP MOVISTAR DEPORTES beta 2
+
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
 
 #EXTINF:0,Wow TV
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN
-https://e3.cdn4.us/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=5xPrkzITuTkxcL0MEc2F_w&expires=1556844669&rnd=37688
+https://telerium.tv/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=Aw6NwXrFPNmYwEmsALnc8Q&expires=1556839552&rnd=37688
 #EXTINF:0,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile[COLOR green] (FREE)[/COLOR]
