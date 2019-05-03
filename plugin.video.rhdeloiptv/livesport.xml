@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",FC Yenisey Krasnoyarsk - Anzhi Makhachkala - Liga Premier Rusia [COLOR green]13:00[/COLOR][COLOR gold] RUS[/COLOR]
+#EXTINF:0 tvg-id="https://i.imgur.com/8kuwGtO.png" group-title="live",FC Yenisey Krasnoyarsk - Anzhi Makhachkala - Liga Premier Rusia [COLOR green]13:00[/COLOR][COLOR gold] RUS[/COLOR]
 https://019-163.sport365.tech:43911/ls/d815349ab0f416db7ce7b213958adbc35df606cea47bf47e646e753fea08e13d/1556881322/5ccc0c11123f7146585109/5ccc204a69b2d/5ccc2049734ea/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Rubin Kazan - FK Orenburg - Liga Premier Rusia [COLOR green]15:30[/COLOR][COLOR gold] RUS[/COLOR]
+#EXTINF:0 tvg-id="https://i.imgur.com/8kuwGtO.png" group-title="live",Rubin Kazan - FK Orenburg - Liga Premier Rusia [COLOR green]15:30[/COLOR][COLOR gold] RUS[/COLOR]
 #EXTINF:0 tvg-id="" group-title="live",Hungary - Slovenia - Hockey / World - World Championship Division 1A [COLOR green]15:30[/COLOR][COLOR gold] CHE[/COLOR]
 #EXTINF:0 tvg-id="" group-title="live",Tour de Romandie 2019 [COLOR green]16:00[/COLOR][COLOR gold] ING[/COLOR]
 #EXTINF:0 tvg-id="" group-title="live",BC UNICS Kazan - BC Kalev/Cramo Basketball / Europe - VTB United League [COLOR green]17:30[/COLOR][COLOR gold] RUS[/COLOR]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>PROMO CHANNEL</title>
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/8kuwGtO.png</thumbnail>
+<fanart>https://i.imgur.com/hRVCltU.jpg</fanart>
+</item>
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/8kuwGtO.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail>https://i.imgur.com/8kuwGtO.png</thumbnail>
+<fanart>https://i.imgur.com/hRVCltU.jpg</fanart>
+</item>
+
+<item>
+<title>Top Goles Jornada 26</title>
+<urlsolve>https://www.youtube.com/watch?v=s00azEtEroE</urlsolve>
+<thumbnail>https://i.imgur.com/8kuwGtO.png</thumbnail>
+<fanart>https://i.imgur.com/hRVCltU.jpg</fanart>
+</item>
+
+<item>
+<title>LIVE</title>
+<thumbnail>https://i.imgur.com/8kuwGtO.png</thumbnail>
+<fanart>https://i.imgur.com/hRVCltU.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/liverus.xml</externallink>
+</item>
