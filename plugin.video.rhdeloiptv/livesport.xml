@@ -1,5 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",	Toronto Raptors - Philadelphia 76ers [COLOR green][/COLOR][COLOR gold]ING[/COLOR]
-https://019-163.sport365.tech:43911/ls/8ceade962c5aba0f19b53017d882e67f206bdd699c59e869f4adaa4e16e62eaa/1556842202/5ccaacd8e4d7b259869403/5ccb8741da78f/5ccb873f38b89/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",	Toronto Raptors - Philadelphia 76ers HD[COLOR green][/COLOR][COLOR gold]RUS[/COLOR]
-https://018-56.sport365.tech:43911/ls/4f794a033fc1560fce999e44ed9e2575bd9206899c982ee3f877c81b8670ee8e/1556842442/5ccab459b838e925160581/5ccb8869d1da5/5ccb8868c2523/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",FC Yenisey Krasnoyarsk - Anzhi Makhachkala - Liga Premier Rusia [COLOR green]13:00[/COLOR][COLOR gold] RUS[/COLOR]
+https://019-163.sport365.tech:43911/ls/d815349ab0f416db7ce7b213958adbc35df606cea47bf47e646e753fea08e13d/1556881322/5ccc0c11123f7146585109/5ccc204a69b2d/5ccc2049734ea/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",Rubin Kazan - FK Orenburg - Liga Premier Rusia [COLOR green]15:30[/COLOR][COLOR gold] RUS[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",Hungary - Slovenia - Hockey / World - World Championship Division 1A [COLOR green]15:30[/COLOR][COLOR gold] CHE[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",Tour de Romandie 2019 [COLOR green]16:00[/COLOR][COLOR gold] ING[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",BC UNICS Kazan - BC Kalev/Cramo Basketball / Europe - VTB United League [COLOR green]17:30[/COLOR][COLOR gold] RUS[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",Wisla Plock - Arka Gdynia Soccer / Poland - Ekstraklasa [COLOR green]18:00[/COLOR][COLOR gold] POL[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",FC Fastav Zlin - SK Sigma Olomouc Soccer / Czech Republic - First League [COLOR green]18:00[/COLOR][COLOR gold] CHE[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",Dynamo Dresden - FC St. Pauli Soccer / Germany - 2.Bundesliga [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",DSC Arminia Bielefeld - SC Paderborn 07 / Germany - 2.Bundesliga [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",	Virtus Bologna - Brose Baskets Bamberg Basketball / Europe - FIBA Champions League [COLOR green]18:30[/COLOR][COLOR gold]RUS[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",Sivasspor - Istanbul Basaksehir Soccer / Turkey - Super Lig [COLOR green]19:30[/COLOR][COLOR gold] TUR[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",CS Gaz Metan Medias - FC Hermannstadt Sibiu Soccer / Romania - Liga 1 [COLOR green]20:00[/COLOR][COLOR gold]RUM[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",FC Den Bosch - Go Ahead Eagles Deventer Soccer / Netherlands - Eerste Divisie[COLOR green]20:00[/COLOR][COLOR gold] ALE[/COLOR]
+#EXTINF:0 tvg-id="" group-title="live",FC Twente - SC Cambuur Leeuwarden Soccer / Netherlands - Eerste Divisie [COLOR green]20:00[/COLOR][COLOR gold] ALE[/COLOR]
