@@ -67,7 +67,7 @@ http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
 http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3u8?nimblesessionid=1802328&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMTkgMTA6MzE6MzMgUE0maGFzaF92YWx1ZT16eVF6cFNPZHVNOU9sR3RGcmxSbkR3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
-https://petopa151.caraponi.me/live/eurosport2/30975.ts
+https://petopa151.caraponi.me/live/eurosport2/index.m3u8?token=EYqh_opWro-ywjpThFMhhg&expires=1556979475
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
 
 #EXTINF:0,Wow TV
