@@ -1,15 +1,6 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="" group-title="live",FC Fastav Zlin - SK Sigma Olomouc Soccer / Czech Republic - First League [COLOR green]18:00[/COLOR][COLOR gold] CHE[/COLOR]
-https://013-45.sport365.tech:43911/ls/3f352d05a0b0f2f74a2429f985cf14ead7725757cdea33944464845cc7f2d96f/1556902322/5ccc15c322bad149663562/5ccc726c690f8/5ccc726b6cc85/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Dynamo Dresden - FC St. Pauli Soccer / Germany - 2.Bundesliga [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
-https://018-56.sport365.tech:43911/ls/40edf520e575d1a9720908941df62075848f19e913260e531114842c11464e10/1556902083/5ccc0ded298ff261356434/5ccc7112469ff/5ccc711173353/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",DSC Arminia Bielefeld - SC Paderborn 07 / Germany - 2.Bundesliga [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
-https://018-56.sport365.tech:43911/ls/c299dbdebf07ce26e05a99e54ccaee9defc9b74bb55b28a006b57cd08fc4ff12/1556902322/5ccc0df9124ca331476640/5ccc722c0b6da/5ccc722ae4897/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",	Virtus Bologna - Brose Baskets Bamberg Basketball / Europe - FIBA Champions League [COLOR green]18:30[/COLOR][COLOR gold]RUS[/COLOR]
-https://018-56.sport365.tech:43911/ls/4ebdd3c650bb59f925a9a2dc77a1812cf8a6181428b1d8a338676e6a4df71c77/1556903522/5ccc0c605c98d277957723/5ccc770002e70/5ccc76ff031b6/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Sivasspor - Istanbul Basaksehir Soccer / Turkey - Super Lig [COLOR green]19:30[/COLOR][COLOR gold] TUR[/COLOR]
-https://019-163.sport365.tech:43911/ls/c25689deff77077fd299d92bd45d5aeeda75974a8cd14a2222725a754b6aefe7/1556905442/5ccc1d61f161d148245773/5ccc7e5939814/5ccc7e57ecd78/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",CS Gaz Metan Medias - FC Hermannstadt Sibiu Soccer / Romania - Liga 1 [COLOR green]20:00[/COLOR][COLOR gold]RUM[/COLOR]
-#EXTINF:0 tvg-id="" group-title="live",FC Den Bosch - Go Ahead Eagles Deventer Soccer / Netherlands - Eerste Divisie[COLOR green]20:00[/COLOR][COLOR gold] ALE[/COLOR]
-#EXTINF:0 tvg-id="" group-title="live",FC Twente - SC Cambuur Leeuwarden Soccer / Netherlands - Eerste Divisie [COLOR green]20:00[/COLOR][COLOR gold] ALE[/COLOR]
+https://e1.cdn4.us/ingest09/25502.m3u8?sf=MlNwczEwU2JE&token=51F8uxO_gEkV2A4OWPLNAA&expires=1556914868&rnd=25502
+#EXTINF:0 tvg-id="" group-title="live",FC Fastav Zlin - SK Sigma Olomouc Soccer / Czech Republic - First League [COLOR green]18:00[/COLOR][COLOR gold] CHE[/COLOR]
+https://e1.cdn4.us/ingest09/25502.m3u8?sf=MlNwczEwU2JE&token=51F8uxO_gEkV2A4OWPLNAA&expires=1556914868&rnd=25502/index.m3u8
