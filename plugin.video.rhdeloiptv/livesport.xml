@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" group-title="live",	Arsenal FC - Valencia CF [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
-https://018-56.sport365.tech:43911/ls/b35c3866a1dab2e0bc03a662c2c355f12480f6de248b4f20f6892175c412d669/1556826962/5ccab56d05af1487461704/5ccb4bd7dc2a3/5ccb4bd73dbe9/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",Eintracht Frankfurt - Chelsea FC [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
-https://015-49.sport365.tech:43911/ls/75df8ce10246b5bb31b744b53bce53614a2d72c9716c6faf341226b7dbbb2486/1556826722/5ccab589bccdd628476614/5ccb4adf539f6/5ccb4adeafd3f/00204d927730299eb5cbf726a85c53f4/index.m3u8
-#EXTINF:0 tvg-id="" group-title="live",UCAM Murcia - Real Madrid [COLOR green]21:00[/COLOR][COLOR gold] ESP[/COLOR]
-https://019-163.sport365.tech:43911/ls/6416cc293571eeef56398937c34bd9cfd1ce67d221930394be4740e37d228452/1556826842/5ccab5d6b1514929337494/5ccb4b6e87d61/5ccb4b6dbf2c5/00204d927730299eb5cbf726a85c53f4/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",	Toronto Raptors - Philadelphia 76ers [COLOR green][/COLOR][COLOR gold]ING[/COLOR]
+https://019-163.sport365.tech:43911/ls/8ceade962c5aba0f19b53017d882e67f206bdd699c59e869f4adaa4e16e62eaa/1556842202/5ccaacd8e4d7b259869403/5ccb8741da78f/5ccb873f38b89/00204d927730299eb5cbf726a85c53f4/index.m3u8
