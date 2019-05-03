@@ -1,6 +1,14 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" group-title="live",FC Fastav Zlin - SK Sigma Olomouc Soccer / Czech Republic - First League [COLOR green]18:00[/COLOR][COLOR gold] CHE[/COLOR]
-https://e1.cdn4.us/ingest09/25502.m3u8?sf=MlNwczEwU2JE&token=51F8uxO_gEkV2A4OWPLNAA&expires=1556914868&rnd=25502
-#EXTINF:0 tvg-id="" group-title="live",FC Fastav Zlin - SK Sigma Olomouc Soccer / Czech Republic - First League [COLOR green]18:00[/COLOR][COLOR gold] CHE[/COLOR]
-https://e1.cdn4.us/ingest09/25502.m3u8?sf=MlNwczEwU2JE&token=51F8uxO_gEkV2A4OWPLNAA&expires=1556914868&rnd=25502/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",FUTBOL-Juventus - Torino / Serie A [COLOR green]20:30[/COLOR][COLOR gold] ESP[/COLOR]
+https://019-163.sport365.tech:43911/ls/160383865fc7e644cebbfb6005a8db6491065fc8b3a8fe39c82bed3920baa0f1/1556908322/5ccc13a0005d8598123296/5ccc899e5e775/5ccc899a5affa/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",FUTBOL-FSV Mainz 05 - RB Leipzig - Bundesliga [COLOR green]20:30[/COLOR][COLOR gold] ING[/COLOR]
+https://018-56.sport365.tech:43911/ls/c50ea0cdf7f18e07a9cc9986331146506d8dec84032a2c96c1c5b7f6a5513d52/1556908442/5ccc1dc560873176106580/5ccc8a184b4fc/5ccc8a16b3adc/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",FUTBOL-KRC Genk - Royal Antwerp FC - Jupiter Pro League [COLOR green]20:30[/COLOR][COLOR gold] ALE[/COLOR]
+https://015-49.sport365.tech:43911/ls/40a48f755d2a97736921f816e25dd54a3ec7a1b131d24af618f14dcf700d9ec1/1556908562/5ccc14d9028c3987919584/5ccc8a82ae374/5ccc8a820da73/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",RUGBY-Castleford Tigers - Warrington Wolves - Super Liga Inglaterra [COLOR green]20:45[/COLOR][COLOR gold] ING[/COLOR]
+https://019-163.sport365.tech:43911/ls/1dc0b1e1d76708a88a73ac3400de28ba7a10854e173091e7a53d1204dad9c547/1556908562/5ccc0a3d0dbf0433844525/5ccc8ada455b9/5ccc8ad6d67e0/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",RUGBY-Harlequins Rugby - Leicester Tigers [COLOR green]20:45[/COLOR][COLOR gold] ING[/COLOR]
+https://018-56.sport365.tech:43911/ls/0c0fcc0f5dcfcfe4f13ed567794b37add1956eaa7494b96549f0a82cf26cd8b6/1556908922/5ccc03f9a6dd4857120793/5ccc8bd2d66e3/5ccc8bd1bd1f4/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-id="" group-title="live",FUTBOL-RC Strasbourg Alsace - Olympique de Marseille [COLOR green]20:45[/COLOR][COLOR gold] FRA[/COLOR]
+https://018-56.sport365.tech:43911/ls/08aeb2bbfda2736deb0f38e97f380f75bffad10b0588c71eae3e16e5af79f956/1556908922/5ccc145969281563363854/5ccc8c5aa79a6/5ccc8c59cc3a5/400a6d58e2982b22fc7292084a06c181/index.m3u8
