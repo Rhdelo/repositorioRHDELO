@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" tvg-id="" group-title="live",LIGUE 1|Paris Saint-Germain FC - OGC Nice  [COLOR gold] ESP[/COLOR]
 https://013-45.sport365.tech:43911/ls/148002a51d8ca314c4b8b9eab4300d6ff1cc6e9f37a0174d276bc8600e1fca6e/1556981882/5ccd5a4564059670566247/5ccda8f94ca46/5ccda8f8031e6/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",Bundesliga|SV Werder Bremen - Borussia Dortmund [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
+https://013-45.sport365.tech:43911/ls/8af626d48a1d079ff707533fc12fdc12a4eeff82d5c6fbc7fa754e805daa9d88/1556980442/5ccd5b8aa6408736342302/5ccda3a1ea650/5ccda3a14268e/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/R65Wphn.png" tvg-id="" group-title="live",LIGA ENDESA|Valencia Basket - CB Breogan SAD[COLOR gold] 18:00[/COLOR][COLOR gold] ESP[/COLOR]
 https://015-49.sport365.tech:43911/ls/be806caabb14c2df73587678fe4ec866c61de9f2fea4000dbaa42499992f4514/1556985722/5ccd5b0b6107b578302375/5ccdb7fd15ff2/5ccdb7fc2bcee/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/R65Wphn.png" tvg-id="" group-title="live",LIGA ENDESA|CB Miraflores - Real Madrid[COLOR gold] 20:30[/COLOR][COLOR gold] ESP[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" tvg-id="" tvg-logo="https://i.imgur.com/VLfiu3G.png"group-title="live",FUTBOL|Cardiff City FC - Crystal Palace FC - Premier League[COLOR green]18:30[/COLOR][COLOR gold] ING[/COLOR]
+https://018-56.sport365.tech:43911/ls/e99cc56984d975cfdf51bfe6d0b06ec9ed46a12a772560917470b38e6ed0f683/1556988602/5ccd5a1b9b97e199755392/5ccdc31036e9e/5ccdc30a65f96/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" tvg-id="" tvg-logo="https://i.imgur.com/VLfiu3G.png"group-title="live",FUTBOL|Newcastle United - Liverpool FC - Premier League[COLOR green]18:30[/COLOR][COLOR gold] ING[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|Deportivo Alaves - Real Sociedad [COLOR green]18:30[/COLOR][COLOR gold] ESP[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|Celta de Vigo - FC Barcelona [COLOR green]20:30[/COLOR][COLOR gold] ESP[/COLOR]
@@ -13,5 +16,3 @@ https://014-47.sport365.tech:43911/ls/eff40a05b9b1e726b513d620c634bdde77c9e7678a
 #EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|Gimnastic de Tarragona - Extremadura UD [COLOR green]18:00[/COLOR][COLOR gold] ESP[/COLOR]
 https://013-45.sport365.tech:43911/ls/84c22dbee5ca4da821e473eaeaa230726bd8433db15271197a053e3a359b186f/1556985483/5ccd5bcc2a803683605263/5ccdb6f3ca035/5ccdb6f13b2e8/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|CD Tenerife - UD Las Palmas [COLOR green]20:30[/COLOR][COLOR gold] ESP[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",Bundesliga|SV Werder Bremen - Borussia Dortmund [COLOR green]18:30[/COLOR][COLOR gold] ALE[/COLOR]
-https://013-45.sport365.tech:43911/ls/8af626d48a1d079ff707533fc12fdc12a4eeff82d5c6fbc7fa754e805daa9d88/1556980442/5ccd5b8aa6408736342302/5ccda3a1ea650/5ccda3a14268e/400a6d58e2982b22fc7292084a06c181/index.m3u8
