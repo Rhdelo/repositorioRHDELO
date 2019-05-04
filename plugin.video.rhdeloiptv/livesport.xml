@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" tvg-id="" group-title="live",MOTO GP|Gran Premio de España [COLOR gold] ING[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" tvg-id="" group-title="live",LIGUE 1|Paris Saint-Germain FC - OGC Nice  [COLOR gold] ING[/COLOR]
+https://013-45.sport365.tech:43911/ls/148002a51d8ca314c4b8b9eab4300d6ff1cc6e9f37a0174d276bc8600e1fca6e/1556981882/5ccd5a4564059670566247/5ccda8f94ca46/5ccda8f8031e6/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" tvg-id="" tvg-logo="https://i.imgur.com/VLfiu3G.png"group-title="live",FUTBOL|West Ham United - Southampton FC - Premier League[COLOR green]16:00[/COLOR][COLOR gold] ESP[/COLOR]
 https://018-56.sport365.tech:43911/ls/0882f1c7f3ba0f6cb13de0fde3f3208a71d90de3ebdd4d49257784f616e81a2f/1556978162/5ccd5a146b8af151930267/5ccd9a8c7e603/5ccd9a8bd2fed/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" tvg-id="" tvg-logo="https://i.imgur.com/VLfiu3G.png"group-title="live",FUTBOL|Wolverhampton Wanderers - Fulham FC - Premier League[COLOR green]16:00[/COLOR][COLOR gold] ING[/COLOR]
