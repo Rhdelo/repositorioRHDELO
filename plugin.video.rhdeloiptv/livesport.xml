@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
-https://019-163.sport365.tech:43911/ls/72ef23ec3348e6ace633301d952e66b5546e877de04b2c7be65ada8ab72de016/1557073562/5ccec09c64503911240506/5ccf0ebc22386/5ccf0eb21ad42/400a6d58e2982b22fc7292084a06c181/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/nENs5ai.png" group-title="live",SUPERLIG|Galatasaray SK - Besiktas [COLOR green]18:00[/COLOR][COLOR gold] TUR[/COLOR]
-https://019-163.sport365.tech:43911/ls/72ef23ec3348e6ace633301d952e66b5546e877de04b2c7be65ada8ab72de016/1557073562/5ccec09c64503911240506/5ccf0ebc22386/5ccf0eb21ad42/400a6d58e2982b22fc7292084a06c181/index.m3u8
+https://014-47.sport365.tech:43911/ls/5d01bcf1083ff0163524540fb362ad8d1e6c6c8c55eec63462b2a5bce82e5f01/1557077042/5cceb2b2c6445728538944/5ccf1c63585b0/5ccf1c61d61f5/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
@@ -17,5 +16,6 @@ https://019-163.sport365.tech:43911/ls/72ef23ec3348e6ace633301d952e66b5546e877de
 #EXTINF:0 tvg-logo="https://i.imgur.com/AibPM9W.png" group-title="live",LIGAT HA'AL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/byULbpd.png" group-title="live",BEKO BBL||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/SuozHSj.png" group-title="live",NHL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/SU3VJFq.png" group-title="live",CHAMPIONS LEAGUE HANDBALL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
