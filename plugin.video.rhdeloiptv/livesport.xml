@@ -1,9 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-j5QGCQNJ59B44AhONbqVLCgAZc7FQkb_ks9YfPVp9LQeQU8q8f79-b-HY12cj-E2-T9N-9eOg60hOJBu6sLb2PEZYfITxGjJmEEo9CKcs2DxF_ihf7VG29brqHttGl_eZN4slFWNFcDga1BbuCVk1NDG5g9CKirFIB5EjVIimT8UwIF6mRCMcfL4E04m1rjj5RnRNHQ-UdRhXfZ7zKfoU06RF3dQKkYWGo04h6OdC8Rzw3ZepRjMTzs0fB3OiakH6r5QWfIvDdg/5883786ba2fe8/8e3d953be2831e48c75921e5cdd0a585bf679d8d8a4953532bb855c15a509848/master-playlist.m3u8?from=other&vsid=f17c3b5dd89b590a7e10517d996479fd3b7cd50dbae96b8446c30caaba9b88f6
-#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]18:30[/COLOR][COLOR gold] IDIOMA[/COLOR]
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-j5QGCQNJ59B44AhONbqVLCgAZc7FQkb_ks9YfPVp9LQeQU8q8f79-b-HY12cj-E2-T9N-9eOg60hOJBu6sLb2PEZYfITxGjJmEEo9CKcs2DxF_ihf7VG29brqHttGl_eZN4slFWNFcDga1BbuCVk1NDG5g9CKirFIB5EjVIimT8UwIF6mRCMcfL4E04m1rjj5RnRNHQ-UdRhXfZ7zKfoU06RF3dQKkYWGo04h6OdC8Rzw3ZepRjMTzs0fB3OiakH6r5QWfIvDdg/5883786ba2fe8/8e3d953be2831e48c75921e5cdd0a585bf679d8d8a4953532bb855c15a509848/master-playlist.m3u8?from=other&vsid=f17c3b5dd89b590a7e10517d996479fd3b7cd50dbae96b8446c30caaba9b88f6/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]18:30[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|Multi-Ligue 1[COLOR green]15:00[/COLOR][COLOR gold] FRA[/COLOR]
+https://014-47.sport365.tech:43911/ls/10f7cfcff477b47ed447fa18bab839f7a6596b692cb8f37accc2f03771d20346/1557062762/5cceb1c592fe4994478691/5ccee4fda3b10/5ccee4fc1dd63/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|Huddersfield Town - Manchester United [COLOR green]15:00[/COLOR][COLOR gold] ING[/COLOR]
+https://018-56.sport365.tech:43911/ls/fb534d9dd7e7dd9a246152a070132de0cf360cec3e5c0e8cd394b3d29d207c62/1557062403/5ccea8869e549880416129/5ccee364b9ff2/5ccee3621c336/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|Chelsea vs Watford[COLOR green] 15:00[/COLOR][COLOR gold] ESP[/COLOR]
+https://018-56.sport365.tech:43911/ls/021f7235ce40f16431e6db8b49420c1e1515974b9eff0bdb3be32bc0d5648642/1557061322/5ccea99a9999f392426436/5ccedf24668ce/5ccedf1ea5413/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/JcZwHC3.png" group-title="live",VTB LEAGUE||[COLOR gold] 15:00[/COLOR][COLOR gold] RUS[/COLOR]
+https://014-47.sport365.tech:43911/ls/e4a1b138bc8d06bb8e56b347c7c0e0fc6ac0ebfb49dd4e46242adb6e467dafcc/1557061562/5ccea45d4d586250317276/5ccee0226ce70/5ccee021694cc/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",MOTO GP|[COLOR green]14:00[/COLOR][COLOR gold] ESP[/COLOR]
+https://e4.cdn4.us/ingest01/43722.m3u8?sf=bjE0VjBZWnhweQ==&token=Xuc0LY1h62Li8qc2yl26mg&expires=1557069125&rnd=43722
+#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",BUNDESLIGA|[COLOR green]HORS[/COLOR][COLOR gold] IDIOMA[/COLOR]
@@ -11,5 +18,5 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-j5QGCQNJ59B44AhONbqVLCgAZc7FQkb
 #EXTINF:0 tvg-logo="https://i.imgur.com/R65Wphn.png" group-title="live",LIGA ENDESA|[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/JcZwHC3.png" group-title="live",VTB LEAGUE||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/byULbpd.png" group-title="live",BEKO BBL||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/hVT7kWX.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
