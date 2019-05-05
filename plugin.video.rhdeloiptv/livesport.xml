@@ -5,10 +5,7 @@ https://014-47.sport365.tech:43911/ls/10f7cfcff477b47ed447fa18bab839f7a6596b692c
 https://018-56.sport365.tech:43911/ls/fb534d9dd7e7dd9a246152a070132de0cf360cec3e5c0e8cd394b3d29d207c62/1557062403/5ccea8869e549880416129/5ccee364b9ff2/5ccee3621c336/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|Chelsea vs Watford[COLOR green] 15:00[/COLOR][COLOR gold] ESP[/COLOR]
 https://018-56.sport365.tech:43911/ls/021f7235ce40f16431e6db8b49420c1e1515974b9eff0bdb3be32bc0d5648642/1557061322/5ccea99a9999f392426436/5ccedf24668ce/5ccedf1ea5413/400a6d58e2982b22fc7292084a06c181/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JcZwHC3.png" group-title="live",VTB LEAGUE||[COLOR gold] 15:00[/COLOR][COLOR gold] RUS[/COLOR]
-https://014-47.sport365.tech:43911/ls/e4a1b138bc8d06bb8e56b347c7c0e0fc6ac0ebfb49dd4e46242adb6e467dafcc/1557061562/5ccea45d4d586250317276/5ccee0226ce70/5ccee021694cc/400a6d58e2982b22fc7292084a06c181/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",MOTO GP|[COLOR green]14:00[/COLOR][COLOR gold] ESP[/COLOR]
-https://e4.cdn4.us/ingest01/43722.m3u8?sf=bjE0VjBZWnhweQ==&token=Xuc0LY1h62Li8qc2yl26mg&expires=1557069125&rnd=43722
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
