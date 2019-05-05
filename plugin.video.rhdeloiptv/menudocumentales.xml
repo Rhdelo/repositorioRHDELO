@@ -15,3 +15,11 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuDocusEspacio.xml</externallink>
 </item>
+
+<item>
+<title>Documentales de Historia</title>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuHistoria.xml</externallink>
+</item>
