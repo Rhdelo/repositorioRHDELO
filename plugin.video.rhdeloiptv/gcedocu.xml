@@ -1,6 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="",Episodio 1
-https://dplayit.akamaized.net/EHD_149360B_DPLAY_SPAIN/0/hls/EHD_149360B_DPLAY_SPAIN-2_00008.ts
+https://dplayit.akamaized.net/EHD_149360B_DPLAY_SPAIN/0/hls/EHD_149360B_DPLAY_SPAIN-2.m3u8
 #EXTINF:-1 tvg-logo="",Episodio 2
 https://dplayit.akamaized.net/EHD_149360B_DPLAY_SPAIN/0/hls/EHD_149360B_DPLAY_SPAIN-4.m3u8
+#EXTINF:-1 tvg-logo="",Episodio 3
+https://dplayit.akamaized.net/EHD_149358B_DPLAY_SPAIN/0/hls/EHD_149358B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="",Episodio 4
+https://dplayit.akamaized.net/EHD_149359B_DPLAY_SPAIN/0/hls/EHD_149359B_DPLAY_SPAIN-4.m3u8
