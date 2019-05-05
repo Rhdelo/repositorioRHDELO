@@ -4,8 +4,8 @@
 
 #EXTINF:-1,[COLOR gold]~ ENTRETENIMIENTO ~[/COLOR]
 
-#EXTINF:-1 tvg-logo="",ESP BETA
-https://telerium.tv/ingest010/48839.m3u8?sf=czEyZjY0eXJzTQ==&token=22wqtAIp3ABtC43gfboA7w&expires=1557082273&rnd=48839
+#EXTINF:-1 tvg-logo="",ESP BETA 1
+https://e4.cdn4.us/ingest010/48602.m3u8?sf=R1hXRzFXNlFvMw==&token=3fktm3VWtxp_3fqQbCh1_A&expires=1557095388&rnd=48602
 #EXTINF:-1 tvg-logo="",ESP SYFY
 https://grifo5.mitopo.me/live/syfy/index.m3u8?token=WQiShyAL-8IhoMos3JM5yw&expires=1556638544
 
