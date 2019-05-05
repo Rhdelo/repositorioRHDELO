@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|Leon Bunn - Leon Harth [COLOR green]22:00[/COLOR][COLOR gold] ALE[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|Artur Beterbiev - Radivoje Kalajdzic[COLOR green]02:00[/COLOR][COLOR gold] ING[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]18:30[/COLOR][COLOR gold] ING[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]18:30[/COLOR][COLOR gold] ESP[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|[COLOR green]18:00[/COLOR][COLOR gold] ESP[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",Bundesliga|[COLOR green]18:30[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+https://strm.yandex.ru/log/?vsid=fcce6d2dde0a4337d81673519ec398c161977c6a840ad76a9eb9cfd79122631b&event_id=20SecWatched&player_version=1.0-573&currentTime=4.264323&src=https%3A%2F%2Fstreaming.disk.yandex.net%2Fhls%2FU2FsdGVkX191Mj5Qk00UkwzNrWlldnaZAqUVT5JGPSCD2ooDnh3DZb9v3dZ00lbd1ES14JH4tuTN3nNBE9s-PnJWHu1Kignf53-IC4kS_UpE_fAi5GAtQLpxkwV3WLg_yKvwroihU5RQnQOTWY5CNxraTinudD36Z2f7Uy2aCLKm0tEN2WcmGkSOsqaY7s_UD2DJO_83w7S9MXQU0aL63oqdUCpVd7yt3yHKJYlnbgtR3Yo1GIZmVhkZs54uS5wn8RLsTdb1dA12DYYCrbOiiQ%2F58837483211c8%2F4efda91ec6ba298479ef4348162957d331a6dfa50738fbcfd3554121012311c8%2Fmaster-playlist.m3u8&service=StreamPlayer&isFullscreen=false
+#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]18:30[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]18:30[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",BUNDESLIGA|[COLOR green]HORS[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/WPYsNyN.png" group-title="live",BUNDESLIGA 2|[COLOR green]HORS[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/R65Wphn.png" group-title="live",LIGA ENDESA|[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/hVT7kWX.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]Artur Beterbiev - Radivoje Kalajdzic
-#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|Macy Chiasson - Sarah Moras [COLOR green]00:00[/COLOR][COLOR gold] ING[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/JcZwHC3.png" group-title="live",VTB LEAGUE||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/hVT7kWX.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
