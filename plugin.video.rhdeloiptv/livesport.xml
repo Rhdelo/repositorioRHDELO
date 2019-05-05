@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/nENs5ai.png" group-title="live",SUPERLIG|Galatasaray SK - Besiktas [COLOR green]18:00[/COLOR][COLOR gold] TUR[/COLOR]
-https://013-45.sport365.tech:43911/ls/f0da9ddc2656ba9c4013d4f9303a45c741ad1da6c95e41fdd438e8ed071bf6e9/1557077882/5ccebdabf320d045221187/5ccf1fd2d88fc/5ccf1fd1e8851/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]

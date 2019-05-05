@@ -4,8 +4,8 @@
 
 #EXTINF:-1,[COLOR gold]~ ENTRETENIMIENTO ~[/COLOR]
 
-#EXTINF:-1 tvg-logo="",ESP HOLLYWOOD
-https://grifo8.mitopo.me/live/hollywood/index.m3u8?token=dylQ9SGb5WYgNltM3uqMAQ&expires=1556638618
+#EXTINF:-1 tvg-logo="",ESP BETA
+https://e2.cdn4.us/ingest010/48839.m3u8?sf=czEyZjY0eXJzTQ==&token=zm-G-0Ikf74pjY3GKQV0sg&expires=1557087936&rnd=48839
 
 #EXTINF:-1 tvg-logo="",ESP SYFY
 https://grifo5.mitopo.me/live/syfy/index.m3u8?token=WQiShyAL-8IhoMos3JM5yw&expires=1556638544
