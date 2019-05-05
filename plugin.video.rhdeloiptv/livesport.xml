@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|Multi-Ligue 1[COLOR green]15:00[/COLOR][COLOR gold] FRA[/COLOR]
-https://013-45.sport365.tech:43911/ls/c0576a3eaf23bb24d112bafae9338a15fe348aeaf7dcdcf10e73a8ddcce692ec/1557064202/5cceb1bb6bf3d686969666/5cceea4bc1112/5cceea4893f55/400a6d58e2982b22fc7292084a06c181/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|Huddersfield Town - Manchester United [COLOR green]15:00[/COLOR][COLOR gold] ING[/COLOR]
-https://018-56.sport365.tech:43911/ls/57547271cd7520069172dae5a7a7819dcfafaf2eb71bdc860ec6be02a6e84bb9/1557064082/5ccea8869e549880416129/5ccee9d08a526/5ccee9ceb575b/400a6d58e2982b22fc7292084a06c181/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|Chelsea vs Watford[COLOR green] 15:00[/COLOR][COLOR gold] ESP[/COLOR]
-https://018-56.sport365.tech:43911/ls/021f7235ce40f16431e6db8b49420c1e1515974b9eff0bdb3be32bc0d5648642/1557061322/5ccea99a9999f392426436/5ccedf24668ce/5ccedf1ea5413/400a6d58e2982b22fc7292084a06c181/index.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
+https://019-163.sport365.tech:43911/ls/72ef23ec3348e6ace633301d952e66b5546e877de04b2c7be65ada8ab72de016/1557073562/5ccec09c64503911240506/5ccf0ebc22386/5ccf0eb21ad42/400a6d58e2982b22fc7292084a06c181/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nENs5ai.png" group-title="live",SUPERLIG|Galatasaray SK - Besiktas [COLOR green]18:00[/COLOR][COLOR gold] TUR[/COLOR]
+https://019-163.sport365.tech:43911/ls/72ef23ec3348e6ace633301d952e66b5546e877de04b2c7be65ada8ab72de016/1557073562/5ccec09c64503911240506/5ccf0ebc22386/5ccf0eb21ad42/400a6d58e2982b22fc7292084a06c181/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",PREMIER LEAGUE|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/VLfiu3G.png" group-title="live",BUNDESLIGA|[COLOR green]HORS[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/WPYsNyN.png" group-title="live",BUNDESLIGA 2|[COLOR green]HORS[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/nENs5ai.png" group-title="live",SUPERLIG|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/E6z398e.png" group-title="live",LIGA I|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/oKZ69NO.png" group-title="live",COPA KNVB|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/R65Wphn.png" group-title="live",LIGA ENDESA|[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/JcZwHC3.png" group-title="live",VTB LEAGUE||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/AibPM9W.png" group-title="live",LIGAT HA'AL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/byULbpd.png" group-title="live",BEKO BBL||[COLOR gold] HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/DOlo3Pt.png" group-title="live",BOXEO|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
-#EXTINF:0 tvg-logo="https://i.imgur.com/oOgKqGY.png" group-title="live",UFC|[COLOR green]HORA[/COLOR][COLOR gold] ING[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/SuozHSj.png" group-title="live",NHL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
+#EXTINF:0 tvg-logo="https://i.imgur.com/SU3VJFq.png" group-title="live",CHAMPIONS LEAGUE HANDBALL|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
