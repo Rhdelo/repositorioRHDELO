@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvnI6Zk.png",Tormenta en ciernes
+https://dplayit.akamaized.net/EHD_887444D_DPLAY_SPAIN/0/hls/EHD_887444D_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvnI6Zk.png",Guerra relámpago
+https://dplayit.akamaized.net/EHD_887432D_DPLAY_SPAIN/0/hls/EHD_887432D_DPLAY_SPAIN-3.m3u8

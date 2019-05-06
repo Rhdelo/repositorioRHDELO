@@ -1,3 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",Episodio 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzZzgV6.png",El pecado original
+https://dplayit.akamaized.net/EHD_937927C_DPLAY_SPAIN/0/hls/EHD_937927C_DPLAY_SPAIN-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzZzgV6.png",Purgatorio
+https://dplayit.akamaized.net/EHD_937925C_DPLAY_SPAIN/0/hls/EHD_937925C_DPLAY_SPAIN-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzZzgV6.png",La batalla de las naciones
+https://dplayit.akamaized.net/EHD_937926C_DPLAY_SPAIN/0/hls/EHD_937926C_DPLAY_SPAIN-3.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tld9nkK.png",Episodio 1
+https://dplayit.akamaized.net/EHD_160870B_DPLAY_SPAIN/0/hls/EHD_160870B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tld9nkK.png",Episodio 2
+https://dplayit.akamaized.net/EHD_160871B_DPLAY_SPAIN/0/hls/EHD_160871B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tld9nkK.png",Episodio 3
+https://dplayit.akamaized.net/EHD_160872B_DPLAY_SPAIN/0/hls/EHD_160872B_DPLAY_SPAIN-3.m3u8

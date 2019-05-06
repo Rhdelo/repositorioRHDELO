@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Espana Dividida: La Guerra Civil en Color</title>
+<title>España Dividida: La Guerra Civil en Color</title>
 <thumbnail>https://i.imgur.com/KuBgzIe.png</thumbnail>
 <fanart>https://i.imgur.com/9pzflZv.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/gcedocu.xml</externallink>
+</item>
+
+<item>
+<title>Espana Dividida: La Mirada de los Historiadores</title>
+<thumbnail>https://i.imgur.com/KuBgzIe.png</thumbnail>
+<fanart>https://i.imgur.com/XmaM6Nr.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/doclamdlh.xml</externallink>
 </item>
