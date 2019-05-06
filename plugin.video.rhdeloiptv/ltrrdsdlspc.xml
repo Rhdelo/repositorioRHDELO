@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",Episodio 1
+https://dplaysouth-vod.akamaized.net/dplaydni/67334/0/hls/8088081001/exp=1557269147~acl=%2f*~data=hdntl~hmac=b77d75a79f43f33637f90bb5850456b70b07d39443064d6c0e083502a96eda6f/421640832-739435694-prog_index.m3u8
+#EXTINF:-1 tvg-logo="",Episodio 2
+https://dplaysouth-vod.akamaized.net/dplaydni/67277/0/hls/8085827001/exp=1557269292~acl=%2f*~data=hdntl~hmac=6e4d2457b9ddd1d61737900a9884e272f3a20572786422b360278cd9c1251632/226977524-739435694-prog_index.m3u8
