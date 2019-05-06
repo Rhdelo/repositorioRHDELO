@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>La Tierra desde el espacio</title>
+<thumbnail>https://i.imgur.com/sBv8U7L.png</thumbnail>
+<fanart>https://i.imgur.com/Tld9nkK.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ltrrdsdlspc.xml</externallink>
+</item>
+
+<item>
 <title>La formacion de la Tierra</title>
 <urlsolve>https://www.youtube.com/watch?v=h59WRlxJHrU</urlsolve>
 <thumbnail></thumbnail>
