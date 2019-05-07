@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBv8U7L.png",Episodio 1
-https://dplaysouth-vod.akamaized.net/dplaydni/67334/0/hls/8088081001/exp=1557276356~acl=%2f*~data=hdntl~hmac=ef9688f819b8b7850fdc4a781571ee0b5bd960d52cc5a52a513047c2397f3985/421640832-739435694-prog_index.m3u8?hdntl=exp=1557276356~acl=/*~data=hdntl~hmac=ef9688f819b8b7850fdc4a781571ee0b5bd960d52cc5a52a513047c2397f3985&version_hash=09948588&mux_audio
+https://dplaysouth-vod.akamaized.net/dplaydni/67334/0/hls/8088081001/exp=1557319706~acl=%2f*~data=hdntl~hmac=8bcbcdf06cb18904234859204016bd62cd2360a7143809507fd620974f01bf1d/1945405282-739435694-prog_index.m3u8?hdntl=exp=1557319706~acl=/*~data=hdntl~hmac=8bcbcdf06cb18904234859204016bd62cd2360a7143809507fd620974f01bf1d&version_hash=09948588&mux_audio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sBv8U7L.png",Episodio 2
 https://dplaysouth-vod.akamaized.net/dplaydni/67277/0/hls/8085827001/exp=1557276407~acl=%2f*~data=hdntl~hmac=6d7345ba8af4127c4c338a9cbd2d7f58f27b7dc816f9a3c16dfb148bbd5dc45a/1963483211-739435694-prog_index.m3u8?hdntl=exp=1557276407~acl=/*~data=hdntl~hmac=6d7345ba8af4127c4c338a9cbd2d7f58f27b7dc816f9a3c16dfb148bbd5dc45a&version_hash=ed382364&mux_audio
