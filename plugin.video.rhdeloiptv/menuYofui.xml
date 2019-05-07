@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+#EXTM3U
 
-<item>
-<title>Yo fui un Asesino: El Asesino de la Katana</title>
-<thumbnail>https://i.imgur.com/EDQU1Ph.png</thumbnail>
-<fanart>https://i.imgur.com/jO916Yo.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/soi.xml</externallink>
-</item>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDQU1Ph.png",Episodio 1
+https://dplayit.akamaized.net/EHD_193311B_DPLAY_SPAIN/0/hls/EHD_193311B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDQU1Ph.png",Episodio 2
+https://dplayit.akamaized.net/EHD_193312B_DPLAY_SPAIN/0/hls/EHD_193312B_DPLAY_SPAIN-3.m3u8
