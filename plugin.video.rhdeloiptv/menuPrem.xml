@@ -17,6 +17,22 @@
 </item>
 
 <item>
+<title>Videoclub Premium (OFF)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/</externallink>
+</item>
+
+<item>
+<title>Netflix</title>
+<thumbnail>https://i.imgur.com/9AUuRgh.png</thumbnail>
+<fanart>https://i.imgur.com/Ryl5aGB.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menunet.xml</externallink>
+</item>
+menunet.xml
+<item>
 <title>Series Premium (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/OyMG57U.png</thumbnail>
 <fanart>https://i.imgur.com/swpqQjF.png</fanart>
