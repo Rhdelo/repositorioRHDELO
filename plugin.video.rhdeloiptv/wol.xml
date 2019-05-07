@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",
+https://dplaysouth-vod.akamaized.net/dplaydni/26395/0/hls/932797001/exp=1557275760~acl=%2f*~data=hdntl~hmac=45e2f134b87301105edf8b40120f9a55dedd48f424f83e9ec7429e03c3b75529/723612906-1402891446-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",

@@ -23,3 +23,11 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuHistoria.xml</externallink>
 </item>
+
+<item>
+<title>Documentales de Crimenes</title>
+<thumbnail>https://i.imgur.com/WavHcAn.png</thumbnail>
+<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menucrimen.xml</externallink>
+</item>
