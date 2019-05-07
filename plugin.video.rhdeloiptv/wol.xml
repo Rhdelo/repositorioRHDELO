@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 1
-https://dplaysouth-vod.akamaized.net/dplaydni/26395/0/hls/932797001/exp=1557318538~acl=%2f*~data=hdntl~hmac=58b909aebda56bab6b56eed83f54a7dc5eccbac0cbdd0eebd1f9f2fd8a7a38ab/723612906-1402891446-prog_index.m3u8
+blob:https://es.dplay.com/f65a95d8-2d3e-415d-9c27-060c9040d200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 2
 https://dplaysouth-vod.akamaized.net/dplaydni/26405/0/hls/932808001/exp=1557275895~acl=%2f*~data=hdntl~hmac=95cb1d7f289ca968f5ea741920941a6ad62beea6a4b30ec93d97b11b4de14f6a/148359844-1402891446-prog_index.m3u8?hdntl=exp=1557275895~acl=/*~data=hdntl~hmac=95cb1d7f289ca968f5ea741920941a6ad62beea6a4b30ec93d97b11b4de14f6a&version_hash=3e770e60&mux_audio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 3
