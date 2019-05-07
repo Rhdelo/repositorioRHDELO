@@ -4,8 +4,8 @@
 
 #EXTINF:-1,[COLOR gold]~ ENTRETENIMIENTO ~[/COLOR]
 
-#EXTINF:-1 tvg-logo="",ESP BETA 1
-https://e4.cdn4.us/ingest010/48602.m3u8?sf=R1hXRzFXNlFvMw==&token=3fktm3VWtxp_3fqQbCh1_A&expires=1557095388&rnd=48602
+#EXTINF:-1 tvg-logo="",ESP #VAMOS
+https%3A%24doregex%5BGetPageUrl%5D%7CUser-Agent%3DMozilla%2F5.0+%28Android+7.0%3B+Tablet%3B+rv%3A58.0.2%29+Gecko%2F58.0.2+Firefox%2F58.0.2&mode=17&regexs=%7Bu%27GetPageUrl%27%3A%20%7B%27x-req%27%3A%20u%27XMLHttpRequest%27%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27GetPageUrl%27%2C%20%27accept%27%3A%20u%27%2A/%2A%27%2C%20%27connection%27%3A%20u%27keep-alive%27%2C%20%27expres%27%3A%20u%22source%3A%20%27%28.%2A%3F%29%27%22%2C%20%27referer%27%3A%20u%27http%3A//vergol.com/%27%2C%20%27page%27%3A%20u%27https%3A//vergol.com/bgjhykdmbtj668/live/plusestrenos.php%27%2C%20%27rawpost%27%3A%20u%27manzana66%3D12345%27%7D%7D&iconimage=https%3A%2F%2Fcdn.sincroguia.tv%2Fuploads%2Fimages%2Fm%2Fo%2Fv%2Fxmovistar-estrenos.jpg.pagespeed.ic.74wj3NiLk-.jpg
 #EXTINF:-1 tvg-logo="",ESP SYFY
 https://grifo5.mitopo.me/live/syfy/index.m3u8?token=WQiShyAL-8IhoMos3JM5yw&expires=1556638544
 
