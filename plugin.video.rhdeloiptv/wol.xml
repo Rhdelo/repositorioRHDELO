@@ -1,6 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 1
-https://dplaysouth-vod.akamaized.net/dplaydni/26395/0/hls/932797001/exp=1557275760~acl=%2f*~data=hdntl~hmac=45e2f134b87301105edf8b40120f9a55dedd48f424f83e9ec7429e03c3b75529/723612906-1402891446-prog_index.m3u8?hdntl=exp=1557275760~acl=/*~data=hdntl~hmac=45e2f134b87301105edf8b40120f9a55dedd48f424f83e9ec7429e03c3b75529&version_hash=0d70731d&mux_audio
+https://dplaysouth-vod.akamaized.net/dplaydni/67334/0/hls/8088081001/exp=1557278239~acl=%2f*~data=hdntl~hmac=92dae24476b39f925874538ec0188df340a167953ec3494c73616fd683cd88b6/421640832-739435694-prog_index.m3u8?hdntl=exp=1557278239~acl=/*~data=hdntl~hmac=92dae24476b39f925874538ec0188df340a167953ec3494c73616fd683cd88b6&version_hash=09948588&mux_audio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 2
 https://dplaysouth-vod.akamaized.net/dplaydni/26405/0/hls/932808001/exp=1557275895~acl=%2f*~data=hdntl~hmac=95cb1d7f289ca968f5ea741920941a6ad62beea6a4b30ec93d97b11b4de14f6a/148359844-1402891446-prog_index.m3u8?hdntl=exp=1557275895~acl=/*~data=hdntl~hmac=95cb1d7f289ca968f5ea741920941a6ad62beea6a4b30ec93d97b11b4de14f6a&version_hash=3e770e60&mux_audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlZ6y2c.png",Episodio 5
