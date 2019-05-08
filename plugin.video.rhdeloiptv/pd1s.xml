@@ -1,3 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",Episodio 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos enfurecidos
+https://dplayit.akamaized.net/EHD_959764D_DPLAY_SPAIN/0/hls/EHD_959764D_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Manipuladores
+https://dplayit.akamaized.net/EHD_959765B_DPLAY_SPAIN/0/hls/EHD_959765B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos controladores
+https://dplayit.akamaized.net/EHD_959766B_DPLAY_SPAIN/0/hls/EHD_959766B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos impasibles
+https://dplayit.akamaized.net/EHD_959767D_DPLAY_SPAIN/0/hls/EHD_959767D_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Pervertidos sexuales
+https://dplayit.akamaized.net/EHD_959768B_DPLAY_SPAIN/0/hls/EHD_959768B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos fantasiosos
+https://dplayit.akamaized.net/EHD_959769B_DPLAY_SPAIN/0/hls/EHD_959769B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos impostores
+https://dplayit.akamaized.net/EHD_959770B_DPLAY_SPAIN/0/hls/EHD_959770B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Asesinos egocéntricos
+https://dplayit.akamaized.net/EHD_959771B_DPLAY_SPAIN/0/hls/EHD_959771B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Buscadores de atención
+https://dplayit.akamaized.net/EHD_959772B_DPLAY_SPAIN/0/hls/EHD_959772B_DPLAY_SPAIN-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mU9D6LG.png",Depredadores
+https://dplayit.akamaized.net/EHD_959773B_DPLAY_SPAIN/0/hls/EHD_959773B_DPLAY_SPAIN-3.m3u8
