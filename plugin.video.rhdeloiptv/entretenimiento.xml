@@ -6,7 +6,7 @@ https://livestartover.atresmedia.com/geoneox/bitrate_1.m3u8
 https://livestartover.atresmedia.com/geonova/bitrate_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/K0pQSpw.png" tvg-id="ext" group-title="Channels",Mega
-https://livestartover.atresmedia.com/mega/bitrate_1.m3u8
+https://livestartover.atresmedia.com/geomega/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/7bysnuv.png" tvg-id="ext" group-title="Channels",AtresSeries
 https://livestartover.atresmedia.com/geoa3series/bitrate_1.m3u8
