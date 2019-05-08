@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="",Episodio 1 
 https://dplaysouth-vod.akamaized.net/dplaydni/54295/0/hls/4215745001/exp=1557364587~acl=%2f*~data=hdntl~hmac=0a2f3fb060d1092c23f477afac18841261361e0597c7f049c9c28ec4d4c2444e/1055996652-739435694-prog_index.m3u8
 #EXTINF:0 tvg-logo="",Episodio 2 
-
+https://dplaysouth-vod.akamaized.net/dplaydni/61897/0/hls/6744080001/exp=1557364793~acl=%2f*~data=hdntl~hmac=332f1ed395ee6e107e5a78abbfc4a7874f17aa640ac331223fb1ca6acd61901e/2089009040-739435694-prog_index.m3u8?hdntl=exp=1557364793~acl=/*~data=hdntl~hmac=332f1ed395ee6e107e5a78abbfc4a7874f17aa640ac331223fb1ca6acd61901e&version_hash=5dcad313&mux_audio
 #EXTINF:0 tvg-logo="",Episodio 3 
 
 #EXTINF:0 tvg-logo="",Episodio 1 
