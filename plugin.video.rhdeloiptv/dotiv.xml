@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>Canales de TV Docus</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentales.xml</externallink>
+</item>
+
 <item>
 <title>El Universo 24h</title>
 <urlsolve>https://www.youtube.com/watch?v=Gamg6G-cAek</urlsolve>
