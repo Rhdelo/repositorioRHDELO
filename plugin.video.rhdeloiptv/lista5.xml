@@ -1,63 +1,125 @@
-#EXTM3U
-#EXTINF:-1,Es- #0
-http://194.88.107.101:6204/jabar5/jabar5/10021
-#EXTINF:-1,Es- 24 HORAS
-http://194.88.107.101:6204/jabar5/jabar5/10020
-#EXTINF:-1,Es- A&E
-http://194.88.107.101:6204/jabar5/jabar5/10019
-#EXTINF:-1,Es- AMC
-http://194.88.107.101:6204/jabar5/jabar5/10018
-#EXTINF:-1,Es- ANTENA 3
-http://194.88.107.101:6204/jabar5/jabar5/10017
-#EXTINF:-1,Es- AXN
-http://194.88.107.101:6204/jabar5/jabar5/10016
-#EXTINF:-1,Es- AXN WHITE
-http://194.88.107.101:6204/jabar5/jabar5/10015
-#EXTINF:-1,Es- DISCOVERY
-http://194.88.107.101:6204/jabar5/jabar5/10000
-#EXTINF:-1,Es- DISNEY CHANNEL HD
-http://194.88.107.101:6204/jabar5/jabar5/9999
-#EXTINF:-1,Es- DISNEY JR
-http://194.88.107.101:6204/jabar5/jabar5/9998
-#EXTINF:-1,Es- DISNEY XD
-http://194.88.107.101:6204/jabar5/jabar5/9997
-#EXTINF:-1,Es- DIVINITY
-http://194.88.107.101:6204/jabar5/jabar5/9996
-#EXTINF:-1,Es- ENERGY
-http://194.88.107.101:6204/jabar5/jabar5/9995
-#EXTINF:-1,Es- FOX
-http://194.88.107.101:6204/jabar5/jabar5/9992
-#EXTINF:-1,Es- FOX LIFE
-http://194.88.107.101:6204/jabar5/jabar5/9991
-#EXTINF:-1,Es- HISTORIA
-http://194.88.107.101:6204/jabar5/jabar5/9989
-#EXTINF:-1,Es- LA 1
-http://194.88.107.101:6204/jabar5/jabar5/9986
-#EXTINF:-1,Es- LA 2
-http://194.88.107.101:6204/jabar5/jabar5/9985
-#EXTINF:-1,Es- LA SXTA
-http://194.88.107.101:6204/jabar5/jabar5/9984
-#EXTINF:-1,Es- NAT GEO WILD
-http://194.88.107.101:6204/jabar5/jabar5/9967
-#EXTINF:-1,Es- NATIONAL GEOGRAPHIC
-http://194.88.107.101:6204/jabar5/jabar5/9966
-#EXTINF:-1,Es- NEOX
-http://194.88.107.101:6204/jabar5/jabar5/9965
-#EXTINF:-1,Es- NICKELODEON
-http://194.88.107.101:6204/jabar5/jabar5/9964
-#EXTINF:-1,Es- NOVA
-http://194.88.107.101:6204/jabar5/jabar5/9962
-#EXTINF:-1,Es- PARAMOUNT
-http://194.88.107.101:6204/jabar5/jabar5/9961
-#EXTINF:-1,Es- SUNDANCE
-http://194.88.107.101:6204/jabar5/jabar5/9959
-#EXTINF:-1,Es- SYFY
-http://194.88.107.101:6204/jabar5/jabar5/9958
-#EXTINF:-1,Es- TCM
-http://194.88.107.101:6204/jabar5/jabar5/9957
-#EXTINF:-1,Es- TELECINCO
-http://194.88.107.101:6204/jabar5/jabar5/9956
-#EXTINF:-1,Es- TELEDEPORTE
-http://194.88.107.101:6204/jabar5/jabar5/9955
-#EXTINF:-1,Es- TNT
-http://194.88.107.101:6204/jabar5/jabar5/9954
+EXTM3U
+#EXTINF:-1 tvg-logo="https://pm1.narvii.com/6603/09671decbc3f7de471032605f1578e9ceaa0d67b_hq.jpg" group-title="INFANTIL",Cartoon Network mexico OPC2
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="INFANTIL", Tiin
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
+#EXTINF:-1 tvg-ID="Disney XD Latin America (Central/Multi Country)" tvg-name="Disney XD" tvg-logo="http://158.69.127.19/oscuros/disneyxd.png"group-title="INFANTIL",Disney XD  
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Peques Tv
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png" group-title="INFANTIL",Boing   
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="INFANTIL", Nick Toons
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/800px-Tooncast_logo.svg.png" group-title="INFANTIL",Tooncast
+http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL", Disney XD
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="INFANTIL", Cachipum RETRO
+http://54.39.49.10:25461/GermanEduardoGallegos/Fra0vr4keR/3
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="INFANTIL", Disney Channel
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/18.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="INFANTIL", Disney Channel HD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Disney_XD_HD.png" group-title="INFANTIL", Disney XD HD
+http://aleiptv.mine.nu:8000/aaron/1234/1063
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL", NICK
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/73.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL", NICK HD
+http://aleiptv.mine.nu:8000/aaron/1234/466
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/U5N6sYdbHxYxfzVLIDXdE1JreHxutSBGTQI75a-XGux76pbTvPokqgr18JKS-QTt6A=w330-h160" group-title="INFANTIL", MOOLT TV
+http://aleiptv.mine.nu:8000/aaron/1234/11393
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36Jrkli0sV7rh5i-HD90QK4jVmFhEKU4RRsnve2jYU9wqysnx" group-title="INFANTIL",NATGEO KIDS 
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/118.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/954453727448006656/XcE65Oh2.jpg"group-title="INFANTIL",DISCOVERY KIDS
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/130.m3u8
+#EXTINF:-1 tvg-ID="babytv.mx" tvg-name="Baby tv" tvg-logo="http://158.69.127.19/oscuros/babytv.png" group-title="INFANTIL",Baby tv
+http://listaccess.me:8880/live/vivian/vivian/2336.ts
+#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/C/7/E/B/9/2/2C5.png" group-title="INFANTIL",Anime TV
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PANDA" tvg-logo="" group-title="INFANTIL",PANDA
+http://54.39.49.10:25461/live/GermanEduardoGallegos/Fra0vr4keR/207.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiLefq7.jpg" group-title="INFANTIL", NICK JR
+http://aleiptv.mine.nu:8000/1234561/1234561/239
+#EXTINF:-1 tvg-ID="Disney Junior (North Feed)" tvg-name="Disney Junior" tvg-logo="http://158.69.127.19/oscuros/disneyjunior.png" group-title="INFANTIL",Disney Junior
+http://aleiptv.mine.nu:8000/1234561/1234561/6872
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_YkZZPo1aKZU/SS6frURpuUI/AAAAAAAAG4o/lZeeGklUxVY/s400/discovery96.gif"group-title="CULTURA", DISCOVERY CHANNEL mexico
+http://aleiptv.mine.nu:8000/1234561/1234561/275
+#EXTINF:0 tvg-id="http://images.mi.tv/channels/mx_discovery-world-hd_m.png" group-title="CULTURA",DISCOVERY WORLD latino america
+http://aleiptv.mine.nu:8000/1234561/1234561/284
+#EXTINF:0 tvg-id="http://images.mi.tv/channels/mx_discovery-world-hd_m.png" group-title="CULTURA",DISCOVERY WILD
+http://aleiptv.mine.nu:8000/1234561/1234561/242
+#EXTINF:-1,DISCOVERY (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO WILD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8?sd=10&rebase=on
+#EXTINF:-1,NAT GEO HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8?sd=10&rebase=on
+#EXTINF:-1,CALLE 13 HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8?sd=10&rebase=on
+#EXTINF:-1,TCM HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8?sd=10&rebase=on
+#EXTINF:-1,TNT HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8?sd=10&rebase=on
+#EXTINF:-1,SYFY HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.m3u8?sd=10&rebase=on
+#EXTINF:-1,AXN WHITE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8?sd=10&rebase=on
+#EXTINF:-1,AXN HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8?sd=10&rebase=on
+#EXTINF:-1,AMC HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX LIFE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8?sd=10&rebase=on
+#EXTINF:-1,HOLLYWOOD HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8?sd=10&rebase=on
+#EXTINF:-1,COMEDY CENTRAL HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. SERIES XTRA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. SERIES (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. XTRA (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8?sd=10&rebase=on
+#EXTINF:-1,M CINE ESPANOL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. DCINE HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. COMEDIA HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. ACCION HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8?sd=10&rebase=on
+#EXTINF:-1,M. ESTRENOS HD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", Cartoon Network 
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/3.png" group-title="CINE", Warner Channel 
+http://158.69.199.207/LIVE/H02/WARNER/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/fx.png" group-title="CINE", FX 
+http://158.69.199.149/LIVE/H02/FX/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tmsimg.video.cdn.charter.com/h3/NowShololg/14988/s14988_h3_aa.png" group-title="CINE", FXM 
+http://158.69.199.149/LIVE/H02/FXMMX/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="CINE", HBO 
+http://158.69.199.208/LIVE/H02/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO Family
+http://158.69.199.208/LIVE/H02/HBOFAMILY/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime 
+http://158.69.199.149/LIVE/H02/MAXPRIME/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="CINE", Golden PLUS 
+http://158.69.199.149/LIVE/H02/GOLDEN-B/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817806134702702592/fsfGoMK3_400x400.jpg" group-title="DEPORTES", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
