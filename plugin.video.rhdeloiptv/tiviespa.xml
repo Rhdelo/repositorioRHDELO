@@ -169,7 +169,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,~ DEPORTES EN INGLES ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN 2
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",MLB Tv
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1,~ DOCUMENTALES EN INGLES ~
