@@ -53,7 +53,9 @@ https://grifo6.mitopo.me/live/dmax/index.m3u8?token=qPes80qXw7OqDg69ujbojA&expir
 https://grifo5.mitopo.me/live/ci/index.m3u8?token=KbxZR8O3ZU1540rDshGQgQ&expires=1556638967
 
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones
+
+
+
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA
 https://e4.cdn4.us/ingest03/43225.m3u8?sf=S1ZJcUZXcldGVw==&token=ZP8XYauWKcxn1MT0EPwv7A&expires=1556886573&rnd=43225
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP Liga de Campeones BETA 2
@@ -66,24 +68,33 @@ http://cata.kastream.biz:8081/edge/ver6f60e4b93581c88b6cffcaae11522c07/chunks.m3
 https://petopa152.caraponi.me/live/eurosport1/index.m3u8?token=DOeBACxhwrfuXwpyh_gVXQ&expires=1557058506
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESP EUROSPORT 2
 https://petopa151.caraponi.me/live/eurosport2/index.m3u8?token=EYqh_opWro-ywjpThFMhhg&expires=1556979475
-#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
+
+#EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR]
 
 
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN
 https://e3.cdn4.us/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=5xPrkzITuTkxcL0MEc2F_w&expires=1556844669&rnd=37688
-
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile[COLOR green] (FREE)[/COLOR]
-http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile [COLOR gold](PREMIUM)[/COLOR]
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Sport TV 2
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN
 https://e3.cdn4.us/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=5xPrkzITuTkxcL0MEc2F_w&expires=1556844669&rnd=37688
-
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Super Soccer TV
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1,~ DIBUJOS EN CASTELLANO ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Boing HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1,~ CAZA Y PESCA ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Cazavision
+https://cdn039.fractalmedia.es/adaptive/caz_es.m3u8
 
 #EXTINF:-1,~ GENERALISTAS EN LATINO ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",WOW TV (El Salvador)
@@ -114,7 +125,6 @@ http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 #EXTINF:-1,~ MUSICA LATINA ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",TELEREDRETRO
 http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
 
@@ -163,12 +173,24 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Premium Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+
 #EXTINF:-1,~ SERIES EN INGLES ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 #EXTINF:-1,~ DEPORTES EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN 
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN 2
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Flow Sports
+http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -176,10 +198,38 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
+#EXTINF:-1,~ MUSICA EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",MTV USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,~ CAZA Y PESCA EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Fishing Network
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
 #EXTINF:-1,~ OTROS EN INGLES ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
+#EXTINF:-1,~ DEPORTES OTROS IDIOMAS ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Match Football 1 HD
+http://persik.by/stream/0713/382544/10266.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Match Football 2 HD
+http://persik.by/stream/0713/382544/10267.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Sport 2 (Sin Sonido) 
+http://185-125-230-172.livesports24.online/portugalsport2.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Esporte Interactivo
+http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFJKg0R.png",ENG: FIGHT NETWORK | HD
 http://iptvnet-tv.ddns.net:8000/live/kodi_master/NxxtEqKYwT/3954.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqwFeXT.png",ENG: FIGHT BOX | HD
@@ -192,3 +242,38 @@ http://thenew.tv:8000/Roxy1/Roxy12/6918
 http://thenew.tv:8000/Roxy1/Roxy12/6917
 #EXTINF:-1 tvg-logo="",ENG: UFC NETWORK | SD
 http://thenew.tv:8000/Roxy1/Roxy12/6916
+
+#EXTINF:-1,~ CINE SUB-CHINA ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Movies 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Movies 2
+http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Movies 3
+http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Movies 4
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Hollywood Movies 3 
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1,~ EQUIPOS DE FUTBOL ~
+
+
+#EXTINF:-1 tvg-logo="",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="",Bayern Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="",MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
+
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
