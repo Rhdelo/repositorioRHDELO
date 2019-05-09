@@ -1,1594 +1,1835 @@
 #EXTM3U
-#EXTINF:-1,NL- RTL 4 FHD
-http://linux-app.tv:6204/0049/0049/9534
-#EXTINF:-1,NL- RTL 5 FHD
-http://linux-app.tv:6204/0049/0049/9533
-#EXTINF:-1,NL- RTL 7 FHD
-http://linux-app.tv:6204/0049/0049/9532
-#EXTINF:-1,NL- RTL 8 FHD
-http://linux-app.tv:6204/0049/0049/9531
-#EXTINF:-1,NL- RTL Crime HD
-http://linux-app.tv:6204/0049/0049/9530
-#EXTINF:-1,NL- RTL Lounge
-http://linux-app.tv:6204/0049/0049/9529
-#EXTINF:-1,NL- RTL Z
-http://linux-app.tv:6204/0049/0049/9528
-#EXTINF:-1,NL- RTL 4 FHD Backup
-http://linux-app.tv:6204/0049/0049/13537
-#EXTINF:-1,NL- RTL 5 FHD Backup
-http://linux-app.tv:6204/0049/0049/13536
-#EXTINF:-1,NL- RTL 7 FHD Backup
-http://linux-app.tv:6204/0049/0049/13535
-#EXTINF:-1,NL- RTL 8 FHD Backup
-http://linux-app.tv:6204/0049/0049/13534
-#EXTINF:-1,NL- RTL Crime HD Backup
-http://linux-app.tv:6204/0049/0049/13533
-#EXTINF:-1,NL- RTL Lounge Backup
-http://linux-app.tv:6204/0049/0049/13532
-#EXTINF:-1,NL- RTL Z Backup
-http://linux-app.tv:6204/0049/0049/13529
-#EXTINF:-1,NL- RTL Telekids FHD
-http://linux-app.tv:6204/0049/0049/13531
-#EXTINF:-1,NL- RTL Telekids HD
-http://linux-app.tv:6204/0049/0049/13530
-#EXTINF:-1,NL- RTL Telekids
-http://linux-app.tv:6204/0049/0049/11051
-#EXTINF:-1,NL- NPO 101
-http://linux-app.tv:6204/0049/0049/9540
-#EXTINF:-1,NL- NPO 1 HD
-http://linux-app.tv:6204/0049/0049/9541
-#EXTINF:-1,NL- NPO 2 HD
-http://linux-app.tv:6204/0049/0049/9539
-#EXTINF:-1,NL- NPO 3 HD
-http://linux-app.tv:6204/0049/0049/9538
-#EXTINF:-1,NL- NPO HUMOR
-http://linux-app.tv:6204/0049/0049/9537
-#EXTINF:-1,NL- NPO Politiek
-http://linux-app.tv:6204/0049/0049/9536
-#EXTINF:-1,NL- NPO Zapp Xtra/NPO Humor TV
-http://linux-app.tv:6204/0049/0049/9535
-#EXTINF:-1,NL- NPO Best/Zapp Xtra NL
-http://linux-app.tv:6204/0049/0049/11055
-#EXTINF:-1,NL- NPO Cultura NL
-http://linux-app.tv:6204/0049/0049/11054
-#EXTINF:-1,NL- NPO Humor TV NL
-http://linux-app.tv:6204/0049/0049/11053
-#EXTINF:-1,NL- NPO Politiek NL
-http://linux-app.tv:6204/0049/0049/11052
-#EXTINF:-1,NL- NPO 1 HD Backup
-http://linux-app.tv:6204/0049/0049/13543
-#EXTINF:-1,NL- NPO 2 HD Backup
-http://linux-app.tv:6204/0049/0049/13542
-#EXTINF:-1,NL- NPO 3 Backup
-http://linux-app.tv:6204/0049/0049/13541
-#EXTINF:-1,NL- NPO 3 Extra Backup
-http://linux-app.tv:6204/0049/0049/13540
-#EXTINF:-1,NL- NPO Politiek Backup
-http://linux-app.tv:6204/0049/0049/13539
-#EXTINF:-1,NL- NPO Zapp HD Backup
-http://linux-app.tv:6204/0049/0049/13538
-#EXTINF:-1,NL- SBS 9
-http://linux-app.tv:6204/0049/0049/9527
-#EXTINF:-1,NL- SBS6 HD
-http://linux-app.tv:6204/0049/0049/9526
-#EXTINF:-1,NL- SBS 9 HD Backup
-http://linux-app.tv:6204/0049/0049/13551
-#EXTINF:-1,NL- SBS6 HD Backup
-http://linux-app.tv:6204/0049/0049/13550
-#EXTINF:-1,NL- Film1 Action HD
-http://linux-app.tv:6204/0049/0049/9567
-#EXTINF:-1,NL- Film1 Family HD
-http://linux-app.tv:6204/0049/0049/9566
-#EXTINF:-1,NL- Film1 Premiere HD
-http://linux-app.tv:6204/0049/0049/9565
-#EXTINF:-1,NL- Film1 Drama HD
-http://linux-app.tv:6204/0049/0049/9564
-#EXTINF:-1,NL- Film1 Action HD Backup
-http://linux-app.tv:6204/0049/0049/13528
-#EXTINF:-1,NL- Film1 Family HD Backup
-http://linux-app.tv:6204/0049/0049/13526
-#EXTINF:-1,NL- Film1 Premiere HD Backup
-http://linux-app.tv:6204/0049/0049/13525
-#EXTINF:-1,NL- Film1 Drama HD Backup
-http://linux-app.tv:6204/0049/0049/13527
-#EXTINF:-1,NL- Look TV
-http://linux-app.tv:6204/0049/0049/9553
-#EXTINF:-1,NL- 192TV
-http://linux-app.tv:6204/0049/0049/9584
-#EXTINF:-1,NL- 24 Kitchen HD
-http://linux-app.tv:6204/0049/0049/9583
-#EXTINF:-1,NL- Comedy Central HD
-http://linux-app.tv:6204/0049/0049/9577
-#EXTINF:-1,NL- Crime & Investigation
-http://linux-app.tv:6204/0049/0049/9576
-#EXTINF:-1,NL- Comedy Central Eextra
-http://linux-app.tv:6204/0049/0049/9578
-#EXTINF:-1,NL- Duck TV
-http://linux-app.tv:6204/0049/0049/9572
-#EXTINF:-1,NL- E!
-http://linux-app.tv:6204/0049/0049/9571
-#EXTINF:-1,NL- iConcerts HD
-http://linux-app.tv:6204/0049/0049/9551
-#EXTINF:-1,NL- Ketnet HD
-http://linux-app.tv:6204/0049/0049/9548
-#EXTINF:-1,NL- NET 5 HD
-http://linux-app.tv:6204/0049/0049/9545
-#EXTINF:-1,NL- Omroep Brabant NL
-http://linux-app.tv:6204/0049/0049/11019
-#EXTINF:-1,NL- Omroep Flevoland NL
-http://linux-app.tv:6204/0049/0049/11018
-#EXTINF:-1,NL- Omroep Gelderland NL
-http://linux-app.tv:6204/0049/0049/11017
-#EXTINF:-1,NL- Omroep West NL
-http://linux-app.tv:6204/0049/0049/11016
-#EXTINF:-1,NL- Omroep Zeeland NL
-http://linux-app.tv:6204/0049/0049/11015
-#EXTINF:-1,NL- Omrop Fryslan NL
-http://linux-app.tv:6204/0049/0049/11014
-#EXTINF:-1,NL- RTV Drenthe NL
-http://linux-app.tv:6204/0049/0049/11012
-#EXTINF:-1,NL- RTV Noord NL
-http://linux-app.tv:6204/0049/0049/11011
-#EXTINF:-1,NL- RTV Oost NL
-http://linux-app.tv:6204/0049/0049/11010
-#EXTINF:-1,NL- RTV Dordrecht NL
-http://linux-app.tv:6204/0049/0049/11050
-#EXTINF:-1,NL- RTV Purmerend NL
-http://linux-app.tv:6204/0049/0049/11049
-#EXTINF:-1,NL- RTV Rijnmond NL
-http://linux-app.tv:6204/0049/0049/11048
-#EXTINF:-1,NL- RTV Slingeland NL
-http://linux-app.tv:6204/0049/0049/11047
-#EXTINF:-1,NL- RTV Slos NL
-http://linux-app.tv:6204/0049/0049/11046
-#EXTINF:-1,NL- RTV Totaal NL
-http://linux-app.tv:6204/0049/0049/11045
-#EXTINF:-1,NL- RTV Utrecht NL
-http://linux-app.tv:6204/0049/0049/11044
-#EXTINF:-1,NL- MTV NL
-http://linux-app.tv:6204/0049/0049/11057
-#EXTINF:-1,NL- MTV Hits NL
-http://linux-app.tv:6204/0049/0049/11059
-#EXTINF:-1,NL- MTV Music 24 NL
-http://linux-app.tv:6204/0049/0049/11058
-#EXTINF:-1,NL- AT 5 NL
-http://linux-app.tv:6204/0049/0049/11024
-#EXTINF:-1,NL- L1 TV NL
-http://linux-app.tv:6204/0049/0049/11022
-#EXTINF:-1,Nl- Nick Music NL
-http://linux-app.tv:6204/0049/0049/11021
-#EXTINF:-1,NL- ONS NL
-http://linux-app.tv:6204/0049/0049/11013
-#EXTINF:-1,NL- Spike NL
-http://linux-app.tv:6204/0049/0049/11009
-#EXTINF:-1,NL- TV 538 NL
-http://linux-app.tv:6204/0049/0049/11007
-#EXTINF:-1,NL- WOS NL
-http://linux-app.tv:6204/0049/0049/11006
-#EXTINF:-1,NL- The Q You HD NL
-http://linux-app.tv:6204/0049/0049/11008
-#EXTINF:-1,NL- TLC
-http://linux-app.tv:6204/0049/0049/9525
-#EXTINF:-1,NL- TV Oranje
-http://linux-app.tv:6204/0049/0049/9524
-#EXTINF:-1,NL- Fox Channel HD
-http://linux-app.tv:6204/0049/0049/9562
-#EXTINF:-1,NL- BBC Entertainment NL
-http://linux-app.tv:6204/0049/0049/11066
-#EXTINF:-1,NL- EDE TV NL
-http://linux-app.tv:6204/0049/0049/11063
-#EXTINF:-1,NL- Feel Good TV NL
-http://linux-app.tv:6204/0049/0049/11061
-#EXTINF:-1,NL- Klipkar TV NL
-http://linux-app.tv:6204/0049/0049/11060
-#EXTINF:-1,NL- Salto 1 NL
-http://linux-app.tv:6204/0049/0049/11043
-#EXTINF:-1,NL- Salto 2 NL
-http://linux-app.tv:6204/0049/0049/11042
-#EXTINF:-1,NL- Slam! NL
-http://linux-app.tv:6204/0049/0049/11041
-#EXTINF:-1,NL- Slotstad RTV NL
-http://linux-app.tv:6204/0049/0049/11040
-#EXTINF:-1,NL- Stringray Djazz FHD NL
-http://linux-app.tv:6204/0049/0049/11039
-#EXTINF:-1,NL- Viceland HD NL
-http://linux-app.tv:6204/0049/0049/11038
-#EXTINF:-1,NL- Animal Planet
-http://linux-app.tv:6204/0049/0049/9582
-#EXTINF:-1,NL- Nat Geo Wild HD
-http://linux-app.tv:6204/0049/0049/9546
-#EXTINF:-1,NL- National Geographic HD NL
-http://linux-app.tv:6204/0049/0049/11056
-#EXTINF:-1,NL- History HD DUT
-http://linux-app.tv:6204/0049/0049/9552
-#EXTINF:-1,NL- Discovery Channel
-http://linux-app.tv:6204/0049/0049/9575
-#EXTINF:-1,NL- Discovery Showcase HD
-http://linux-app.tv:6204/0049/0049/9574
-#EXTINF:-1,NL- Investigation Discovery
-http://linux-app.tv:6204/0049/0049/9550
-#EXTINF:-1,NL- Baby TV
-http://linux-app.tv:6204/0049/0049/9581
-#EXTINF:-1,NL- Boomerang
-http://linux-app.tv:6204/0049/0049/9580
-#EXTINF:-1,NL- Cartoon Network
-http://linux-app.tv:6204/0049/0049/9579
-#EXTINF:-1,NL- Disney Channel
-http://linux-app.tv:6204/0049/0049/9573
-#EXTINF:-1,NL- Disney Channel NL
-http://linux-app.tv:6204/0049/0049/11065
-#EXTINF:-1,NL- Disney Junior NL
-http://linux-app.tv:6204/0049/0049/11064
-#EXTINF:-1,NL- Veronica Disney XD Full HD
-http://linux-app.tv:6204/0049/0049/11191
-#EXTINF:-1,NL- Veronica/DisneyXD
-http://linux-app.tv:6204/0049/0049/9523
-#EXTINF:-1,NL- JimJam
-http://linux-app.tv:6204/0049/0049/9549
-#EXTINF:-1,NL- Nick JR.
-http://linux-app.tv:6204/0049/0049/9544
-#EXTINF:-1,NL- Nick Toons
-http://linux-app.tv:6204/0049/0049/9543
-#EXTINF:-1,NL- Nickenldeon HD / Spike Channel
-http://linux-app.tv:6204/0049/0049/9542
-#EXTINF:-1,NL- Motors TV
-http://linux-app.tv:6204/0049/0049/9547
-#EXTINF:-1,NL- Extreme Sports
-http://linux-app.tv:6204/0049/0049/9568
-#EXTINF:-1,NL- EuroSport 1 HD
-http://linux-app.tv:6204/0049/0049/9570
-#EXTINF:-1,NL- EuroSport 2 HD
-http://linux-app.tv:6204/0049/0049/9569
-#EXTINF:-1,NL- EDGE Sport HD NL
-http://linux-app.tv:6204/0049/0049/11062
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://linux-app.tv:6204/0049/0049/9517
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://linux-app.tv:6204/0049/0049/9518
-#EXTINF:-1,NL- Ziggo Sport Golf
-http://linux-app.tv:6204/0049/0049/9520
-#EXTINF:-1,NL- Ziggo Sport Racing
-http://linux-app.tv:6204/0049/0049/9519
-#EXTINF:-1,NL- Ziggo Sport Extra 1
-http://linux-app.tv:6204/0049/0049/9522
-#EXTINF:-1,NL- Ziggo Sport Extra 2
-http://linux-app.tv:6204/0049/0049/9521
-#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
-http://linux-app.tv:6204/0049/0049/11192
-#EXTINF:-1,NL- Ziggo Sport Select HD Backup
-http://linux-app.tv:6204/0049/0049/11193
-#EXTINF:-1,NL- Ziggo Sport Golf Backup
-http://linux-app.tv:6204/0049/0049/11194
-#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
-http://linux-app.tv:6204/0049/0049/11196
-#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
-http://linux-app.tv:6204/0049/0049/11195
-#EXTINF:-1,NL- Fox Sport 1 HD
-http://linux-app.tv:6204/0049/0049/9561
-#EXTINF:-1,NL- Fox Sport 2 HD
-http://linux-app.tv:6204/0049/0049/9560
-#EXTINF:-1,NL- Fox Sport 3 HD
-http://linux-app.tv:6204/0049/0049/9559
-#EXTINF:-1,NL- Fox Sport 4 HD
-http://linux-app.tv:6204/0049/0049/9558
-#EXTINF:-1,NL- Fox Sport 5 HD
-http://linux-app.tv:6204/0049/0049/9557
-#EXTINF:-1,NL- Fox Sport 6 HD
-http://linux-app.tv:6204/0049/0049/9556
-#EXTINF:-1,NL- Fox Sport 1 HD backup
-http://linux-app.tv:6204/0049/0049/11202
-#EXTINF:-1,NL- Fox Sport 2 HD backup
-http://linux-app.tv:6204/0049/0049/11201
-#EXTINF:-1,NL- Fox Sport 3 HD backup
-http://linux-app.tv:6204/0049/0049/11200
-#EXTINF:-1,NL- Fox Sport 4 HD backup
-http://linux-app.tv:6204/0049/0049/11199
-#EXTINF:-1,NL- Fox Sport 5 HD backup
-http://linux-app.tv:6204/0049/0049/11198
-#EXTINF:-1,NL- Fox Sport 6 HD backup
-http://linux-app.tv:6204/0049/0049/11197
-#EXTINF:-1,NL- FOX Sports 1 HD Backup2
-http://linux-app.tv:6204/0049/0049/13549
-#EXTINF:-1,NL- FOX Sports 2 HD Backup2
-http://linux-app.tv:6204/0049/0049/13548
-#EXTINF:-1,NL- FOX Sports 3 HD Backup2
-http://linux-app.tv:6204/0049/0049/13547
-#EXTINF:-1,NL- FOX Sports 4 HD Backup2
-http://linux-app.tv:6204/0049/0049/13546
-#EXTINF:-1,NL- FOX Sports 5 HD Backup2
-http://linux-app.tv:6204/0049/0049/13545
-#EXTINF:-1,NL- FOX Sports 6 HD Backup2
-http://linux-app.tv:6204/0049/0049/13544
-
-#EXTINF:-1,NL: FILM 1 ACTION
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/552.ts
-#EXTINF:-1,NL: FILM 1 COMEDY
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/551.ts
-#EXTINF:-1,NL: FILM 1 PREMIERE
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/550.ts
-#EXTINF:-1,NL: FILM 1 SPOTLIGHT
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/549.ts
-#EXTINF:-1,NL: FILM 1 SUNDANCE
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/548.ts
-#EXTINF:-1,NL: FOX SPORT 1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/545.ts
-#EXTINF:-1,NL: FOX SPORT 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/544.ts
-#EXTINF:-1,NL: FOX SPORT 3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/543.ts
-#EXTINF:-1,NL: FOX SPORT 4
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/542.ts
-#EXTINF:-1,NL: FOX SPORT 5
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/541.ts
-#EXTINF:-1,NL: HBO 1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/561.ts
-#EXTINF:-1,NL: HBO 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/560.ts
-#EXTINF:-1,NL: HBO 3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/559.ts
-#EXTINF:-1,NL: NICKELODEON
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/547.ts
-#EXTINF:-1,NL: NPO 1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/564.ts
-#EXTINF:-1,NL: NPO 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/563.ts
-#EXTINF:-1,NL: NPO 3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/562.ts
-#EXTINF:-1,NL: RTL 4
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/556.ts
-#EXTINF:-1,NL: RTL 5
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/555.ts
-#EXTINF:-1,NL: RTL 7
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/554.ts
-#EXTINF:-1,NL: RTL 8
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/553.ts
-#EXTINF:-1,NL: SBS 6
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/558.ts
-#EXTINF:-1,NL: SBS 9
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/557.ts
-#EXTINF:-1,NL: VERONICA DISNEY XD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/546.ts
-
-#EXTINF:-1,NL- NPO 1 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9541
-#EXTINF:-1,NL- NPO 2 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9539
-#EXTINF:-1,NL- NPO 3 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9538
-#EXTINF:-1,NL- RTL 4 FHD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9534
-#EXTINF:-1,NL- RTL 5 FHD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9533
-#EXTINF:-1,NL- SBS6 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9526
-#EXTINF:-1,NL- RTL 7 FHD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9532
-#EXTINF:-1,NL- Veronica Disney XD Full HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11191
-#EXTINF:-1,NL- RTL 8 FHD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9531
-#EXTINF:-1,NL- NET 5 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9545
-#EXTINF:-1,NL- Fox Channel HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9562
-#EXTINF:-1,NL- SBS 9
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9527
-#EXTINF:-1,NL- RTL Z
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9528
-#EXTINF:-1,NL- Comedy Central HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9577
-#EXTINF:-1,NL- Discovery Showcase HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9574
-#EXTINF:-1,NL- National Geographic HD NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11056
-#EXTINF:-1,NL- Spike NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11009
-#EXTINF:-1,NL- Film1 Premiere HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9565
-#EXTINF:-1,NL- Film1 Family HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9566
-#EXTINF:-1,NL- Film1 Action HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9567
-#EXTINF:-1,NL- Film1 Drama HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9564
-#EXTINF:-1,NL- EuroSport 1 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9570
-#EXTINF:-1,NL- EuroSport 2 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9569
-#EXTINF:-1,NL- Fox Sport 1 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9561
-#EXTINF:-1,NL- Fox Sport 2 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9560
-#EXTINF:-1,NL- Fox Sport 4 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9558
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9518
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9517
-#EXTINF:-1,NL- Ziggo Sport Golf
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9520
-#EXTINF:-1,NL- EDGE Sport HD NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11062
-#EXTINF:-1,NL- Motors TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9547
-#EXTINF:-1,NL- Disney Channel
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9573
-#EXTINF:-1,NL- Nick Toons
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9543
-#EXTINF:-1,NL- Nick JR.
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9544
-#EXTINF:-1,NL- Cartoon Network
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9579
-#EXTINF:-1,NL- Boomerang
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9580
-#EXTINF:-1,NL- Discovery Channel
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9575
-#EXTINF:-1,NL- TLC
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9525
-#EXTINF:-1,NL- Nat Geo Wild HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9546
-#EXTINF:-1,NL- Animal Planet
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9582
-#EXTINF:-1,NL- History HD DUT
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9552
-#EXTINF:-1,NL- Investigation Discovery
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9550
-#EXTINF:-1,NL- RTL Crime HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9530
-#EXTINF:-1,NL- Stringray Djazz FHD NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11039
-#EXTINF:-1,NL- 192TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9584
-#EXTINF:-1,NL- ONS NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11013
-#EXTINF:-1,NL- NPO Politiek
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9536
-#EXTINF:-1,NL- NPO Zapp Xtra/NPO Humor TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9535
-#EXTINF:-1,NL- E!
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9571
-#EXTINF:-1,NL- The Q You HD NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11008
-#EXTINF:-1,NL- Duck TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9572
-#EXTINF:-1,NL- Baby TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9581
-#EXTINF:-1,NL- RTL Telekids FHD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13531
-#EXTINF:-1,NL- RTL Lounge
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9529
-#EXTINF:-1,NL- 24 Kitchen HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9583
-#EXTINF:-1,NL- Ketnet HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9548
-#EXTINF:-1,NL- MTV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11057
-#EXTINF:-1,NL- Omroep Brabant NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11019
-#EXTINF:-1,NL- Omroep Zeeland NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11015
-#EXTINF:-1,NL- AT 5 NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11024
-#EXTINF:-1,NL- Omroep Flevoland NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11018
-#EXTINF:-1,NL- Omroep Gelderland NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11017
-#EXTINF:-1,NL- RTV Drenthe NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11012
-#EXTINF:-1,NL- RTV Oost NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11010
-#EXTINF:-1,NL- RTV Noord NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11011
-#EXTINF:-1,NL- Omrop Fryslan NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11014
-#EXTINF:-1,NL- RTL Telekids HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13530
-#EXTINF:-1,NL- RTL Telekids
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11051
-#EXTINF:-1,NL- NPO 101
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9540
-#EXTINF:-1,NL- NPO HUMOR
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9537
-#EXTINF:-1,NL- NPO Best/Zapp Xtra NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11055
-#EXTINF:-1,NL- NPO Cultura NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11054
-#EXTINF:-1,NL- NPO Humor TV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11053
-#EXTINF:-1,NL- NPO Politiek NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11052
-#EXTINF:-1,NL- Omroep West NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11016
-#EXTINF:-1,NL- RTV Dordrecht NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11050
-#EXTINF:-1,NL- RTV Purmerend NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11049
-#EXTINF:-1,NL- RTV Rijnmond NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11048
-#EXTINF:-1,NL- RTV Slingeland NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11047
-#EXTINF:-1,NL- RTV Slos NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11046
-#EXTINF:-1,NL- RTV Totaal NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11045
-#EXTINF:-1,NL- RTV Utrecht NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11044
-#EXTINF:-1,NL- MTV Hits NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11059
-#EXTINF:-1,NL- MTV Music 24 NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11058
-#EXTINF:-1,NL- iConcerts HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9551
-#EXTINF:-1,Nl- Nick Music NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11021
-#EXTINF:-1,NL- Comedy Central Eextra
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9578
-#EXTINF:-1,NL- Crime & Investigation
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9576
-#EXTINF:-1,NL- Look TV
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9553
-#EXTINF:-1,NL- L1 TV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11022
-#EXTINF:-1,NL- TV 538 NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11007
-#EXTINF:-1,NL- WOS NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11006
-#EXTINF:-1,NL- BBC Entertainment NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11066
-#EXTINF:-1,NL- EDE TV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11063
-#EXTINF:-1,NL- Feel Good TV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11061
-#EXTINF:-1,NL- Klipkar TV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11060
-#EXTINF:-1,NL- Salto 1 NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11043
-#EXTINF:-1,NL- Salto 2 NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11042
-#EXTINF:-1,NL- Slam! NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11041
-#EXTINF:-1,NL- Slotstad RTV NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11040
-#EXTINF:-1,NL- Viceland HD NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11038
-#EXTINF:-1,NL- TV Oranje
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9524
-#EXTINF:-1,NL- JimJam
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9549
-#EXTINF:-1,NL- Disney Junior NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11064
-#EXTINF:-1,NL- Disney Channel NL
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11065
-#EXTINF:-1,NL- Veronica/DisneyXD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9523
-#EXTINF:-1,NL- Nickenldeon HD / Spike Channel
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9542
-#EXTINF:-1,NL- Extreme Sports
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9568
-#EXTINF:-1,NL- Ziggo Sport Extra 1
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9522
-#EXTINF:-1,NL- Ziggo Sport Extra 2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9521
-#EXTINF:-1,NL- Ziggo Sport Racing
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9519
-#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11192
-#EXTINF:-1,NL- Ziggo Sport Select HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11193
-#EXTINF:-1,NL- Ziggo Sport Golf Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11194
-#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11196
-#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11195
-#EXTINF:-1,NL- Fox Sport 3 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9559
-#EXTINF:-1,NL- Fox Sport 5 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9557
-#EXTINF:-1,NL- Fox Sport 6 HD
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/9556
-#EXTINF:-1,NL- Fox Sport 1 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11202
-#EXTINF:-1,NL- Fox Sport 2 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11201
-#EXTINF:-1,NL- Fox Sport 3 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11200
-#EXTINF:-1,NL- Fox Sport 4 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11199
-#EXTINF:-1,NL- Fox Sport 5 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11198
-#EXTINF:-1,NL- Fox Sport 6 HD backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/11197
-#EXTINF:-1,NL- FOX Sports 1 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13549
-#EXTINF:-1,NL- FOX Sports 2 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13548
-#EXTINF:-1,NL- FOX Sports 3 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13547
-#EXTINF:-1,NL- FOX Sports 4 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13546
-#EXTINF:-1,NL- FOX Sports 5 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13545
-#EXTINF:-1,NL- FOX Sports 6 HD Backup2
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13544
-#EXTINF:-1,NL- RTL 4 FHD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13537
-#EXTINF:-1,NL- RTL 5 FHD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13536
-#EXTINF:-1,NL- RTL 7 FHD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13535
-#EXTINF:-1,NL- RTL 8 FHD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13534
-#EXTINF:-1,NL- RTL Crime HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13533
-#EXTINF:-1,NL- RTL Lounge Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13532
-#EXTINF:-1,NL- RTL Z Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13529
-#EXTINF:-1,NL- NPO 1 HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13543
-#EXTINF:-1,NL- NPO 2 HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13542
-#EXTINF:-1,NL- NPO 3 Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13541
-#EXTINF:-1,NL- NPO 3 Extra Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13540
-#EXTINF:-1,NL- NPO Politiek Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13539
-#EXTINF:-1,NL- NPO Zapp HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13538
-#EXTINF:-1,NL- SBS 9 HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13551
-#EXTINF:-1,NL- SBS6 HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13550
-#EXTINF:-1,NL- Film1 Action HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13528
-#EXTINF:-1,NL- Film1 Family HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13526
-#EXTINF:-1,NL- Film1 Premiere HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13525
-#EXTINF:-1,NL- Film1 Drama HD Backup
-http://m-iptv.net:6204/prQ8aKxwD2/gxP2nrNcex/13527
-
-#EXTINF:-1,NL | NPO 1 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11314
-#EXTINF:-1,NL | NPO 2 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11313
-#EXTINF:-1,NL | NPO 3 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11312
-#EXTINF:-1,Nl | Npo Politiek
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11278
-#EXTINF:-1,Nl | Npo Zapp Xtra/npo Best
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11277
-#EXTINF:-1,NL | RTL 4 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11311
-#EXTINF:-1,NL | RTL 5 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11310
-#EXTINF:-1,NL | RTL 7 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11309
-#EXTINF:-1,NL | RTL 8 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11308
-#EXTINF:-1,Nl | Rtl Crime Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11274
-#EXTINF:-1,Nl | Rtl Lounge-nl
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11273
-#EXTINF:-1,NL | RTL Z
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11305
-#EXTINF:-1,Nl | Fox
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11292
-#EXTINF:-1,NL | SBS 6 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11307
-#EXTINF:-1,NL | SBS 9
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11306
-#EXTINF:-1,NL | FILM 1 ACTION
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11333
-#EXTINF:-1,NL | FILM 1 COMEDY
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11328
-#EXTINF:-1,NL | FILM 1 DRAMA
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11334
-#EXTINF:-1,NL | FILM 1 PREMIER HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11327
-#EXTINF:-1,Nl | Tlc Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11269
-#EXTINF:-1,Nl | Omroep Brabant
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11276
-#EXTINF:-1,Nl | Omroep Gelderland
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11275
-#EXTINF:-1,NL | 24 KITCHEN
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11332
-#EXTINF:-1,Nl | Food Network
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11293
-#EXTINF:-1,NL | AT5
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11301
-#EXTINF:-1,Nl | Mtv Nl
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11284
-#EXTINF:-1,NL | Djazz TV
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11296
-#EXTINF:-1,Nl | Ketnet
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11286
-#EXTINF:-1,Nl | L1 Limburg Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11285
-#EXTINF:-1,Nl | N1 Nijmegen Tv
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11283
-#EXTINF:-1,NL | NET 5 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11315
-#EXTINF:-1,Nl | Rtv Drenthe
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11272
-#EXTINF:-1,Nl | Slam Tv
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11271
-#EXTINF:-1,Nl | Spike
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11270
-#EXTINF:-1,Nl | Tv Oost Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11268
-#EXTINF:-1,Nl | Tv Oranje
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11267
-#EXTINF:-1,Nl | Tv West
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11266
-#EXTINF:-1,Nl | Xite
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11265
-#EXTINF:-1,Nl | Jim Jam
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11287
-#EXTINF:-1,Nl | Nick Jr Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11281
-#EXTINF:-1,Nl | Nick Music
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11280
-#EXTINF:-1,NL | NICKELODEON HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11326
-#EXTINF:-1,NL | VERONICA DISNEY XD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11336
-#EXTINF:-1,Nl | Nicktoons Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11279
-#EXTINF:-1,NL | Animal Planet NL
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11302
-#EXTINF:-1,NL | BABY TV
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11300
-#EXTINF:-1,NL | Boomerang
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11299
-#EXTINF:-1,NL | CARTOON NETWORK HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11298
-#EXTINF:-1,NL | COMEDY CENTRAL
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11331
-#EXTINF:-1,NL | DISNEY JUNIOR HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11297
-#EXTINF:-1,Nl | History Chanel Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11289
-#EXTINF:-1,NL | DISCOVERY CHANNEL  HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11335
-#EXTINF:-1,Nl | Investigation Discovery Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11288
-#EXTINF:-1,NL | NATIONAL GEO HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11329
-#EXTINF:-1,Nl | National Geopraphic Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11282
-#EXTINF:-1,NL | EUROSPORT 1 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11295
-#EXTINF:-1,Nl | Eurosport 2 Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11294
-#EXTINF:-1,Nl | Ziggo Sport Extra 1
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11264
-#EXTINF:-1,Nl | Ziggo Sport Extra 2
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11263
-#EXTINF:-1,NL | ZIGGO SPORT GOLF
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11317
-#EXTINF:-1,Nl | Ziggo Sport Hd
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11262
-#EXTINF:-1,NL | ZIGGO SPORT RACING
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11318
-#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11319
-#EXTINF:-1,NL | ZIGGO SPORT VOETBAL
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11320
-#EXTINF:-1,NL | FOX SPORT 1  HD EREDIVISIE
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11325
-#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11324
-#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11323
-#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11322
-#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11321
-#EXTINF:-1,Nl | FOX SPORT 6 HD
-http://redo1.com:8080/LhuWsbjS4D/Achu2bVuYl/11291
-
-#EXTINF:-1,NL: 13th
-http://secure.serkom.eu:80/live/sinanay/ay295345/23026.m3u8
-#EXTINF:-1,NL: 192TV
-http://secure.serkom.eu:80/live/sinanay/ay295345/23027.m3u8
-#EXTINF:-1,NL: 24 Kitchen
-http://secure.serkom.eu:80/live/sinanay/ay295345/23028.m3u8
-#EXTINF:-1,NL: 24Kitchen
-http://secure.serkom.eu:80/live/sinanay/ay295345/23029.m3u8
-#EXTINF:-1,NL: AT5
-http://secure.serkom.eu:80/live/sinanay/ay295345/23030.m3u8
-#EXTINF:-1,NL: AT5 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23031.m3u8
-#EXTINF:-1,NL: Baby Tv
-http://secure.serkom.eu:80/live/sinanay/ay295345/23032.m3u8
-#EXTINF:-1,NL: Boomerang
-http://secure.serkom.eu:80/live/sinanay/ay295345/23033.m3u8
-#EXTINF:-1,NL: Cartoon Network
-http://secure.serkom.eu:80/live/sinanay/ay295345/23034.m3u8
-#EXTINF:-1,NL: Comedy Central
-http://secure.serkom.eu:80/live/sinanay/ay295345/23035.m3u8
-#EXTINF:-1,NL: Discovery Channel
-http://secure.serkom.eu:80/live/sinanay/ay295345/23036.m3u8
-#EXTINF:-1,NL: Disney Junior
-http://secure.serkom.eu:80/live/sinanay/ay295345/23037.m3u8
-#EXTINF:-1,NL: DISNEY XD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23038.m3u8
-#EXTINF:-1,NL: Eurosport 1 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23039.m3u8
-#EXTINF:-1,NL: Eurosport 2 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23040.m3u8
-#EXTINF:-1,NL: Film 1 Comedy & Kids
-http://secure.serkom.eu:80/live/sinanay/ay295345/23041.m3u8
-#EXTINF:-1,NL: Film 1 Drama
-http://secure.serkom.eu:80/live/sinanay/ay295345/23042.m3u8
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23043.m3u8
-#EXTINF:-1,NL: Film 1 Spotlight
-http://secure.serkom.eu:80/live/sinanay/ay295345/23044.m3u8
-#EXTINF:-1,NL: Film Action
-http://secure.serkom.eu:80/live/sinanay/ay295345/23045.m3u8
-#EXTINF:-1,NL: FILM DRAMA
-http://secure.serkom.eu:80/live/sinanay/ay295345/23046.m3u8
-#EXTINF:-1,NL: FILM FAMILY
-http://secure.serkom.eu:80/live/sinanay/ay295345/23047.m3u8
-#EXTINF:-1,NL: FILM PREMIERE
-http://secure.serkom.eu:80/live/sinanay/ay295345/23048.m3u8
-#EXTINF:-1,NL: Film Premiere HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23049.m3u8
-#EXTINF:-1,NL: Film1 Action NL
-http://secure.serkom.eu:80/live/sinanay/ay295345/23050.m3u8
-#EXTINF:-1,NL: Film1 Premiere FHD 1080
-http://secure.serkom.eu:80/live/sinanay/ay295345/23051.m3u8
-#EXTINF:-1,NL: Film1 Spotlight
-http://secure.serkom.eu:80/live/sinanay/ay295345/23052.m3u8
-#EXTINF:-1,NL: FOX 3p0rt1 1
-http://secure.serkom.eu:80/live/sinanay/ay295345/23053.m3u8
-#EXTINF:-1,NL: FOX 3p0rt1 2
-http://secure.serkom.eu:80/live/sinanay/ay295345/23054.m3u8
-#EXTINF:-1,NL: Fox 3p0rt1 3
-http://secure.serkom.eu:80/live/sinanay/ay295345/23055.m3u8
-#EXTINF:-1,NL: Fox 3p0rt1 4
-http://secure.serkom.eu:80/live/sinanay/ay295345/23056.m3u8
-#EXTINF:-1,NL: Fox Channel
-http://secure.serkom.eu:80/live/sinanay/ay295345/23057.m3u8
-#EXTINF:-1,NL: FOX Sports 1 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23058.m3u8
-#EXTINF:-1,NL: FOX Sports 2 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23059.m3u8
-#EXTINF:-1,NL: FOX Sports 3 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23060.m3u8
-#EXTINF:-1,NL: Fox Sports 4 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23061.m3u8
-#EXTINF:-1,NL: Fox Sports Eredivisie 3 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23062.m3u8
-#EXTINF:-1,NL: Fox tv
-http://secure.serkom.eu:80/live/sinanay/ay295345/23063.m3u8
-#EXTINF:-1,NL: History
-http://secure.serkom.eu:80/live/sinanay/ay295345/23064.m3u8
-#EXTINF:-1,NL: Investigation Discovery
-http://secure.serkom.eu:80/live/sinanay/ay295345/23065.m3u8
-#EXTINF:-1,NL: KADET
-http://secure.serkom.eu:80/live/sinanay/ay295345/23066.m3u8
-#EXTINF:-1,NL: Limburg L1VE
-http://secure.serkom.eu:80/live/sinanay/ay295345/23067.m3u8
-#EXTINF:-1,NL: MTV 24
-http://secure.serkom.eu:80/live/sinanay/ay295345/23068.m3u8
-#EXTINF:-1,NL: Nat Geo Wild HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23069.m3u8
-#EXTINF:-1,NL: National Geographic FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23070.m3u8
-#EXTINF:-1,NL: Net 5 FHD 1080
-http://secure.serkom.eu:80/live/sinanay/ay295345/23071.m3u8
-#EXTINF:-1,NL: NET 5 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23072.m3u8
-#EXTINF:-1,NL: NGC HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23073.m3u8
-#EXTINF:-1,NL: Nick JR
-http://secure.serkom.eu:80/live/sinanay/ay295345/23074.m3u8
-#EXTINF:-1,NL: Nickelodeon
-http://secure.serkom.eu:80/live/sinanay/ay295345/23075.m3u8
-#EXTINF:-1,NL: Nicktoons
-http://secure.serkom.eu:80/live/sinanay/ay295345/23076.m3u8
-#EXTINF:-1,NL: NPO 1
-http://secure.serkom.eu:80/live/sinanay/ay295345/23077.m3u8
-#EXTINF:-1,NL: NPO 1 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23078.m3u8
-#EXTINF:-1,NL: NPO 2
-http://secure.serkom.eu:80/live/sinanay/ay295345/23079.m3u8
-#EXTINF:-1,NL: NPO 2 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23080.m3u8
-#EXTINF:-1,NL: NPO 3
-http://secure.serkom.eu:80/live/sinanay/ay295345/23081.m3u8
-#EXTINF:-1,NL: NPO 3 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23082.m3u8
-#EXTINF:-1,NL: NPO Best/Zapp Xtra
-http://secure.serkom.eu:80/live/sinanay/ay295345/23083.m3u8
-#EXTINF:-1,NL: NPO Politiek
-http://secure.serkom.eu:80/live/sinanay/ay295345/23084.m3u8
-#EXTINF:-1,NL: NPO Zapp Xtra
-http://secure.serkom.eu:80/live/sinanay/ay295345/23085.m3u8
-#EXTINF:-1,NL: Omroep Brabant Televisie
-http://secure.serkom.eu:80/live/sinanay/ay295345/23086.m3u8
-#EXTINF:-1,NL: Omroep Zeeland Televisie
-http://secure.serkom.eu:80/live/sinanay/ay295345/23087.m3u8
-#EXTINF:-1,NL: Omrop Frysl
-http://secure.serkom.eu:80/live/sinanay/ay295345/23088.m3u8
-#EXTINF:-1,NL: ONS
-http://secure.serkom.eu:80/live/sinanay/ay295345/23089.m3u8
-#EXTINF:-1,NL: RTL 4 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23090.m3u8
-#EXTINF:-1,NL: RTL 4 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23091.m3u8
-#EXTINF:-1,NL: RTL 5 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23092.m3u8
-#EXTINF:-1,NL: RTL 5 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23093.m3u8
-#EXTINF:-1,NL: RTL 7 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23094.m3u8
-#EXTINF:-1,NL: RTL 7 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23095.m3u8
-#EXTINF:-1,NL: RTL 8 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23096.m3u8
-#EXTINF:-1,NL: RTL 8 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23097.m3u8
-#EXTINF:-1,NL: RTL Crime Netherlands
-http://secure.serkom.eu:80/live/sinanay/ay295345/23098.m3u8
-#EXTINF:-1,NL: RTL Lounge
-http://secure.serkom.eu:80/live/sinanay/ay295345/23099.m3u8
-#EXTINF:-1,NL: RTL Z
-http://secure.serkom.eu:80/live/sinanay/ay295345/23100.m3u8
-#EXTINF:-1,NL: SBS 6 FHD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23101.m3u8
-#EXTINF:-1,NL: SBS 6 HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23102.m3u8
-#EXTINF:-1,NL: SBS 9
-http://secure.serkom.eu:80/live/sinanay/ay295345/23103.m3u8
-#EXTINF:-1,NL: SBS9
-http://secure.serkom.eu:80/live/sinanay/ay295345/23104.m3u8
-#EXTINF:-1,NL: Sport 1 Racing
-http://secure.serkom.eu:80/live/sinanay/ay295345/23105.m3u8
-#EXTINF:-1,NL: Sport 1 Voetbal
-http://secure.serkom.eu:80/live/sinanay/ay295345/23106.m3u8
-#EXTINF:-1,NL: TELESHOP 5
-http://secure.serkom.eu:80/live/sinanay/ay295345/23107.m3u8
-#EXTINF:-1,NL: TLC
-http://secure.serkom.eu:80/live/sinanay/ay295345/23108.m3u8
-#EXTINF:-1,NL: TLC TV
-http://secure.serkom.eu:80/live/sinanay/ay295345/23109.m3u8
-#EXTINF:-1,NL: TV Gelderland
-http://secure.serkom.eu:80/live/sinanay/ay295345/23110.m3u8
-#EXTINF:-1,NL: TV Noord
-http://secure.serkom.eu:80/live/sinanay/ay295345/23111.m3u8
-#EXTINF:-1,NL: TV Oost
-http://secure.serkom.eu:80/live/sinanay/ay295345/23112.m3u8
-#EXTINF:-1,NL: Veronica / Disney XD HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23113.m3u8
-#EXTINF:-1,NL: Veronica Disney XD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23114.m3u8
-#EXTINF:-1,NL: Veronica/DisneyXD HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23115.m3u8
-#EXTINF:-1,NL: Ziggo Sport eXtra 1
-http://secure.serkom.eu:80/live/sinanay/ay295345/23116.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://secure.serkom.eu:80/live/sinanay/ay295345/23117.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra1
-http://secure.serkom.eu:80/live/sinanay/ay295345/23118.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra2
-http://secure.serkom.eu:80/live/sinanay/ay295345/23119.m3u8
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://secure.serkom.eu:80/live/sinanay/ay295345/23120.m3u8
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://secure.serkom.eu:80/live/sinanay/ay295345/23121.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select
-http://secure.serkom.eu:80/live/sinanay/ay295345/23122.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://secure.serkom.eu:80/live/sinanay/ay295345/23123.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://secure.serkom.eu:80/live/sinanay/ay295345/23124.m3u8
-#EXTINF:-1,NL: Ziggo Sport.Voetbal
-http://secure.serkom.eu:80/live/sinanay/ay295345/23125.m3u8
-
-#EXTINF:-1,NL: 192 TV HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74953
-#EXTINF:-1,NL: 192TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154341
-#EXTINF:-1,NL: 24 Kitchen HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74954
-#EXTINF:-1,NL: AMC FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127901
-#EXTINF:-1,NL: AnimalPlanet
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74955
-#EXTINF:-1,NL: AT5 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74956
-#EXTINF:-1,NL: Baby TV HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74957
-#EXTINF:-1,NL: BBC Entertainment
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/110634
-#EXTINF:-1,NL: BBC First FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127892
-#EXTINF:-1,NL: Boomerang HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74958
-#EXTINF:-1,NL: Cartoon
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154345
-#EXTINF:-1,NL: CARTOON NETWORK HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74959
-#EXTINF:-1,NL: CAZ
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130795
-#EXTINF:-1,NL: CBS Reality HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/106237
-#EXTINF:-1,NL: Comedy Central Extra HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75003
-#EXTINF:-1,NL: Comedy Central Family
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75004
-#EXTINF:-1,NL: Comedy Central HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74960
-#EXTINF:-1,NL: ComedyCentralNederland
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/139298
-#EXTINF:-1,NL: Crime & Investigation HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75005
-#EXTINF:-1,NL: Crime & Investigation+
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/143852
-#EXTINF:-1,NL: CRIME INVESTIGATION NETWORK
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/139300
-#EXTINF:-1,NL: Dance Trippin FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127888
-#EXTINF:-1,NL: Discovery Channel FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74961
-#EXTINF:-1,NL: Discovery ID FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74971
-#EXTINF:-1,NL: Discovery Investigation
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136216
-#EXTINF:-1,NL: Discovery Science FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93824
-#EXTINF:-1,NL: Discovery World HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93823
-#EXTINF:-1,NL: Discovery.Channel
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154347
-#EXTINF:-1,NL: DiscoveryShowcase HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96850
-#EXTINF:-1,NL: Disney Channel FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75008
-#EXTINF:-1,NL: DISNEY CHANNEL NEDERLAND
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/119002
-#EXTINF:-1,NL: Disney Junior HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74962
-#EXTINF:-1,NL: Disney.Channel
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154349
-#EXTINF:-1,NL: Duck TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130798
-#EXTINF:-1,NL: E! Entertainment HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/89194
-#EXTINF:-1,NL: EDE TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130799
-#EXTINF:-1,NL: EDGE
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96854
-#EXTINF:-1,NL: Edge Sport
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75009
-#EXTINF:-1,NL: ELEVEN Sports 1
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/152547
-#EXTINF:-1,NL: ELEVEN Sports 2
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/152548
-#EXTINF:-1,NL: ELEVEN Sports 3
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/152549
-#EXTINF:-1,NL: Eurosport 1 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74964
-#EXTINF:-1,NL: Eurosport 2 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74965
-#EXTINF:-1,NL: EUROSPORT 2 NL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/139305
-#EXTINF:-1,NL: Eurosport 1HD NL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154350
-#EXTINF:-1,NL: Extreme Sports Channel HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64236
-#EXTINF:-1,NL: Film 1 Comedy
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74966
-#EXTINF:-1,NL: FILM 1 COMEDY & KIDS
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96856
-#EXTINF:-1,NL: Film 1 Comedy and Kids
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64233
-#EXTINF:-1,NL: FILM 1 PREMIER HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/102430
-#EXTINF:-1,NL: FILM 1 SPOTLIGHT
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/133807
-#EXTINF:-1,NL: Film Action
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87642
-#EXTINF:-1,NL: Film Drama
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/111043
-#EXTINF:-1,NL: Film Europe HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/113757
-#EXTINF:-1,NL: Film Europe INT FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127862
-#EXTINF:-1,NL: FILM PREMIERE
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87645
-#EXTINF:-1,NL: FILM SUNDANCE
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87646
-#EXTINF:-1,NL: Film1 Action FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64220
-#EXTINF:-1,NL: Film1 Drama FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74967
-#EXTINF:-1,NL: Film1 Family FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/126510
-#EXTINF:-1,NL: Film1 Premiere FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64234
-#EXTINF:-1,NL: Film1Sundance
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75011
-#EXTINF:-1,NL: Fine Living HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127860
-#EXTINF:-1,NL: Food Network FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/103196
-#EXTINF:-1,NL: Food.Network.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154355
-#EXTINF:-1,NL: Fox Channel FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74968
-#EXTINF:-1,NL: FOX SPORT 1 EREDIVISIE HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93528
-#EXTINF:-1,NL: Fox Sport 3
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64221
-#EXTINF:-1,NL: Fox Sport 5
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65199
-#EXTINF:-1,NL: Fox Sport 6 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65198
-#EXTINF:-1,NL: Fox Sports 1
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65203
-#EXTINF:-1,NL: FOX SPORTS 1 Full HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154275
-#EXTINF:-1,NL: FOX SPORTS 2 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65202
-#EXTINF:-1,NL: FOX SPORTS 2 INTERNATIONAL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93527
-#EXTINF:-1,NL: FOX SPORTS 3 EREDIVISIE
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93526
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65200
-#EXTINF:-1,NL: FOX SPORTS 4 INTERNATIONAL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93525
-#EXTINF:-1,NL: FOX SPORTS 5 EREDIVISIE HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93524
-#EXTINF:-1,NL: FOX SPORTS 6 INT
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/139312
-#EXTINF:-1,NL: FOX SPORTS 6 INTERNATIONAL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/106249
-#EXTINF:-1,NL: FOX Sports EDL 1 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96865
-#EXTINF:-1,NL: FOX Sports EDL 3 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96866
-#EXTINF:-1,NL: FOX.Channel
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154356
-#EXTINF:-1,NL: FOX.Sports.EDL.1.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154357
-#EXTINF:-1,NL: FOX.Sports.EDL.3
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154358
-#EXTINF:-1,NL: Golf HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64232
-#EXTINF:-1,NL: HBO 1 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87653
-#EXTINF:-1,NL: HBO 2 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64224
-#EXTINF:-1,NL: HBO 3 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64222
-#EXTINF:-1,NL: HBO HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64225
-#EXTINF:-1,NL: HISTORY CHANNEL HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74970
-#EXTINF:-1,NL: History.HD.DUT
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154359
-#EXTINF:-1,NL: Horse & Country TV HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/118931
-#EXTINF:-1,NL: Investigation.Discovery
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154360
-#EXTINF:-1,NL: JIMJAM
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74972
-#EXTINF:-1,NL: Ketnet
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136195
-#EXTINF:-1,NL: KetOp12
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/113760
-#EXTINF:-1,NL: L1MBURG
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96869
-#EXTINF:-1,NL: Motors TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96870
-#EXTINF:-1,NL: MTV 24 Music HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65264
-#EXTINF:-1,NL: MTV Brand New HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127891
-#EXTINF:-1,NL: MTV FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74975
-#EXTINF:-1,NL: Mtv Music
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/137493
-#EXTINF:-1,NL: MTV.Nederland
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154361
-#EXTINF:-1,NL: NAT GEO CHANNEL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74978
-#EXTINF:-1,NL: NAT GEO Wild FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74977
-#EXTINF:-1,NL: Nat.Geo.Wild.HD.DUT
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154362
-#EXTINF:-1,NL: Net5 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74979
-#EXTINF:-1,NL: NET5.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154363
-#EXTINF:-1,NL: Ngc
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136210
-#EXTINF:-1,NL: Nick Hits
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/135737
-#EXTINF:-1,NL: NICK JR NL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/139319
-#EXTINF:-1,NL: Nick Music HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74981
-#EXTINF:-1,NL: Nick Toons HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87660
-#EXTINF:-1,NL: Nick/Spike
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/134595
-#EXTINF:-1,NL: Nickelodeon FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74982
-#EXTINF:-1,NL: Nickelodeon Junior
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74980
-#EXTINF:-1,NL: NICKOLODEON
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/106255
-#EXTINF:-1,NL: NPO 1 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64228
-#EXTINF:-1,NL: NPO 2 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64227
-#EXTINF:-1,NL: NPO 3 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64226
-#EXTINF:-1,NL: NPO 101
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75015
-#EXTINF:-1,NL: NPO CULTURA
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93803
-#EXTINF:-1,NL: Npo Nieuws
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136186
-#EXTINF:-1,NL: NPO Zapp Xtra
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/113762
-#EXTINF:-1,NL: NPO Zapp Xtra/NPO Best HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127907
-#EXTINF:-1,NL: NPO Zapp Xtra/NPO Humor TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130759
-#EXTINF:-1,NL: NPO ZAPPELIN XTRA/HUMOR TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75017
-#EXTINF:-1,NL: NPO1.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154366
-#EXTINF:-1,NL: NPO2.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154367
-#EXTINF:-1,NL: NPO3.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154368
-#EXTINF:-1,NL: NPOPolitiek
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74984
-#EXTINF:-1,NL: OMROEP BRABANT
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74986
-#EXTINF:-1,NL: Omroep Flevoland
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136243
-#EXTINF:-1,NL: Omroep Fryslan
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127909
-#EXTINF:-1,NL: OMROEP GELDERLAND
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74987
-#EXTINF:-1,NL: Omroep Zeeland
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127908
-#EXTINF:-1,NL: OMROP FRYSLAN
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/97365
-#EXTINF:-1,NL: ONS HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/89206
-#EXTINF:-1,NL: Pebble TV HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/96877
-#EXTINF:-1,NL: RTL 4 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64229
-#EXTINF:-1,NL: RTL 5 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64230
-#EXTINF:-1,NL: RTL 7 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64231
-#EXTINF:-1,NL: RTL 8 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74988
-#EXTINF:-1,NL: RTL Telekids FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75020
-#EXTINF:-1,NL: RTL4.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154373
-#EXTINF:-1,NL: RTL5.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154374
-#EXTINF:-1,NL: RTL7.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154375
-#EXTINF:-1,NL: RTL8.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154376
-#EXTINF:-1,NL: RTLCrime
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74989
-#EXTINF:-1,NL: RTLlounge
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75019
-#EXTINF:-1,NL: RTLZ
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64219
-#EXTINF:-1,NL: RTV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130805
-#EXTINF:-1,NL: RTV 7
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/98031
-#EXTINF:-1,NL: RTV Drenthe
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74992
-#EXTINF:-1,NL: RTV Noord
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127910
-#EXTINF:-1,NL: RTV OOST
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/89212
-#EXTINF:-1,NL: RTV Utrecht
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136239
-#EXTINF:-1,NL: SALTO LIVE
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/133820
-#EXTINF:-1,NL: SBS 6 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/106265
-#EXTINF:-1,NL: SBS 9 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/106266
-#EXTINF:-1,NL: SBS 9Q
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/97168
-#EXTINF:-1,NL: SBS6 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74993
-#EXTINF:-1,NL: SBS6.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154377
-#EXTINF:-1,NL: SBS9 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74994
-#EXTINF:-1,NL: Shorts TV FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75021
-#EXTINF:-1,NL: Spike FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74995
-#EXTINF:-1,NL: SPORT 1 EXSTRA 1
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130813
-#EXTINF:-1,NL: Sport 1 Voetbal
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93105
-#EXTINF:-1,NL: Sport1 Racing
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/93103
-#EXTINF:-1,NL: SPORTS 1 GOLF
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/130811
-#EXTINF:-1,NL: Stingray Lite TV
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127886
-#EXTINF:-1,NL: Syfy
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75022
-#EXTINF:-1,NL: TLC FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74996
-#EXTINF:-1,NL: Travel Channel FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127858
-#EXTINF:-1,NL: TV 538
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75023
-#EXTINF:-1,NL: TV Gelderland
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/113767
-#EXTINF:-1,NL: TV Rijnmond
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127927
-#EXTINF:-1,NL: TV West
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74999
-#EXTINF:-1,NL: TVNoord
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136241
-#EXTINF:-1,NL: TVOost
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/136240
-#EXTINF:-1,NL: TVOranje
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/74998
-#EXTINF:-1,NL: Veronica
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/87663
-#EXTINF:-1,NL: Veronica / DisneyXD HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75000
-#EXTINF:-1,NL: Veronica DisneyXD.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154382
-#EXTINF:-1,NL: Viceland FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/127851
-#EXTINF:-1,NL: Viceland NL
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/148247
-#EXTINF:-1,NL: XITE FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/64238
-#EXTINF:-1,NL: Ziggo Extra 1
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/146540
-#EXTINF:-1,NL: Ziggo Golf
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/111044
-#EXTINF:-1,NL: Ziggo Racing
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/110639
-#EXTINF:-1,NL: Ziggo Select
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/111045
-#EXTINF:-1,NL: Ziggo Sport Extra 1 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65192
-#EXTINF:-1,NL: Ziggo Sport Extra 2 FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65191
-#EXTINF:-1,NL: Ziggo Sport FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/75001
-#EXTINF:-1,NL: Ziggo Sport Racing FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65189
-#EXTINF:-1,NL: ZIGGO SPORT SELECT 1 HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/126486
-#EXTINF:-1,NL: Ziggo Sport Select FHD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65194
-#EXTINF:-1,NL: Ziggo.Sport.Select.HD
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/154384
-#EXTINF:-1,NL: ZiggoSportGolf
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65190
-#EXTINF:-1,NL: ZiggoSportVoetbal
-http://landiptv.live:8080/frenchdubai/AnnaXDwzGwJtG/65193
-#EXTINF:-1,---------- NATHERLANDS ----------
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4049
-#EXTINF:-1,NL:Arya Rap NL 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4020
-#EXTINF:-1,NL:Discovery Showcase 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4025
-#EXTINF:-1,NL:Edge Sport 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4026
-#EXTINF:-1,NL:Eurosport 1 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4027
-#EXTINF:-1,NL:Film 1 Premiere 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4033
-#EXTINF:-1,NL:Food Network 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4028
-#EXTINF:-1,NL:FOX SPORTS 1 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4024
-#EXTINF:-1,NL:FOX Sports 3 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4029
-#EXTINF:-1,NL:History 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4030
-#EXTINF:-1,NL:Movie Box 1 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4021
-#EXTINF:-1,NL:Movie Box 2 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4022
-#EXTINF:-1,NL:Movie Box 3 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4023
-#EXTINF:-1,NL:Nat Geo 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4031
-#EXTINF:-1,NL:Nat Geo Wild 4K
-http://dreambox84.com:8000/122683325994/5c1f80642538a/4032
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NETHERLAND █ ▇ ▆ ▅ ▄ ▃
-http://iptvtool.es:9977/JESUS/JESUS/36122
-#EXTINF:-1,NL: 24 Kitchen
-http://iptvtool.es:9977/JESUS/JESUS/58703
-#EXTINF:-1,NL: 538 TV
-http://iptvtool.es:9977/JESUS/JESUS/58633
-#EXTINF:-1,NL: Animal Planet HD
-http://iptvtool.es:9977/JESUS/JESUS/58702
-#EXTINF:-1,NL: AT5 HD
-http://iptvtool.es:9977/JESUS/JESUS/58701
-#EXTINF:-1,NL: BBC Entertainement
-http://iptvtool.es:9977/JESUS/JESUS/58700
-#EXTINF:-1,NL: Brabant Televisie
-http://iptvtool.es:9977/JESUS/JESUS/58672
-#EXTINF:-1,NL: BVN
-http://iptvtool.es:9977/JESUS/JESUS/58699
-#EXTINF:-1,NL: Cartoon Network
-http://iptvtool.es:9977/JESUS/JESUS/58698
-#EXTINF:-1,NL: Comedy Central
-http://iptvtool.es:9977/JESUS/JESUS/58697
-#EXTINF:-1,NL: Comedy Central Extra
-http://iptvtool.es:9977/JESUS/JESUS/58696
-#EXTINF:-1,NL: Comedy Central Family
-http://iptvtool.es:9977/JESUS/JESUS/58695
-#EXTINF:-1,NL: Crime & Investigation
-http://iptvtool.es:9977/JESUS/JESUS/58694
-#EXTINF:-1,NL: Discovery Channel
-http://iptvtool.es:9977/JESUS/JESUS/58693
-#EXTINF:-1,NL: Discovery Science HD
-http://iptvtool.es:9977/JESUS/JESUS/58692
-#EXTINF:-1,NL: Disney Channel HD
-http://iptvtool.es:9977/JESUS/JESUS/58691
-#EXTINF:-1,NL: Disney Junior
-http://iptvtool.es:9977/JESUS/JESUS/58690
-#EXTINF:-1,NL: E! Entertainement
-http://iptvtool.es:9977/JESUS/JESUS/58689
-#EXTINF:-1,NL: EDE TV
-http://iptvtool.es:9977/JESUS/JESUS/58688
-#EXTINF:-1,NL: Eurosport 1 HD
-http://iptvtool.es:9977/JESUS/JESUS/58687
-#EXTINF:-1,NL: Eurosport 2 HD
-http://iptvtool.es:9977/JESUS/JESUS/58686
-#EXTINF:-1,NL: Film 1 Action HD
-http://iptvtool.es:9977/JESUS/JESUS/58685
-#EXTINF:-1,NL: Film 1 Comedy HD
-http://iptvtool.es:9977/JESUS/JESUS/58684
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://iptvtool.es:9977/JESUS/JESUS/58683
-#EXTINF:-1,NL: Film 1 Sundance
-http://iptvtool.es:9977/JESUS/JESUS/58682
-#EXTINF:-1,NL: Film1 Spotlight
-http://iptvtool.es:9977/JESUS/JESUS/58681
-#EXTINF:-1,NL: Fox HD
-http://iptvtool.es:9977/JESUS/JESUS/58680
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://iptvtool.es:9977/JESUS/JESUS/58679
-#EXTINF:-1,NL: Fox Sports 2 HD
-http://iptvtool.es:9977/JESUS/JESUS/58678
-#EXTINF:-1,NL: Fox Sports 3
-http://iptvtool.es:9977/JESUS/JESUS/58677
-#EXTINF:-1,NL: Fox Sports 4
-http://iptvtool.es:9977/JESUS/JESUS/58676
-#EXTINF:-1,NL: Fox Sports 5
-http://iptvtool.es:9977/JESUS/JESUS/58675
-#EXTINF:-1,NL: Fox Sports 6
-http://iptvtool.es:9977/JESUS/JESUS/58674
-#EXTINF:-1,NL: Fryslan HD
-http://iptvtool.es:9977/JESUS/JESUS/58673
-#EXTINF:-1,NL: History Channel
-http://iptvtool.es:9977/JESUS/JESUS/58671
-#EXTINF:-1,NL: I Concerts
-http://iptvtool.es:9977/JESUS/JESUS/58670
-#EXTINF:-1,NL: Investigation Discovery
-http://iptvtool.es:9977/JESUS/JESUS/58669
-#EXTINF:-1,NL: JimJam
-http://iptvtool.es:9977/JESUS/JESUS/58668
-#EXTINF:-1,NL: Klipkar TV
-http://iptvtool.es:9977/JESUS/JESUS/58704
-#EXTINF:-1,NL: L1 Limburg
-http://iptvtool.es:9977/JESUS/JESUS/58667
-#EXTINF:-1,NL: MTV HD
-http://iptvtool.es:9977/JESUS/JESUS/58666
-#EXTINF:-1,NL: N1 (Nijmegen)
-http://iptvtool.es:9977/JESUS/JESUS/58665
-#EXTINF:-1,NL: National Geographic HD
-http://iptvtool.es:9977/JESUS/JESUS/58664
-#EXTINF:-1,NL: National Geographic Wild HD
-http://iptvtool.es:9977/JESUS/JESUS/58663
-#EXTINF:-1,NL: Net 5 HD
-http://iptvtool.es:9977/JESUS/JESUS/58662
-#EXTINF:-1,NL: Nick Jr
-http://iptvtool.es:9977/JESUS/JESUS/58661
-#EXTINF:-1,NL: Nickelodeon / Spike
-http://iptvtool.es:9977/JESUS/JESUS/58660
-#EXTINF:-1,NL: Nicktoons
-http://iptvtool.es:9977/JESUS/JESUS/58659
-#EXTINF:-1,NL: NPO 1 HD
-http://iptvtool.es:9977/JESUS/JESUS/58658
-#EXTINF:-1,NL: NPO 101
-http://iptvtool.es:9977/JESUS/JESUS/58657
-#EXTINF:-1,NL: NPO 2 HD
-http://iptvtool.es:9977/JESUS/JESUS/58656
-#EXTINF:-1,NL: NPO 3 HD
-http://iptvtool.es:9977/JESUS/JESUS/58655
-#EXTINF:-1,NL: NPO Cultura
-http://iptvtool.es:9977/JESUS/JESUS/58654
-#EXTINF:-1,NL: NPO Politiek/Best
-http://iptvtool.es:9977/JESUS/JESUS/58653
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://iptvtool.es:9977/JESUS/JESUS/58652
-#EXTINF:-1,NL: Omroep Zeeland
-http://iptvtool.es:9977/JESUS/JESUS/58651
-#EXTINF:-1,NL: ONS
-http://iptvtool.es:9977/JESUS/JESUS/58650
-#EXTINF:-1,NL: Oost
-http://iptvtool.es:9977/JESUS/JESUS/58649
-#EXTINF:-1,NL: RTL 4 HD
-http://iptvtool.es:9977/JESUS/JESUS/58648
-#EXTINF:-1,NL: RTL 5 HD
-http://iptvtool.es:9977/JESUS/JESUS/58647
-#EXTINF:-1,NL: RTL 7 HD
-http://iptvtool.es:9977/JESUS/JESUS/58646
-#EXTINF:-1,NL: RTL 8 HD
-http://iptvtool.es:9977/JESUS/JESUS/58645
-#EXTINF:-1,NL: RTL Lounge
-http://iptvtool.es:9977/JESUS/JESUS/58644
-#EXTINF:-1,NL: RTL Z
-http://iptvtool.es:9977/JESUS/JESUS/58643
-#EXTINF:-1,NL: RTV Drenthe
-http://iptvtool.es:9977/JESUS/JESUS/58642
-#EXTINF:-1,NL: RTV Slingeland
-http://iptvtool.es:9977/JESUS/JESUS/58641
-#EXTINF:-1,NL: RTV Totaal voor Maas en Waal
-http://iptvtool.es:9977/JESUS/JESUS/58640
-#EXTINF:-1,NL: SBS 6 HD
-http://iptvtool.es:9977/JESUS/JESUS/58639
-#EXTINF:-1,NL: SBS 9
-http://iptvtool.es:9977/JESUS/JESUS/58638
-#EXTINF:-1,NL: Shorts TV
-http://iptvtool.es:9977/JESUS/JESUS/58637
-#EXTINF:-1,NL: Slam
-http://iptvtool.es:9977/JESUS/JESUS/58636
-#EXTINF:-1,NL: Streek TV
-http://iptvtool.es:9977/JESUS/JESUS/58635
-#EXTINF:-1,NL: TLC
-http://iptvtool.es:9977/JESUS/JESUS/58634
-#EXTINF:-1,NL: TV Oranje
-http://iptvtool.es:9977/JESUS/JESUS/58632
-#EXTINF:-1,NL: TVO
-http://iptvtool.es:9977/JESUS/JESUS/58631
-#EXTINF:-1,NL: Veronica / Disney XD
-http://iptvtool.es:9977/JESUS/JESUS/58630
-#EXTINF:-1,NL: WOS TV
-http://iptvtool.es:9977/JESUS/JESUS/58629
-#EXTINF:-1,NL: Zeeland Televisie
-http://iptvtool.es:9977/JESUS/JESUS/58628
-#EXTINF:-1,NL: Ziggo Sport eXtra 1
-http://iptvtool.es:9977/JESUS/JESUS/58627
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://iptvtool.es:9977/JESUS/JESUS/58626
-#EXTINF:-1,NL: Ziggo Sport Golf
-http://iptvtool.es:9977/JESUS/JESUS/58625
-#EXTINF:-1,NL: Ziggo Sport Racing
-http://iptvtool.es:9977/JESUS/JESUS/58624
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://iptvtool.es:9977/JESUS/JESUS/58623
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://iptvtool.es:9977/JESUS/JESUS/58622
+#EXTINF:-1,USA | CNN HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85976
+#EXTINF:-1,USA | A&E
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85564
+#EXTINF:-1,USA | ABC EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85562
+#EXTINF:-1,USA |  ABC WEST LA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85561
+#EXTINF:-1,USA | ABC 7 CHICAGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85563
+#EXTINF:-1,USA | AMC.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85560
+#EXTINF:-1,USA | AMERICAN HEROES NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85557
+#EXTINF:-1,USA | ANIMAL PLANET
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85556
+#EXTINF:-1,USA | AWE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85559
+#EXTINF:-1,USA | AXS TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/84718
+#EXTINF:-1,USA | BBC AMERICA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85555
+#EXTINF:-1,USA | BET
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85554
+#EXTINF:-1,USA |  BET HER
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85553
+#EXTINF:-1,USA | BLOOMBERG
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85551
+#EXTINF:-1,USA | BOOMERANG.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85550
+#EXTINF:-1,USA | BRAVO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85548
+#EXTINF:-1,USA | BUZZR
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85547
+#EXTINF:-1,USA | CARTOON NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85538
+#EXTINF:-1,USA | CBS EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85545
+#EXTINF:-1,USA | CBS West LA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85543
+#EXTINF:-1,USA | CBS 2 Chicago
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85546
+#EXTINF:-1,USA | CBS NY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85544
+#EXTINF:-1,USA |  CINEMAX ACTIONMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85536
+#EXTINF:-1,USA |  CINEMAX MOREMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85535
+#EXTINF:-1,USA |  CINEMAX THRILLERMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85534
+#EXTINF:-1,USA | CMT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85542
+#EXTINF:-1,USA | CNBC HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/94575
+#EXTINF:-1,USA |  CNBC WORLD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85541
+#EXTINF:-1,USA |  COMEDY CENTRAL EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85532
+#EXTINF:-1,USA | COOKING CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85531
+#EXTINF:-1,USA | COWBOY CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85530
+#EXTINF:-1,USA | COZI TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85540
+#EXTINF:-1,USA | CRIME & INVESTIGATION NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85529
+#EXTINF:-1,USA | CW NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85539
+#EXTINF:-1,USA |  DECADES
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85527
+#EXTINF:-1,USA |  DESTINATION AMERICA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85526
+#EXTINF:-1,USA | DISCOVERY CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85525
+#EXTINF:-1,USA |  DISCOVERY FAMILY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85524
+#EXTINF:-1,USA |  DISCOVERY LIFE (D)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85523
+#EXTINF:-1,USA | DISCOVERY SCIENCE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85522
+#EXTINF:-1,USA | DISNEY CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85521
+#EXTINF:-1,USA | DISNEY Jr
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85520
+#EXTINF:-1,USA | DISNEY XD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85519
+#EXTINF:-1,USA | DIY NETWORK.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85528
+#EXTINF:-1,USA | E!
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85518
+#EXTINF:-1,USA | EL REY NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85517
+#EXTINF:-1,USA | EPIX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85516
+#EXTINF:-1,USA | EPIX 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85515
+#EXTINF:-1,USA | EPIX HITS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85514
+#EXTINF:-1,USA |  FOOD NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85509
+#EXTINF:-1,USA | FOX EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85508
+#EXTINF:-1,USA | FOX WEST LA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85507
+#EXTINF:-1,USA | FOX32 CHICAGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85506
+#EXTINF:-1,USA | FOX NEWS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86656
+#EXTINF:-1,USA | FREEFORM
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85504
+#EXTINF:-1,USA | FX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85513
+#EXTINF:-1,USA | FXM
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85512
+#EXTINF:-1,USA | FXX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85511
+#EXTINF:-1,USA | FYI
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85510
+#EXTINF:-1,USA | GRIT TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85502
+#EXTINF:-1,USA | GSN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85503
+#EXTINF:-1,USA | HALLMARK CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85494
+#EXTINF:-1,USA |  HALLMARK DRAMA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85493
+#EXTINF:-1,USA |  HALLMARK MOVIE CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85492
+#EXTINF:-1,USA | HBO EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85499
+#EXTINF:-1,USA | HBO 2 EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85501
+#EXTINF:-1,USA | HBO COMEDY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85500
+#EXTINF:-1,USA |  HBO FAMILY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85498
+#EXTINF:-1,USA | HBO ZONE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85497
+#EXTINF:-1,USA | HGTV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85496
+#EXTINF:-1,USA | HISTORY CHANNEL HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85490
+#EXTINF:-1,USA | HLN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85495
+#EXTINF:-1,USA | IFC.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85489
+#EXTINF:-1,USA | INVESTIGATION DISCOVERY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85487
+#EXTINF:-1,USA | ION TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85488
+#EXTINF:-1,USA | LAFF TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85486
+#EXTINF:-1,USA | LIFETIME
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85485
+#EXTINF:-1,USA | LIFETIME MOVIE NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85484
+#EXTINF:-1,USA | LOGO (D)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85483
+#EXTINF:-1,USA |  ME TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85479
+#EXTINF:-1,USA | MGM
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85482
+#EXTINF:-1,USA | MSNBC
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86423
+#EXTINF:-1,USA | MTV  EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85480
+#EXTINF:-1,USA | MTV 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85481
+#EXTINF:-1,USA | NATIONAL GEOGRAPHIC CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85474
+#EXTINF:-1,USA |  NAT GEO WILD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85475
+#EXTINF:-1,USA | NBC EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85477
+#EXTINF:-1,USA | NBC WEST LOS ANGELES
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85476
+#EXTINF:-1,USA | NBC 4 NY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85478
+#EXTINF:-1,USA | NEWS 12 CT HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/28294
+#EXTINF:-1,USA | NICKELODEON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85472
+#EXTINF:-1,USA | OUTDOOR CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85470
+#EXTINF:-1,USA | OVATION
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85469
+#EXTINF:-1,USA | OWN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85471
+#EXTINF:-1,USA | OXYGEN TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85468
+#EXTINF:-1,USA | PARAMOUNT NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85465
+#EXTINF:-1,USA | PBS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85467
+#EXTINF:-1,USA | QVC (D)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85463
+#EXTINF:-1,USA | QVC 2 (D)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85462
+#EXTINF:-1,USA | REELZ
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85461
+#EXTINF:-1,USA | REV'N
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85460
+#EXTINF:-1,USA | REVOLT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85459
+#EXTINF:-1,USA | SHOWTIME
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85457
+#EXTINF:-1,USA | SHOWTIME 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85456
+#EXTINF:-1,USA | SHOWTIME EXTREME
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85455
+#EXTINF:-1,USA | SMITHSONIAN CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85454
+#EXTINF:-1,USA | STARZ EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85452
+#EXTINF:-1,USA | STARZ COMEDY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85453
+#EXTINF:-1,USA | STARZ ENCORE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85451
+#EXTINF:-1,USA | STARZ ENCORE WESTERNS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85450
+#EXTINF:-1,USA | STARZ KIDS & FAMILY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85449
+#EXTINF:-1,USA | SUNDANCE TV.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85448
+#EXTINF:-1,USA | SYFY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85458
+#EXTINF:-1,USA | TBN TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85752
+#EXTINF:-1,USA | TBS.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85447
+#EXTINF:-1,USA |  PBS KIDS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85466
+#EXTINF:-1,USA | CINEMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85537
+#EXTINF:-1,USA | CINEMAX West
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85533
+#EXTINF:-1,USA | NICK JR
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85473
+#EXTINF:-1,USA | TCM.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85446
+#EXTINF:-1,USA | TLC
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85445
+#EXTINF:-1,USA | TNT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85444
+#EXTINF:-1,USA | TEEN NICK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85441
+#EXTINF:-1,USA | TRAVEL CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85440
+#EXTINF:-1,USA | TRU TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85439
+#EXTINF:-1,USA | TV LAND
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85443
+#EXTINF:-1,USA | TV ONE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85442
+#EXTINF:-1,USA | UP
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85438
+#EXTINF:-1,USA | USA NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85437
+#EXTINF:-1,USA | VELOCITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85435
+#EXTINF:-1,USA | VH1 EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85436
+#EXTINF:-1,USA | VICELAND
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85434
+#EXTINF:-1,USA | WE TV.
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85432
+#EXTINF:-1,USA | WGN AMERICA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85433
+#EXTINF:-1,USA | WINK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85431
+#EXTINF:-1,USA-R | C-SPAN 2 HD (DIRECT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/93270
+#EXTINF:-1,USA-R | C-SPAN 3 HD (DIRECT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/93269
+#EXTINF:-1,USA-R | C-SPAN HD (DIRECT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/93268
+#EXTINF:-1,USA-R | ABC BALTIMORE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85816
+#EXTINF:-1,USA-R | ABC BOSTON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85822
+#EXTINF:-1,USA-R | ABC CHARLOTTE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85839
+#EXTINF:-1,USA-R | ABC CHICAGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85841
+#EXTINF:-1,USA-R | ABC CLEVELAND
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85826
+#EXTINF:-1,USA-R | ABC COLUMBUS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85843
+#EXTINF:-1,USA-R | ABC CONNECTICUT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85824
+#EXTINF:-1,USA-R | ABC DALLAS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85837
+#EXTINF:-1,USA-R | ABC DETROIT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85821
+#EXTINF:-1,USA-R | ABC FINIX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85812
+#EXTINF:-1,USA-R | ABC FRESNO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85825
+#EXTINF:-1,USA-R | ABC HOUSTON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85827
+#EXTINF:-1,USA-R | ABC INDIANA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85811
+#EXTINF:-1,USA-R | ABC KABC
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105928
+#EXTINF:-1,USA-R | ABC KERO BAKERSFIELD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105927
+#EXTINF:-1,USA-R | ABC KFSN FRESNO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105926
+#EXTINF:-1,USA-R | ABC KTNV LAS VEGAS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105934
+#EXTINF:-1,USA-R | ABC KXTV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105924
+#EXTINF:-1,USA-R | ABC KANSASCITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85818
+#EXTINF:-1,USA-R | ABC LOSANGELES
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85820
+#EXTINF:-1,USA-R | ABC MIAMI
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85828
+#EXTINF:-1,USA-R | ABC MILWAUKEE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85819
+#EXTINF:-1,USA-R | ABC MINESSOTA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85814
+#EXTINF:-1,USA-R | ABC NEWYORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85844
+#EXTINF:-1,USA-R | ABC OHIO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85810
+#EXTINF:-1,USA-R | ABC ORLANDO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85829
+#EXTINF:-1,USA-R | ABC PHILADELPHIA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85845
+#EXTINF:-1,USA-R | ABC PITTSBURG
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85842
+#EXTINF:-1,USA-R | ABC PORTLAND
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85838
+#EXTINF:-1,USA-R | ABC RALEIGH-DURHAM
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85840
+#EXTINF:-1,USA-R | ABC SACRAMENTO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85834
+#EXTINF:-1,USA-R | ABC SALTLAKECITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85835
+#EXTINF:-1,USA-R | ABC SAN FRANCISCO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85846
+#EXTINF:-1,USA-R | ABC SANANTONIO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85817
+#EXTINF:-1,USA-R | ABC SANLUIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85815
+#EXTINF:-1,USA-R | ABC SEATLE
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85836
+#EXTINF:-1,USA-R | ABC TAMPA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85813
+#EXTINF:-1,USA-R | ABC 7 LOS ANGELES HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105935
+#EXTINF:-1,USA-R | ABC WASHINGTON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85823
+#EXTINF:-1,USA-R | CBS PITTS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85833
+#EXTINF:-1,US-S | CBS SPORTS NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85620
+#EXTINF:-1,US-S |  ELEVEN SPORTS 1
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85616
+#EXTINF:-1,US-S | ESPN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85619
+#EXTINF:-1,US-S | ESPN 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85618
+#EXTINF:-1,US-S | ESPN 3
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/68923
+#EXTINF:-1,US-S | ESPN NEWS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85617
+#EXTINF:-1,US-S |  FOX SOCCER PLUS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85614
+#EXTINF:-1,US-S | FOX SPORTS 1
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85613
+#EXTINF:-1,US-S | FOX SPORTS ARIZONA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85611
+#EXTINF:-1,US-S | FOX SPORTS DETROIT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85610
+#EXTINF:-1,US-S | FOX SPORTS FLORIDA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85609
+#EXTINF:-1,US-S | FOX SPORTS MIDWEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85608
+#EXTINF:-1,US-S | FOX SPORTS NORTH
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85607
+#EXTINF:-1,US-S | FOX SPORTS OHIO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85606
+#EXTINF:-1,US-S | FOX SPORTS PRIME TICKET
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85605
+#EXTINF:-1,US-S | FOX SPORTS SAN DIEGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85604
+#EXTINF:-1,US-S | FOX SPORTS SOUTH
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85603
+#EXTINF:-1,US-S | FOX SPORTS SOUTH EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85615
+#EXTINF:-1,US-S | FOX SPORTS SOUTHWEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85602
+#EXTINF:-1,US-S | FOX SPORTS SUN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85601
+#EXTINF:-1,US-S | FOX SPORTS WEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85600
+#EXTINF:-1,US-S | FOX SPORTS WISCONSIN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85599
+#EXTINF:-1,US-S | GOLF CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85598
+#EXTINF:-1,US-S | MAV TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85597
+#EXTINF:-1,US-S | MLB NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85596
+#EXTINF:-1,US-S | MSG
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85595
+#EXTINF:-1,US-S | NBA TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85594
+#EXTINF:-1,US-S | NBCSN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85586
+#EXTINF:-1,US-S | NBCSN BAY AREA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85585
+#EXTINF:-1,US-S | NBCSN BOSTON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85584
+#EXTINF:-1,US-S | NBCSN CHICAGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85583
+#EXTINF:-1,US-S | NBCSN NORTHWEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85582
+#EXTINF:-1,US-S | NBCSN PHILLY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85581
+#EXTINF:-1,US-S | NBCSN WASHINGTON
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85580
+#EXTINF:-1,US-S | NESN
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85579
+#EXTINF:-1,US-S | NFL NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85578
+#EXTINF:-1,US-S | NHL NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85577
+#EXTINF:-1,US-S | OLYMPIC CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85576
+#EXTINF:-1,US-S | REDBULL TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85575
+#EXTINF:-1,US-S | SNY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85574
+#EXTINF:-1,US-S | SPORTSMAN CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85573
+#EXTINF:-1,US-S | TENNIS CHANNEL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85572
+#EXTINF:-1,US-S | WILLOW TV SPORTS 2 (Live Games Only)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85567
+#EXTINF:-1,US-S | WORLD FISHING NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85566
+#EXTINF:-1,US-S | WWE NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85569
+#EXTINF:-1,US-S | YES NETWORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85565
+#EXTINF:-1,US-S | NBC GOLD 1 (LIVE EVENT)
+http://iptv-area-51.tv:2095/live/R51S101/MnHnw5hNj/11443.ts
+#EXTINF:-1,US-S | NBC GOLD 2 (LIVE EVENT)
+http://iptv-area-51.tv:2095/live/R51S101/MnHnw5hNj/11442.ts
+#EXTINF:-1,US-S | NBC GOLD 3 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85591
+#EXTINF:-1,US-S | NBC GOLD 4 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85590
+#EXTINF:-1,US-S | NBC GOLD 5 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85589
+#EXTINF:-1,US-S | NBC GOLD 6 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85588
+#EXTINF:-1,US-S | NBC GOLD 7 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85587
+#EXTINF:-1,USA-R | CBS KCBS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105923
+#EXTINF:-1,USA-R | CBS KCOY SANTA MARIA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105922
+#EXTINF:-1,USA-R | CBS KION MONTEREY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105920
+#EXTINF:-1,USA-R | CBS KTVN RENO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105909
+#EXTINF:-1,USA-R | CBS WRGB SCHENECTADY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105908
+#EXTINF:-1,USA-R | FOX 11 LOS ANGELES HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105931
+#EXTINF:-1,USA-R | FOX 7
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/92958
+#EXTINF:-1,USA-R | FOX KCBA SALINAS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105917
+#EXTINF:-1,USA-R | FOX KDFX PALM SPRINGS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105915
+#EXTINF:-1,USA-R | FOX KKFX SANTA BARBARA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105914
+#EXTINF:-1,USA-R |FOX KBVU EUREKA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105918
+#EXTINF:-1,USA-R | FOX KSTU
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105907
+#EXTINF:-1,USA-R | FOX KTTV LOS ANGELES
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105930
+#EXTINF:-1,USA-R | FOX KVVU LAS VEGAS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105906
+#EXTINF:-1,USA-R | FOX PITTS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85832
+#EXTINF:-1,USA-R | FOX SEAT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85831
+#EXTINF:-1,USA-R | NBC KBLR
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105905
+#EXTINF:-1,USA-R | NBC KCRA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105913
+#EXTINF:-1,USA-R | NBC KIEM EUREKA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105912
+#EXTINF:-1,USA-R | NBC KMIR PALM SPRINGS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105911
+#EXTINF:-1,USA-R | NBC KRNV RENO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105904
+#EXTINF:-1,USA-R | NBC KSL
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105903
+#EXTINF:-1,USA-R | NBC PITTS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85830
+#EXTINF:-1,USA-R | CBS HARTFORD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105970
+#EXTINF:-1,USA-R | CBS KANSASCITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105969
+#EXTINF:-1,USA-R | CBS MINNEAPOLIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105968
+#EXTINF:-1,USA-R | CBS ORLANDO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105967
+#EXTINF:-1,USA-R | CBS(GREENSBORO)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105971
+#EXTINF:-1,USA-R | CBS4 STLOUIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105974
+#EXTINF:-1,USA-R | CBS5 SAN FRANSISCO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105973
+#EXTINF:-1,USA-R | CBS9D.C
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105972
+#EXTINF:-1,USA-R | FOX BELMONT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105963
+#EXTINF:-1,USA-R | FOX BUFFALO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105962
+#EXTINF:-1,USA-R | FOX COLUMBUS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105961
+#EXTINF:-1,USA-R | FOX CONNECTICUT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105960
+#EXTINF:-1,USA-R | FOX DENVER
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105959
+#EXTINF:-1,USA-R | FOX HARTFORD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105958
+#EXTINF:-1,USA-R | FOX INDIANAPOLIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105957
+#EXTINF:-1,USA-R | FOX KANSASCITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105956
+#EXTINF:-1,USA-R | FOX MEMPHIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105955
+#EXTINF:-1,USA-R | FOX MINNEAPOLIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105954
+#EXTINF:-1,USA-R | FOX OCALA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105953
+#EXTINF:-1,USA-R | FOX SALT LAKECITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105952
+#EXTINF:-1,USA-R | FOX SANFRANCISCO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105951
+#EXTINF:-1,USA-R | FOX STLOUIS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105950
+#EXTINF:-1,USA-R | FOX32 CHICAGO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105964
+#EXTINF:-1,USA-R | FOX4 KANSAS
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105966
+#EXTINF:-1,USA-R | FOX5 D.C
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105965
+#EXTINF:-1,USA-R | FOX5(SANDIEGO)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105937
+#EXTINF:-1,USA-R | NBC BUFFALO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105946
+#EXTINF:-1,USA-R | NBC CINCINNATI
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105945
+#EXTINF:-1,USA-R | NBC CONNECTICUT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105944
+#EXTINF:-1,USA-R | NBC GREENBAY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105943
+#EXTINF:-1,USA-R | NBC HARTFORD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105942
+#EXTINF:-1,USA-R | NBC KANSASCITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105941
+#EXTINF:-1,USA-R | NBC NEWYORK
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105975
+#EXTINF:-1,USA-R | NBC ORLANDO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105976
+#EXTINF:-1,USA-R | NBC RALEIGH
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105940
+#EXTINF:-1,USA-R | NBC SALTLAKECITY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105939
+#EXTINF:-1,USA-R | NBC SANFRANCISCO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105938
+#EXTINF:-1,USA-R | NBC10 PHILADELPHIA
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105948
+#EXTINF:-1,USA-R | NBC11 NEWS(BAYAREA)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105947
+#EXTINF:-1,USA-R | NBC4 DC
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/105949
+#EXTINF:-1,US-S | ESPN ( OP2 )
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/107573
+#EXTINF:-1,US-S | ESPN 2 (OP2)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/107572
+#EXTINF:-1,US-S | ESPN U (OP2)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/107571
+#EXTINF:-1,US | 5 STAR MAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102642
+#EXTINF:-1,US | ACTIONMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102641
+#EXTINF:-1,US | CINEMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102643
+#EXTINF:-1,US | HBO COMEDY
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102634
+#EXTINF:-1,US | HBO FAMILY WEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102635
+#EXTINF:-1,US | HBO GOT
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102638
+#EXTINF:-1,US | HBO LATINO
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102637
+#EXTINF:-1,US | HBO SIGNATURE EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102631
+#EXTINF:-1,US | HBO WEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102632
+#EXTINF:-1,US | HBO ZONE HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102636
+#EXTINF:-1,US | HBO2 HD EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102630
+#EXTINF:-1,US | HBO2 WEST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102633
+#EXTINF:-1,US | MAX EAST
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102639
+#EXTINF:-1,US | MOREMAX
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/102640
+#EXTINF:-1,US/CA-A&E
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11526
+#EXTINF:-1,US/CA-ABC News
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11525
+#EXTINF:-1,US/CA-AMC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11524
+#EXTINF:-1,US/CA-Animal Planet
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11523
+#EXTINF:-1,US/CA-Bloomberg-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11522
+#EXTINF:-1,US/CA-Cartoon Network
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11521
+#EXTINF:-1,US/CA-CBS Sports Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11520
+#EXTINF:-1,US/CA-Cinemax HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11519
+#EXTINF:-1,US/CA-CNN HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11518
+#EXTINF:-1,US/CA-Comedy Central
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11517
+#EXTINF:-1,US/CA-CW HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11516
+#EXTINF:-1,US/CA-Discovery Science HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11515
+#EXTINF:-1,US/CA-E! Entertainment
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11514
+#EXTINF:-1,US/CA-ESPN 2 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11513
+#EXTINF:-1,US/CA-ESPN News HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11512
+#EXTINF:-1,US/CA-ESPN UHD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11511
+#EXTINF:-1,US/CA-ESPN USA HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11510
+#EXTINF:-1,US/CA-Fox HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11509
+#EXTINF:-1,US/CA-Fox News HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11508
+#EXTINF:-1,US/CA-Fox Sports 2 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11507
+#EXTINF:-1,US/CA-FX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11506
+#EXTINF:-1,US/CA-FXX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11505
+#EXTINF:-1,US/CA-Golf HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11504
+#EXTINF:-1,US/CA-HBO Comedy
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11503
+#EXTINF:-1,US/CA-HBO Signature
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11502
+#EXTINF:-1,US/CA-HBO Zone
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11501
+#EXTINF:-1,US/CA-HGTV HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11500
+#EXTINF:-1,US/CA-Investigation Discovery HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11499
+#EXTINF:-1,US/CA-MLB Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11498
+#EXTINF:-1,US/CA-MoreMax HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11497
+#EXTINF:-1,US/CA-NBC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11495
+#EXTINF:-1,US/CA-NBC Sports Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11496
+#EXTINF:-1,US/CA-NFL Channel HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11494
+#EXTINF:-1,US/CA-NHL Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11493
+#EXTINF:-1,US/CA-Nickelodeon
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11492
+#EXTINF:-1,US/CA-PAC 12 Bay Area HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11490
+#EXTINF:-1,US/CA-PAC 12 Los Angeles HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11489
+#EXTINF:-1,US/CA-PAC 12 Oregon HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11487
+#EXTINF:-1,US/CA-PAC 12 Washington HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11486
+#EXTINF:-1,US/CA-PAC-12 Arizona HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11491
+#EXTINF:-1,US/CA-PAC-12 Mountain HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11488
+#EXTINF:-1,US/CA-Showtime HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11485
+#EXTINF:-1,US/CA-Spike HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11484
+#EXTINF:-1,US/CA-Sports Net 360 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11483
+#EXTINF:-1,US/CA-Sports Net One HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11482
+#EXTINF:-1,US/CA-Sports Net Ontario HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11481
+#EXTINF:-1,US/CA-Sports Net Pacific HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11480
+#EXTINF:-1,US/CA-Sports Net West HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11479
+#EXTINF:-1,US/CA-Sports Net World HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11478
+#EXTINF:-1,US/CA-Starz Cinema HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11477
+#EXTINF:-1,US/CA-Starz HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11476
+#EXTINF:-1,US/CA-Syfy HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11475
+#EXTINF:-1,US/CA-TBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11474
+#EXTINF:-1,US/CA-TLC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11473
+#EXTINF:-1,US/CA-TNT HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11472
+#EXTINF:-1,US/CA-TSN 1 HD-CA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11471
+#EXTINF:-1,US/CA-TSN 2 HD-CA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11470
+#EXTINF:-1,US/CA-TSN 3 HD-CA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11469
+#EXTINF:-1,US/CA-TSN 4 HD-CA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11468
+#EXTINF:-1,US/CA-TSN 5 HD-CA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11467
+#EXTINF:-1,US/CA-USA Network
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11466
+#EXTINF:-1,US/CA-WWE Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11465
+#EXTINF:-1,US/CA: FOX SPORTS 1 4K
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11530
+#EXTINF:-1,US/CA: FOX SPORTS 2 4K
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11529
+#EXTINF:-1,US/CA: FREEDOM 4K
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11528
+#EXTINF:-1,US/CA: TBS 4K
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11527
+#EXTINF:-1,US/CA: WWE RAW HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11540
+#EXTINF:-1,USA-FOX SPORTS 1 FHD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11539
+#EXTINF:-1,USA-FOX SPORTS 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11538
+#EXTINF:-1,USA/CA : CBSN
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11537
+#EXTINF:-1,USA/CA: Bein Sports HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11536
+#EXTINF:-1,USA/CA: CNBC WORLD HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11535
+#EXTINF:-1,USA/CA: NFL HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11534
+#EXTINF:-1,USA/CA: PBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11533
+#EXTINF:-1,USA/CA: PBS PLUS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11532
+#EXTINF:-1,USA/CA: SportsNet 1 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11531
+#EXTINF:-1,USA: ABC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11462
+#EXTINF:-1,USA: ABC NEWS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11461
+#EXTINF:-1,USA: AETV HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11460
+#EXTINF:-1,USA: AMC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11459
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11458
+#EXTINF:-1,USA: BeIN Sports US HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11457
+#EXTINF:-1,USA: BRAVO HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11456
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11455
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11454
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11453
+#EXTINF:-1,USA: CBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11452
+#EXTINF:-1,USA: CN HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11451
+#EXTINF:-1,USA: CNBC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11450
+#EXTINF:-1,USA: CNN HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11449
+#EXTINF:-1,USA: CW HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11448
+#EXTINF:-1,USA: DISCOVERY HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11447
+#EXTINF:-1,USA: DIY Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11446
+#EXTINF:-1,USA: E! ENTERTAINMENT-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11445
+#EXTINF:-1,USA: ESPN 1 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11443
+#EXTINF:-1,USA: ESPN 2 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11444
+#EXTINF:-1,USA: FOX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11442
+#EXTINF:-1,USA: FOX NEWS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11441
+#EXTINF:-1,USA: FX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11440
+#EXTINF:-1,USA: HISTORY HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11439
+#EXTINF:-1,USA: LIFETIME HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11438
+#EXTINF:-1,USA: NAT GEO HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11437
+#EXTINF:-1,USA: NBC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11436
+#EXTINF:-1,USA: NICK HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11435
+#EXTINF:-1,USA: PBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11434
+#EXTINF:-1,USA: RT AMERICA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11433
+#EXTINF:-1,USA: Showtime Next HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11432
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11431
+#EXTINF:-1,USA: SPIKE HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11430
+#EXTINF:-1,USA: SYFY HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11429
+#EXTINF:-1,USA: TBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11428
+#EXTINF:-1,USA: TNT HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11427
+#EXTINF:-1,USA: TSN 1
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11426
+#EXTINF:-1,USA: TSN 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11425
+#EXTINF:-1,USA: TSN 3 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11424
+#EXTINF:-1,USA: TSN 4
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11423
+#EXTINF:-1,USA: TSN 5
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11422
+#EXTINF:-1,USA: USA NETWORK HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11421
+#EXTINF:-1,USA: beIN Sports HD 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7162
+#EXTINF:-1,USA: beIN Sports HD 4
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7163
+#EXTINF:-1,USA: beIN Sports HD 7
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7164
+#EXTINF:-1,USA: beIN Sports HD 8
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7165
+#EXTINF:-1,USA: beIN Sports HD 9
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7166
+#EXTINF:-1,USA: CSN CHICAGO HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7167
+#EXTINF:-1,USA: DEPORTES HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/7168
+#EXTINF:-1,TSN 1
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2817
+#EXTINF:-1,TSN 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2818
+#EXTINF:-1,TSN 3
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2819
+#EXTINF:-1,TSN 4
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2820
+#EXTINF:-1,NBA TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2484
+#EXTINF:-1,ESPN
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2612
+#EXTINF:-1,ESPN 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2710
+#EXTINF:-1,NFL HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2705
+#EXTINF:-1,NFL Network HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3858
+#EXTINF:-1,MBL HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3435
+#EXTINF:-1,MLB Network
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3436
+#EXTINF:-1,Fox Sports 1HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2703
+#EXTINF:-1,Fox Sports 2HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2702
+#EXTINF:-1,Fox SPORTS 506 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3434
+#EXTINF:-1,AFN SPORTS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3284
+#EXTINF:-1,AFN SPORTS 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3285
+#EXTINF:-1,AFN MOVIE
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3428
+#EXTINF:-1,AFN NEWS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3429
+#EXTINF:-1,AFN PRIME ATLANTIC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3430
+#EXTINF:-1,AFN PRIME PACIFIC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3431
+#EXTINF:-1,AFN PULSE
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3432
+#EXTINF:-1,AFN SPECTRUM
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3433
+#EXTINF:-1,HIFI
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2697
+#EXTINF:-1,CBS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3424
+#EXTINF:-1,CBSN HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3425
+#EXTINF:-1,SHOWTIME
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2838
+#EXTINF:-1,SHOWTIME 2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2839
+#EXTINF:-1,SHOWTIME EXTREME
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3290
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3291
+#EXTINF:-1,CINEMAX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3297
+#EXTINF:-1,CINEMAX 5
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3300
+#EXTINF:-1,CINEMAX 5 STARMAX
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3299
+#EXTINF:-1,CINEMAX EAST
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3298
+#EXTINF:-1,CINEMAX MOREMAX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3301
+#EXTINF:-1,CINEMAX THILLERMAX HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3302
+#EXTINF:-1,STARZ  HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3294
+#EXTINF:-1,STARZ COMEDY
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3295
+#EXTINF:-1,STARZ EDGE HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3296
+#EXTINF:-1,HBO
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3303
+#EXTINF:-1,FOX HD US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3293
+#EXTINF:-1,TSN 5
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3292
+#EXTINF:-1,E!
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3289
+#EXTINF:-1,USA NETWORK
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3288
+#EXTINF:-1,Action Max HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3287
+#EXTINF:-1,AMC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2711
+#EXTINF:-1,BRAVO HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2709
+#EXTINF:-1,Poker Central
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2699
+#EXTINF:-1,BLOOMBERG TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3437
+#EXTINF:-1,AMC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2708
+#EXTINF:-1,SYFY
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2704
+#EXTINF:-1,ABC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2698
+#EXTINF:-1,CW
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2707
+#EXTINF:-1,Life Time
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2706
+#EXTINF:-1,TENNIS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/2700
+#EXTINF:-1,FX
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3426
+#EXTINF:-1,BeinSports US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3427
+#EXTINF:-1,FXX US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3529
+#EXTINF:-1,CNBC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3531
+#EXTINF:-1,NBC HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4188
+#EXTINF:-1,C-SPAN 1 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4185
+#EXTINF:-1,C-SPAN 2 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4186
+#EXTINF:-1,C-SPAN 3 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4187
+#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4189
+#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4190
+#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4191
+#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4192
+#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4193
+#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4194
+#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4195
+#EXTINF:-1,PAC-12 Arizona HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4196
+#EXTINF:-1,PAC-12 Bay Area HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4197
+#EXTINF:-1,PAC-12 Los Angeles HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4198
+#EXTINF:-1,PAC-12 Mountain HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4199
+#EXTINF:-1,PAC-12 Oregon HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4200
+#EXTINF:-1,PAC-12 Washington HD-US
+http://dreambox84.com:8000/122683325994/5c1f80642538a/4201
+#EXTINF:-1,USA: WWE HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/11420
+#EXTINF:-1,ABS CBN
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3203
+#EXTINF:-1,AKSYON HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3126
+#EXTINF:-1,KAPATID 5
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3306
+#EXTINF:-1,CNN
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3205
+#EXTINF:-1,MYX TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3277
+#EXTINF:-1,DZMM
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3279
+#EXTINF:-1,C1
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3278
+#EXTINF:-1,NEWS5
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3204
+#EXTINF:-1,INC TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3206
+#EXTINF:-1,UNTV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3202
+#EXTINF:-1,-------  Thailand CH -------
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3473
+#EXTINF:-1,24TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3448
+#EXTINF:-1,3 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3449
+#EXTINF:-1,5 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3450
+#EXTINF:-1,7 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3451
+#EXTINF:-1,8 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3452
+#EXTINF:-1,9 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3453
+#EXTINF:-1,Bright TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3454
+#EXTINF:-1,DISCOVERY ASIA HD TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3455
+#EXTINF:-1,Fox Thai
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3456
+#EXTINF:-1,Ja Ting Ja
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3457
+#EXTINF:-1,MCOT HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3458
+#EXTINF:-1,Mono Plus
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3459
+#EXTINF:-1,Muslim TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3460
+#EXTINF:-1,Nation HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3461
+#EXTINF:-1,New TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3462
+#EXTINF:-1,News1 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3463
+#EXTINF:-1,Now26 HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3464
+#EXTINF:-1,One-HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3465
+#EXTINF:-1,Parliament
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3466
+#EXTINF:-1,PBS HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3467
+#EXTINF:-1,PPTV HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3468
+#EXTINF:-1,True Music TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3469
+#EXTINF:-1,STAR MAX Channel TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3470
+#EXTINF:-1,SONY ASIA HD TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3471
+#EXTINF:-1,TLC TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5238
+#EXTINF:-1,True FX TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5242
+#EXTINF:-1,True Select TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5243
+#EXTINF:-1,Universal TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5239
+#EXTINF:-1,WARNER TV TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5240
+#EXTINF:-1,YATEEM TV TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5241
+#EXTINF:-1,AXN HD TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5248
+#EXTINF:-1,Nat Geo Wild TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5246
+#EXTINF:-1,EXPLORE SCIENCE TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5247
+#EXTINF:-1,SERIES TH
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5245
+#EXTINF:-1,Thairath TV HD
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3472
+#EXTINF:-1,------- INDONESIA CH -------
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3276
+#EXTINF:-1,metro TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3125
+#EXTINF:-1,tvri
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3127
+#EXTINF:-1,MNC ENTERTAINMENT
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3124
+#EXTINF:-1,MNC WORLD NEWS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3123
+#EXTINF:-1,RTV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3184
+#EXTINF:-1,indosiar
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3183
+#EXTINF:-1,iNews
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3182
+#EXTINF:-1,beita satu
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3186
+#EXTINF:-1,Drama CHANNEL
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3185
+#EXTINF:-1,MUSIC-CHANNEL
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3122
+#EXTINF:-1,-------  KOREA CH -------
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3491
+#EXTINF:-1,STAR-2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3490
+#EXTINF:-1,MBC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3488
+#EXTINF:-1,MBC-SPORTS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3489
+#EXTINF:-1,KBS-1
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3485
+#EXTINF:-1,KBS-2
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3486
+#EXTINF:-1,KBS-SPORTS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3487
+#EXTINF:-1,SBS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5105
+#EXTINF:-1,SBS SPORTS
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5107
+#EXTINF:-1,SBS GOLF
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5106
+#EXTINF:-1,O'LIVE
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5104
+#EXTINF:-1,DISNEY CHANNEL KOREA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3484
+#EXTINF:-1,CHANNEL A
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3483
+#EXTINF:-1,CGN-TV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3482
+#EXTINF:-1,ANIMAX KOREA
+http://dreambox84.com:8000/122683325994/5c1f80642538a/3481
+#EXTINF:-1,XTM
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5115
+#EXTINF:-1,eventTV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5114
+#EXTINF:-1,M-NET
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5113
+#EXTINF:-1,K-BADUK
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5112
+#EXTINF:-1,FTV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5111
+#EXTINF:-1,JTBC
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5110
+#EXTINF:-1,FTV
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5109
+#EXTINF:-1,TV CHOSUN
+http://dreambox84.com:8000/122683325994/5c1f80642538a/5108
+#EXTINF:-1,US: A&E`
+http://s1.platinumhostingtech.com:80/rose/rose/37745
+#EXTINF:-1,US: ABC News
+http://s1.platinumhostingtech.com:80/rose/rose/37644
+#EXTINF:-1,US: ABC news 24
+http://s1.platinumhostingtech.com:80/rose/rose/37642
+#EXTINF:-1,US: ABC WEST
+http://s1.platinumhostingtech.com:80/rose/rose/37643
+#EXTINF:-1,US: ANIMAL PLANET
+http://s1.platinumhostingtech.com:80/rose/rose/37640
+#EXTINF:-1,US: American Forces Network Sports
+http://s1.platinumhostingtech.com:80/rose/rose/37639
+#EXTINF:-1,US: American Forces Network Sports 2
+http://s1.platinumhostingtech.com:80/rose/rose/37638
+#EXTINF:-1,US: BLOOMBERG TV HD
+http://s1.platinumhostingtech.com:80/rose/rose/37637
+#EXTINF:-1,US: Bein Sport
+http://s1.platinumhostingtech.com:80/rose/rose/37636
+#EXTINF:-1,US: Bravo HD
+http://s1.platinumhostingtech.com:80/rose/rose/37635
+#EXTINF:-1,US: C-Span 1
+http://s1.platinumhostingtech.com:80/rose/rose/37634
+#EXTINF:-1,US: C-Span 2
+http://s1.platinumhostingtech.com:80/rose/rose/37633
+#EXTINF:-1,US: C-Span 3
+http://s1.platinumhostingtech.com:80/rose/rose/37632
+#EXTINF:-1,US: CBC News Toronto HD
+http://s1.platinumhostingtech.com:80/rose/rose/37630
+#EXTINF:-1,US: CBS Sports Network HD
+http://s1.platinumhostingtech.com:80/rose/rose/37629
+#EXTINF:-1,US: CBS2 New York
+http://s1.platinumhostingtech.com:80/rose/rose/37628
+#EXTINF:-1,US: CBSN News
+http://s1.platinumhostingtech.com:80/rose/rose/37627
+#EXTINF:-1,US: CNN News
+http://s1.platinumhostingtech.com:80/rose/rose/37624
+#EXTINF:-1,US: CP24
+http://s1.platinumhostingtech.com:80/rose/rose/37623
+#EXTINF:-1,CA: CTV NEWS 1 HD
+http://s1.platinumhostingtech.com:80/rose/rose/37622
+#EXTINF:-1,US: CW
+http://s1.platinumhostingtech.com:80/rose/rose/37621
+#EXTINF:-1,US: Comedy Central
+http://s1.platinumhostingtech.com:80/rose/rose/37620
+#EXTINF:-1,US: Crime Investigation
+http://s1.platinumhostingtech.com:80/rose/rose/37619
+#EXTINF:-1,US: DISCOVERY HD
+http://s1.platinumhostingtech.com:80/rose/rose/37618
+#EXTINF:-1,US: DISCOVERY SCIENCE
+http://s1.platinumhostingtech.com:80/rose/rose/37617
+#EXTINF:-1,US: DISCOVERY VELOCITY
+http://s1.platinumhostingtech.com:80/rose/rose/37616
+#EXTINF:-1,US: E!
+http://s1.platinumhostingtech.com:80/rose/rose/37615
+#EXTINF:-1,US: ESPN DEPORTES
+http://s1.platinumhostingtech.com:80/rose/rose/37614
+#EXTINF:-1,US: ESPN News HD
+http://s1.platinumhostingtech.com:80/rose/rose/37613
+#EXTINF:-1,US: ESPN USA HD
+http://s1.platinumhostingtech.com:80/rose/rose/37612
+#EXTINF:-1,US: Espn 3
+http://s1.platinumhostingtech.com:80/rose/rose/37611
+#EXTINF:-1,US: FX
+http://s1.platinumhostingtech.com:80/rose/rose/37609
+#EXTINF:-1,US: FightBox HD
+http://s1.platinumhostingtech.com:80/rose/rose/37607
+#EXTINF:-1,US: Fox HD
+http://s1.platinumhostingtech.com:80/rose/rose/37606
+#EXTINF:-1,US: Fox News HD
+http://s1.platinumhostingtech.com:80/rose/rose/37605
+#EXTINF:-1,US: Fox News SD
+http://s1.platinumhostingtech.com:80/rose/rose/37604
+#EXTINF:-1,US: Fox Sports 1 FHD
+http://s1.platinumhostingtech.com:80/rose/rose/37603
+#EXTINF:-1,US: Fox Sports 1 HD2
+http://s1.platinumhostingtech.com:80/rose/rose/37602
+#EXTINF:-1,US: Fox Sports 2 HD2
+http://s1.platinumhostingtech.com:80/rose/rose/37601
+#EXTINF:-1,US: Free Speach TV
+http://s1.platinumhostingtech.com:80/rose/rose/37600
+#EXTINF:-1,US: Global Toronto HD
+http://s1.platinumhostingtech.com:80/rose/rose/37599
+#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES
+http://s1.platinumhostingtech.com:80/rose/rose/37598
+#EXTINF:-1,US: Lifetime
+http://s1.platinumhostingtech.com:80/rose/rose/37596
+#EXTINF:-1,US: MLB Network HD
+http://s1.platinumhostingtech.com:80/rose/rose/37595
+#EXTINF:-1,US: MSNBC News
+http://s1.platinumhostingtech.com:80/rose/rose/37594
+#EXTINF:-1,US: MTV HD
+http://s1.platinumhostingtech.com:80/rose/rose/37593
+#EXTINF:-1,US: Miami Channel
+http://s1.platinumhostingtech.com:80/rose/rose/37592
+#EXTINF:-1,US: MoreMax HD
+http://s1.platinumhostingtech.com:80/rose/rose/37591
+#EXTINF:-1,US: NAT GEO WILD
+http://s1.platinumhostingtech.com:80/rose/rose/37590
+#EXTINF:-1,US: NBC
+http://s1.platinumhostingtech.com:80/rose/rose/37588
+#EXTINF:-1,US: NBC Golf HD BU
+http://s1.platinumhostingtech.com:80/rose/rose/37587
+#EXTINF:-1,US: NBC Golf HD BU2
+http://s1.platinumhostingtech.com:80/rose/rose/37586
+#EXTINF:-1,US: NBC Sport Network BU
+http://s1.platinumhostingtech.com:80/rose/rose/37585
+#EXTINF:-1,US: NBC Sports Network HD
+http://s1.platinumhostingtech.com:80/rose/rose/37584
+#EXTINF:-1,US: NFL Channel HD
+http://s1.platinumhostingtech.com:80/rose/rose/37583
+#EXTINF:-1,US: NFL Network
+http://s1.platinumhostingtech.com:80/rose/rose/37582
+#EXTINF:-1,US: NFL Network FHD
+http://s1.platinumhostingtech.com:80/rose/rose/37581
+#EXTINF:-1,US: NFL Now Live
+http://s1.platinumhostingtech.com:80/rose/rose/37580
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://s1.platinumhostingtech.com:80/rose/rose/37577
+#EXTINF:-1,US: PAC-12 Bay Area HD
+http://s1.platinumhostingtech.com:80/rose/rose/37576
+#EXTINF:-1,US: PAC-12 Mountain HD
+http://s1.platinumhostingtech.com:80/rose/rose/37575
+#EXTINF:-1,US: PAC-12 Oregon HD
+http://s1.platinumhostingtech.com:80/rose/rose/37574
+#EXTINF:-1,US: PARAMOUNT CHANNEL (SPIKE)
+http://s1.platinumhostingtech.com:80/rose/rose/37573
+#EXTINF:-1,US: PBS
+http://s1.platinumhostingtech.com:80/rose/rose/37572
+#EXTINF:-1,US: RedBull TV
+http://s1.platinumhostingtech.com:80/rose/rose/37571
+#EXTINF:-1,US: Russia Today
+http://s1.platinumhostingtech.com:80/rose/rose/37570
+#EXTINF:-1,US: SPIKE
+http://s1.platinumhostingtech.com:80/rose/rose/37569
+#EXTINF:-1,US: Showtime (East)
+http://s1.platinumhostingtech.com:80/rose/rose/37567
+#EXTINF:-1,US: TLC
+http://s1.platinumhostingtech.com:80/rose/rose/37566
+#EXTINF:-1,US: TNT HD
+http://s1.platinumhostingtech.com:80/rose/rose/37565
+#EXTINF:-1,US: Tennis Channel HD
+http://s1.platinumhostingtech.com:80/rose/rose/37564
+#EXTINF:-1,US: The Weather Channel
+http://s1.platinumhostingtech.com:80/rose/rose/37563
+#EXTINF:-1,US: USA Network
+http://s1.platinumhostingtech.com:80/rose/rose/37562
+#EXTINF:-1,US: Viceland
+http://s1.platinumhostingtech.com:80/rose/rose/37560
+#EXTINF:-1,US: WFTV 9 Orlando
+http://s1.platinumhostingtech.com:80/rose/rose/37559
+#EXTINF:-1,US: WGN News Chicago
+http://s1.platinumhostingtech.com:80/rose/rose/37558
+#EXTINF:-1,US: WJAX CBS47
+http://s1.platinumhostingtech.com:80/rose/rose/37557
+#EXTINF:-1,US: WJAX CBS47 Florida
+http://s1.platinumhostingtech.com:80/rose/rose/37556
+#EXTINF:-1,US: WWE Network HD
+http://s1.platinumhostingtech.com:80/rose/rose/37555
+#EXTINF:-1,US: Weather Nation
+http://s1.platinumhostingtech.com:80/rose/rose/37554
+#EXTINF:-1,US: Willow Cricket HD
+http://s1.platinumhostingtech.com:80/rose/rose/37553
+#EXTINF:-1,USA {} Cinemax Action East HD 1080P
+http://s1.platinumhostingtech.com:80/rose/rose/37552
+#EXTINF:-1,USA | Starz West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37511
+#EXTINF:-1,USA | ABC Los Angeles HD 1080p-
+http://s1.platinumhostingtech.com:80/rose/rose/37550
+#EXTINF:-1,USA | CBS Los Angeles HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37549
+#EXTINF:-1,USA | Cinemax Action 2 HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37548
+#EXTINF:-1,USA | Cinemax East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37547
+#EXTINF:-1,USA | Cinemax West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37546
+#EXTINF:-1,USA | HBO 2 HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37545
+#EXTINF:-1,USA | HBO 2 West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37544
+#EXTINF:-1,USA | HBO Plus West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37543
+#EXTINF:-1,USA | HBO Signature HD  H1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37542
+#EXTINF:-1,USA | IndiePlex HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37541
+#EXTINF:-1,USA | MoreMax HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37540
+#EXTINF:-1,USA | MovieMax HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37539
+#EXTINF:-1,USA | Music 24/7 HD 1080P
+http://s1.platinumhostingtech.com:80/rose/rose/37538
+#EXTINF:-1,USA | NBC Los Angeles HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37537
+#EXTINF:-1,USA | OuterMax HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37536
+#EXTINF:-1,USA | RetroPlex HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37535
+#EXTINF:-1,USA | Showtime West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37534
+#EXTINF:-1,USA | Starz Black HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37533
+#EXTINF:-1,USA | Starz Cinema East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37532
+#EXTINF:-1,USA | Starz Cinema HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37531
+#EXTINF:-1,USA | Starz Cinema West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37530
+#EXTINF:-1,USA | Starz Comedy East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37529
+#EXTINF:-1,USA | Starz Comedy HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37528
+#EXTINF:-1,USA | Starz East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37527
+#EXTINF:-1,USA | Starz Edge HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37526
+#EXTINF:-1,USA | Starz Edge West HD 1080p-
+http://s1.platinumhostingtech.com:80/rose/rose/37525
+#EXTINF:-1,USA | Starz Encore 2 East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37524
+#EXTINF:-1,USA | Starz Encore 2 HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37523
+#EXTINF:-1,USA | Starz Encore Action 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37522
+#EXTINF:-1,USA | Starz Encore Black HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37521
+#EXTINF:-1,USA | Starz Encore Classic HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37520
+#EXTINF:-1,USA | Starz Encore East HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37519
+#EXTINF:-1,USA | Starz Encore HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37518
+#EXTINF:-1,USA | Starz Encore Suspense HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37517
+#EXTINF:-1,USA | Starz Encore West HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37516
+#EXTINF:-1,USA | Starz Encore Western HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37515
+#EXTINF:-1,USA | Starz Family HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37514
+#EXTINF:-1,USA | Starz HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37513
+#EXTINF:-1,USA | Starz Kids & Family HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37512
+#EXTINF:-1,USA | Straz Encore Family HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37510
+#EXTINF:-1,USA | UFC Network HD 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37509
+#EXTINF:-1,USA | Univision Los Angeles 1080P-
+http://s1.platinumhostingtech.com:80/rose/rose/37508
+#EXTINF:-1,US: DIY Network`
+http://s1.platinumhostingtech.com:80/rose/rose/39205
+#EXTINF:-1,US: History 2`
+http://s1.platinumhostingtech.com:80/rose/rose/39203
+#EXTINF:-1,US: History`
+http://s1.platinumhostingtech.com:80/rose/rose/39202
+#EXTINF:-1,US: SYFY`
+http://s1.platinumhostingtech.com:80/rose/rose/39204
+#EXTINF:-1,US1============== USA CINEMA    ==============
+http://iptvtool.es:9977/JESUS/JESUS/74166
+#EXTINF:-1,US1: AFN MOVIE
+http://iptvtool.es:9977/JESUS/JESUS/74162
+#EXTINF:-1,US1: AFN PRIME ATLANTIC
+http://iptvtool.es:9977/JESUS/JESUS/74161
+#EXTINF:-1,US1: AFN SPECTRUM
+http://iptvtool.es:9977/JESUS/JESUS/74160
+#EXTINF:-1,US1: AMC HD
+http://iptvtool.es:9977/JESUS/JESUS/74156
+#EXTINF:-1,US1: Bein Sports US1A HD
+http://iptvtool.es:9977/JESUS/JESUS/74147
+#EXTINF:-1,US1: Cinemax 5 StarMax
+http://iptvtool.es:9977/JESUS/JESUS/74159
+#EXTINF:-1,US1: Cinemax ActionMax East
+http://iptvtool.es:9977/JESUS/JESUS/74158
+#EXTINF:-1,US1: Cinemax East
+http://iptvtool.es:9977/JESUS/JESUS/74157
+#EXTINF:-1,US1: Cinemax East HD
+http://iptvtool.es:9977/JESUS/JESUS/74165
+#EXTINF:-1,US1: Cinemax MoreMax
+http://iptvtool.es:9977/JESUS/JESUS/74164
+#EXTINF:-1,US1: Comedy Central HD
+http://iptvtool.es:9977/JESUS/JESUS/74148
+#EXTINF:-1,US1: GRIT TV Movies
+http://iptvtool.es:9977/JESUS/JESUS/74155
+#EXTINF:-1,US1: HBO HD
+http://iptvtool.es:9977/JESUS/JESUS/74163
+#EXTINF:-1,US1: Showtime 2
+http://iptvtool.es:9977/JESUS/JESUS/74154
+#EXTINF:-1,US1: Showtime HD
+http://iptvtool.es:9977/JESUS/JESUS/74153
+#EXTINF:-1,US1: Showtime West
+http://iptvtool.es:9977/JESUS/JESUS/74152
+#EXTINF:-1,US1: Starz Cinema
+http://iptvtool.es:9977/JESUS/JESUS/74151
+#EXTINF:-1,US1: Starz Comedy
+http://iptvtool.es:9977/JESUS/JESUS/74150
+#EXTINF:-1,US1: STARZ EDGE HD
+http://iptvtool.es:9977/JESUS/JESUS/74146
+#EXTINF:-1,US1: Starz Encore
+http://iptvtool.es:9977/JESUS/JESUS/74149
+#EXTINF:-1,US1: Syfy HD
+http://iptvtool.es:9977/JESUS/JESUS/74145
+#EXTINF:-1,US2==============  USA ENTERTAINMENT  ==============
+http://iptvtool.es:9977/JESUS/JESUS/74144
+#EXTINF:-1,US2 : Fox HD
+http://iptvtool.es:9977/JESUS/JESUS/74142
+#EXTINF:-1,US2: FX HD
+http://iptvtool.es:9977/JESUS/JESUS/74143
+#EXTINF:-1,US2: HBO Comedy
+http://iptvtool.es:9977/JESUS/JESUS/74141
+#EXTINF:-1,US2: HBO East
+http://iptvtool.es:9977/JESUS/JESUS/74140
+#EXTINF:-1,US2: HBO Signature
+http://iptvtool.es:9977/JESUS/JESUS/74139
+#EXTINF:-1,US2: HBO Zone
+http://iptvtool.es:9977/JESUS/JESUS/74138
+#EXTINF:-1,US2: US2A Network HD
+http://iptvtool.es:9977/JESUS/JESUS/74137
+#EXTINF:-1,US3==============  US2A SPORT ==============
+http://iptvtool.es:9977/JESUS/JESUS/74136
+#EXTINF:-1,US3: AFN PRIME PACIFIC
+http://iptvtool.es:9977/JESUS/JESUS/74128
+#EXTINF:-1,US3: CA | TSN 1*
+http://iptvtool.es:9977/JESUS/JESUS/74127
+#EXTINF:-1,US3: CA | TSN 2
+http://iptvtool.es:9977/JESUS/JESUS/74126
+#EXTINF:-1,US3: CA | TSN 3*
+http://iptvtool.es:9977/JESUS/JESUS/74125
+#EXTINF:-1,US3: CA | TSN 4 HD
+http://iptvtool.es:9977/JESUS/JESUS/74124
+#EXTINF:-1,US3: CA | TSN 5*
+http://iptvtool.es:9977/JESUS/JESUS/74123
+#EXTINF:-1,US3: Fox 43
+http://iptvtool.es:9977/JESUS/JESUS/74131
+#EXTINF:-1,US3: Fox Sports 1 HD
+http://iptvtool.es:9977/JESUS/JESUS/74133
+#EXTINF:-1,US3: Fox Sports 2 HD
+http://iptvtool.es:9977/JESUS/JESUS/74132
+#EXTINF:-1,US3: Fox Sports 506 HD
+http://iptvtool.es:9977/JESUS/JESUS/74130
+#EXTINF:-1,US3: NBA TV HD
+http://iptvtool.es:9977/JESUS/JESUS/74134
+#EXTINF:-1,US3: NFL Network HD
+http://iptvtool.es:9977/JESUS/JESUS/74121
+#EXTINF:-1,US3: PAC-12 Arizona
+http://iptvtool.es:9977/JESUS/JESUS/74120
+#EXTINF:-1,US3: PAC-12 Bay Area
+http://iptvtool.es:9977/JESUS/JESUS/74119
+#EXTINF:-1,US3: PAC-12 Los Angeles
+http://iptvtool.es:9977/JESUS/JESUS/74118
+#EXTINF:-1,US3: PAC-12 Oregon
+http://iptvtool.es:9977/JESUS/JESUS/74117
+#EXTINF:-1,US3: PAC-12 Washington
+http://iptvtool.es:9977/JESUS/JESUS/74116
+#EXTINF:-1,US3: Tennis Channel HD
+http://iptvtool.es:9977/JESUS/JESUS/74115
+#EXTINF:-1,US3: Tnt HD
+http://iptvtool.es:9977/JESUS/JESUS/74135
+#EXTINF:-1,US3: WWE HD
+http://iptvtool.es:9977/JESUS/JESUS/74122
+#EXTINF:-1,US3:Sports-Net
+http://iptvtool.es:9977/JESUS/JESUS/74129
+#EXTINF:-1,US4==============   USA KIDS  ==============
+http://iptvtool.es:9977/JESUS/JESUS/74114
+#EXTINF:-1,US4 : NFL REDZONE SD
+http://iptvtool.es:9977/JESUS/JESUS/74109
+#EXTINF:-1,US4: CARTOON NETWORK
+http://iptvtool.es:9977/JESUS/JESUS/74112
+#EXTINF:-1,US4: Food Network HD
+http://iptvtool.es:9977/JESUS/JESUS/74110
+#EXTINF:-1,US4: NICKELODEN HD
+http://iptvtool.es:9977/JESUS/JESUS/74108
+#EXTINF:-1,US4: Nickelodeon HD
+http://iptvtool.es:9977/JESUS/JESUS/74113
+#EXTINF:-1,US4: Nursery Rhymes (Baby Songs)
+http://iptvtool.es:9977/JESUS/JESUS/74106
+#EXTINF:-1,US4: Smile Of A Child
+http://iptvtool.es:9977/JESUS/JESUS/74107
+#EXTINF:-1,US4: Toon Kids
+http://iptvtool.es:9977/JESUS/JESUS/74111
+#EXTINF:-1,US5============== USA DOCUMENTARY  ==============
+http://iptvtool.es:9977/JESUS/JESUS/74105
+#EXTINF:-1,US5: Amazing Discoveries HD
+http://iptvtool.es:9977/JESUS/JESUS/74101
+#EXTINF:-1,US5: Discovery HD
+http://iptvtool.es:9977/JESUS/JESUS/74102
+#EXTINF:-1,US5: Discovery Science HD
+http://iptvtool.es:9977/JESUS/JESUS/74104
+#EXTINF:-1,US5: Fine Living
+http://iptvtool.es:9977/JESUS/JESUS/74096
+#EXTINF:-1,US5: History HD
+http://iptvtool.es:9977/JESUS/JESUS/74100
+#EXTINF:-1,US5: Investigation Discovery
+http://iptvtool.es:9977/JESUS/JESUS/74099
+#EXTINF:-1,US5: National Geographic
+http://iptvtool.es:9977/JESUS/JESUS/74103
+#EXTINF:-1,US5: Outdoor Channel HD
+http://iptvtool.es:9977/JESUS/JESUS/74095
+#EXTINF:-1,US5: Tbs HD
+http://iptvtool.es:9977/JESUS/JESUS/74097
+#EXTINF:-1,US6=======   USA NEWS  =======
+http://iptvtool.es:9977/JESUS/JESUS/74094
+#EXTINF:-1,US6: ABC NEWS HD
+http://iptvtool.es:9977/JESUS/JESUS/74086
+#EXTINF:-1,US6: CBS
+http://iptvtool.es:9977/JESUS/JESUS/74090
+#EXTINF:-1,US6: CBSN HD
+http://iptvtool.es:9977/JESUS/JESUS/74085
+#EXTINF:-1,US6: CNBC
+http://iptvtool.es:9977/JESUS/JESUS/74092
+#EXTINF:-1,US6: CNN HD
+http://iptvtool.es:9977/JESUS/JESUS/74084
+#EXTINF:-1,US6: CNN HD *
+http://iptvtool.es:9977/JESUS/JESUS/74093
+#EXTINF:-1,US6: Fox News
+http://iptvtool.es:9977/JESUS/JESUS/74091
+#EXTINF:-1,US6: FOX NEWS HD
+http://iptvtool.es:9977/JESUS/JESUS/74083
+#EXTINF:-1,US6: MSNBC HD
+http://iptvtool.es:9977/JESUS/JESUS/74089
+#EXTINF:-1,US6: NBC
+http://iptvtool.es:9977/JESUS/JESUS/74088
+#EXTINF:-1,US6: NBCSNHD
+http://iptvtool.es:9977/JESUS/JESUS/74087
+#EXTINF:-1,US6: NHL
+http://iptvtool.es:9977/JESUS/JESUS/74082
+#EXTINF:-1,MLB | #Strike Zone (Tuesday & Friday Nights ONLY)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100620
+#EXTINF:-1,MLB | 01
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100619
+#EXTINF:-1,MLB | 02
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100618
+#EXTINF:-1,MLB | 03
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100617
+#EXTINF:-1,MLB | 04
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100616
+#EXTINF:-1,MLB | 05
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100615
+#EXTINF:-1,MLB | 06
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100614
+#EXTINF:-1,MLB | 07
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100613
+#EXTINF:-1,MLB | 08
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100612
+#EXTINF:-1,MLB | 09
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100611
+#EXTINF:-1,MLB | 10
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100610
+#EXTINF:-1,MLB | 11
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100609
+#EXTINF:-1,MLB | 12
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100608
+#EXTINF:-1,MLB | 13
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100607
+#EXTINF:-1,MLB | 14
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100606
+#EXTINF:-1,MLB | 15
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100605
+#EXTINF:-1,MLB | 16
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100604
+#EXTINF:-1,MLB | 17
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100603
+#EXTINF:-1,MLB | 18
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/100602
+#EXTINF:-1,MLB | 721
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101100
+#EXTINF:-1,MLB | 722
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101099
+#EXTINF:-1,MLB | 723
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101098
+#EXTINF:-1,MLB | 724
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101097
+#EXTINF:-1,MLB | 725
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101096
+#EXTINF:-1,MLB | 726
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101095
+#EXTINF:-1,MLB | 727
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101094
+#EXTINF:-1,MLB | 728
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101093
+#EXTINF:-1,MLB | 729
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101092
+#EXTINF:-1,MLB | 730
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101091
+#EXTINF:-1,MLB | 732
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101090
+#EXTINF:-1,MLB | 734
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101089
+#EXTINF:-1,MLB | 736
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101088
+#EXTINF:-1,MLB | 738
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101087
+#EXTINF:-1,MLB | 740
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101086
+#EXTINF:-1,MLB | 742
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101085
+#EXTINF:-1,MLB | 744
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/101084
+#EXTINF:-1,NHL 11
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86464
+#EXTINF:-1,NHL 12
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86463
+#EXTINF:-1,NHL 13
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86462
+#EXTINF:-1,NHL 14
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86461
+#EXTINF:-1,NHL 15
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86460
+#EXTINF:-1,NHL 10
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86465
+#EXTINF:-1,USA-S | UFC TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85571
+#EXTINF:-1,ESPN PLUS | UFC FIGHT NIGHT 04/27
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85570
+#EXTINF:-1,USA-S | WILLOW TV
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/85568
+#EXTINF:-1,NBA 1
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86447
+#EXTINF:-1,NBA 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86446
+#EXTINF:-1,NBA 3
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86445
+#EXTINF:-1,NBA 4
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86444
+#EXTINF:-1,NBA 5
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86443
+#EXTINF:-1,NBA 6
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86442
+#EXTINF:-1,NBA 7
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86441
+#EXTINF:-1,NBA 8
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86440
+#EXTINF:-1,NBA 9
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86439
+#EXTINF:-1,NBA 10
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86438
+#EXTINF:-1,NBA 12
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86436
+#EXTINF:-1,NBA 11
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86437
+#EXTINF:-1,NCAA | Big Ten Network (BTN)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91568
+#EXTINF:-1,NCAA | Big Ten Network (BTN) 2 - Alternative
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91567
+#EXTINF:-1,NCAA | ESPN College Extra 1
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91566
+#EXTINF:-1,NCAA | ESPN College Extra 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91565
+#EXTINF:-1,NCAA | ESPN College Extra 3
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91564
+#EXTINF:-1,NCAA | ESPN College Extra 4
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91563
+#EXTINF:-1,NCAA | ESPN College Extra 5
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91562
+#EXTINF:-1,NCAA | ESPN College Extra 6
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91561
+#EXTINF:-1,NCAA | ESPN College Extra 7
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91560
+#EXTINF:-1,NCAA | ESPN College Extra 8
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91559
+#EXTINF:-1,NCAA | ESPN Goal Line (Saturdays Only)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91558
+#EXTINF:-1,NCAA | ESPN U
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91557
+#EXTINF:-1,NCAA | Fox College Sports Atlantic
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91556
+#EXTINF:-1,NCAA | Fox College Sports Central
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91555
+#EXTINF:-1,NCAA | Longhorn Network
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91554
+#EXTINF:-1,NCAA | PAC 12 Arizona
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91553
+#EXTINF:-1,NCAA | PAC 12 Bay Area
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91552
+#EXTINF:-1,NCAA | PAC 12 Los Angeles
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91551
+#EXTINF:-1,NCAA | PAC 12 Mountain
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91550
+#EXTINF:-1,NCAA | PAC 12 National
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91549
+#EXTINF:-1,NCAA | PAC 12 Oregon
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91548
+#EXTINF:-1,NCAA | PAC 12 Washington
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91547
+#EXTINF:-1,NCAA | SEC Network
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/91546
+#EXTINF:-1,GR | NDR HD
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/30045
+#EXTINF:-1,Need For Speed
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/60472.avi
+#EXTINF:-1,Neerja
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/55930.mp4
+#EXTINF:-1,Neighbors 2: Sorority Rising
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/60479.avi
+#EXTINF:-1,Nerdland
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/61142.mp4
+#EXTINF:-1,New York
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/55640.mp4
+#EXTINF:-1,New-4kloANyhYzA
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/66550.mp4
+#EXTINF:-1,Newton
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/66729.mp4
+#EXTINF:-1,NHL 1
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86474
+#EXTINF:-1,NHL 2
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86473
+#EXTINF:-1,NHL 3
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86472
+#EXTINF:-1,NHL 4
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86471
+#EXTINF:-1,NHL 5
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86470
+#EXTINF:-1,NHL 6
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86469
+#EXTINF:-1,NHL 7
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86468
+#EXTINF:-1,NHL 8
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86467
+#EXTINF:-1,NHL 9
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/86466
+#EXTINF:-1,PPV | 1 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106882
+#EXTINF:-1,PPV | 2 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106881
+#EXTINF:-1,PPV | 3 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106880
+#EXTINF:-1,PPV | 4 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106879
+#EXTINF:-1,PPV | 5 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106878
+#EXTINF:-1,PPV |  6 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106877
+#EXTINF:-1,PPV |  7 ( LIVE EVENTS)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106876
+#EXTINF:-1,PPV | 8 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106875
+#EXTINF:-1,PPV | 9 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106874
+#EXTINF:-1,PPV | 10 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106873
+#EXTINF:-1,PPV | 11 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106872
+#EXTINF:-1,PPV | 12 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106871
+#EXTINF:-1,PPV | 13 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106870
+#EXTINF:-1,PPV | 14 (LIVE EVENT)
+http://p5.giffy.be:8080/OCWMLflL7L/ZjTRHtlZbY/106869
+#EXTINF:-1,Anthony Jeselnik: Fire in the Maternity Ward [2019]
+http://p5.giffy.be:8080/movie/OCWMLflL7L/ZjTRHtlZbY/107481.mkv
