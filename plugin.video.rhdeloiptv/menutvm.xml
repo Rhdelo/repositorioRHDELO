@@ -9,19 +9,19 @@
 </item>
 
 <item>
-<title>Viasat Russia</title>
-<thumbnail>https://i.imgur.com/TwnMGZm.png</thumbnail>
-<fanart>https://i.imgur.com/aEvA8we.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/listabeta.xml</externallink>
-</item>
-
-<item>
 <title>DirecTV</title>
 <thumbnail>https://i.imgur.com/eLZFxRY.png</thumbnail>
 <fanart>https://i.imgur.com/wF26JHi.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista3.xml</externallink>
+</item>
+
+<item>
+<title>Fransat</title>
+<thumbnail>https://i.imgur.com/qMPDao1.png</thumbnail>
+<fanart>https://i.imgur.com/029oqCv.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista6.xml</externallink>
 </item>
 
 <item>
@@ -33,19 +33,19 @@
 </item>
 
 <item>
+<title>Viasat Russia</title>
+<thumbnail>https://i.imgur.com/TwnMGZm.png</thumbnail>
+<fanart>https://i.imgur.com/aEvA8we.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/listabeta.xml</externallink>
+</item>
+
+<item>
 <title>Cyfrowy Polsat</title>
 <thumbnail>https://i.imgur.com/MCIsrd1.png</thumbnail>
 <fanart>https://i.imgur.com/VjLKtyA.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista5.xml</externallink>
-</item>
-
-<item>
-<title>Fransat</title>
-<thumbnail>https://i.imgur.com/qMPDao1.png</thumbnail>
-<fanart>https://i.imgur.com/029oqCv.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lista6.xml</externallink>
 </item>
 
 <item>
