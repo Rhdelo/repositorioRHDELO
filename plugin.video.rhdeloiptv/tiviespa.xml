@@ -175,8 +175,10 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1,~ DOCUMENTALES EN INGLES ~
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
-#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
 
+#EXTINF:-1,~ OTROS EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFJKg0R.png",ENG: FIGHT NETWORK | HD
 http://iptvnet-tv.ddns.net:8000/live/kodi_master/NxxtEqKYwT/3954.ts
