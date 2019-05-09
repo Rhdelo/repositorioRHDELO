@@ -68,21 +68,115 @@ https://petopa152.caraponi.me/live/eurosport1/index.m3u8?token=DOeBACxhwrfuXwpyh
 https://petopa151.caraponi.me/live/eurosport2/index.m3u8?token=EYqh_opWro-ywjpThFMhhg&expires=1556979475
 #EXTINF:-1,[COLOR gold]~ DEPORTES ~[/COLOR][COLOR green]L[/COLOR][COLOR white]A[/COLOR][COLOR red]T[/COLOR]
 
-#EXTINF:0,Wow TV
+
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN
 https://e3.cdn4.us/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=5xPrkzITuTkxcL0MEc2F_w&expires=1556844669&rnd=37688
-#EXTINF:0,Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile[COLOR green] (FREE)[/COLOR]
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CDO - Canal Olimpico de Chile [COLOR gold](PREMIUM)[/COLOR]
 http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Fight Time 
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN
 https://e3.cdn4.us/ingest02/37688.m3u8?sf=TkpBV1czTkxEOQ==&token=5xPrkzITuTkxcL0MEc2F_w&expires=1556844669&rnd=37688
 
-#EXTINF:-1,~ BOXEO ~
+#EXTINF:-1,~ DIBUJOS EN CASTELLANO ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Boing HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1,~ GENERALISTAS EN LATINO ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",WOW TV (El Salvador)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,~ DIBUJOS EN LATINO ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Tooncast
+http://video7.stream.mx:1935/raxatv/raxatv/media_w884577146.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Chicos IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1,~ CINE EN LATINO ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Maxprime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FMHOT+ Movies
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Orbit TV
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
+#EXTINF:-1,~ MUSICA LATINA ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",TELEREDRETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+
+#EXTINF:-1,~ INFORMATIVOS LATINOS ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Milenio (Mexico)
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+
+#EXTINF:-1,~ OTROS LATINO ~
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",UMAG Punta Arenas (Chile)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",UMAG Punta Arenas 2 (Chile)
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ATB (Bolivia)
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Ultra TV  Aguascalientes (Mexico)
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Ultra TV  Puebla (Mexico)
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Multimedios Monterrey (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Multimedios Laguna (Mexico)
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Canal 10 (Mexico)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Canal 11 (Mexico)
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Quiero TV (Mexico)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ColorVision (R.Dominicana)
+http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1806822451.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Galaxia (R.Dominicana)
+http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
+
+#EXTINF:-1,~ DIBUJOS EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+
+#EXTINF:-1,~ PELICULAS EN INGLES ~
+
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Premium
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",FOX Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1,~ SERIES EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,~ DEPORTES EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",MLB Tv
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,~ DOCUMENTALES EN INGLES ~
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFJKg0R.png",ENG: FIGHT NETWORK | HD
 http://iptvnet-tv.ddns.net:8000/live/kodi_master/NxxtEqKYwT/3954.ts
