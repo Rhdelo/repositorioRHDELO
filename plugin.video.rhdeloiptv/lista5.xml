@@ -1,141 +1,63 @@
 #EXTM3U
-#EXTINF:0 tvg-id="avi" group-title="Canales Españoles",-Canales Españoles-
-http://i.imgur.com/VWctVbq.mp4
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Antena 3 | HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",ATRESeries | HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",La Sexta | HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Mega España | HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Neox | HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",La Otra | SD
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",La Xarxa | SD
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Telemadrid | SD
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Canal 13 España | SD
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Nova | HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",IB3 | SD
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",324 | SD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Aragon | SD
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Extremadura | SD
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Lancelot TV | SD
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",ETBSAT | SD
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Lebrija TV | SD
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Calle 13 | SD
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",324 Cataluña | SD
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Canaria Sat Television | SD
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",TeleSafor | HD
-http://video.telesafor.com/hls/video_high.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",Onda Cadiz | SD
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",7TV | SD
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Canales Españoles",A Punt | SD
-https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Navarra TV (Opt-1)
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Onda Algeciras
-http://cls.provideo.es/algecirastv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Ribera TV
-http://188.165.135.22/ribera/livestream/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0 tvg-id="TPA.sp" group-title="SPAIN",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",San Roque TV
-http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TeleBilbao
-http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TeleElx
-http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TeleSafor
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TeleValencia
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV3 (Opt-1)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV3 (Opt-2)
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV4 La Vall
-http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV Galicia America
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",TV Mediterraneo
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Vega Baja TV
-http://185.29.68.24/tvb.m3u8
-#EXTINF:0 tvg-id="324.es" group-title="SPAIN",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:0 tvg-id="13tv.es" group-title="SPAIN",13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:0 tvg-id="Boing.it" group-title="SPAIN",Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Canal 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ARTV.pt" group-title="SPAIN",Canal Parlamento
-http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Costa del Sol TV
-http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
-#EXTINF:0 tvg-id="Divinity.es" group-title="SPAIN",Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Hit TV (Opt-1)
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Hit TV (Opt-2)
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-#EXTINF:0 tvg-id="IB3.es" group-title="SPAIN",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Imas TV
-http://cls.todostreaming.eu/imastv/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Informacion TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/livestream.m3u8
-#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN",La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-#EXTINF:0 tvg-id="lifenews" group-title="SPAIN",LifeTV
-http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Efekto TV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",Efekto Tv SD
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="SPAIN",Canal Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:0 tvg-id="ETBSat.es" group-title="SPAIN",ETB Sat
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",España:13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA",Levante TV | SD
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPAÑA",Cancionero TV | SD
-http://89.140.99.41/hls/1080.m3u8
+#EXTINF:-1,Es- #0
+http://194.88.107.101:6204/jabar5/jabar5/10021
+#EXTINF:-1,Es- 24 HORAS
+http://194.88.107.101:6204/jabar5/jabar5/10020
+#EXTINF:-1,Es- A&E
+http://194.88.107.101:6204/jabar5/jabar5/10019
+#EXTINF:-1,Es- AMC
+http://194.88.107.101:6204/jabar5/jabar5/10018
+#EXTINF:-1,Es- ANTENA 3
+http://194.88.107.101:6204/jabar5/jabar5/10017
+#EXTINF:-1,Es- AXN
+http://194.88.107.101:6204/jabar5/jabar5/10016
+#EXTINF:-1,Es- AXN WHITE
+http://194.88.107.101:6204/jabar5/jabar5/10015
+#EXTINF:-1,Es- DISCOVERY
+http://194.88.107.101:6204/jabar5/jabar5/10000
+#EXTINF:-1,Es- DISNEY CHANNEL HD
+http://194.88.107.101:6204/jabar5/jabar5/9999
+#EXTINF:-1,Es- DISNEY JR
+http://194.88.107.101:6204/jabar5/jabar5/9998
+#EXTINF:-1,Es- DISNEY XD
+http://194.88.107.101:6204/jabar5/jabar5/9997
+#EXTINF:-1,Es- DIVINITY
+http://194.88.107.101:6204/jabar5/jabar5/9996
+#EXTINF:-1,Es- ENERGY
+http://194.88.107.101:6204/jabar5/jabar5/9995
+#EXTINF:-1,Es- FOX
+http://194.88.107.101:6204/jabar5/jabar5/9992
+#EXTINF:-1,Es- FOX LIFE
+http://194.88.107.101:6204/jabar5/jabar5/9991
+#EXTINF:-1,Es- HISTORIA
+http://194.88.107.101:6204/jabar5/jabar5/9989
+#EXTINF:-1,Es- LA 1
+http://194.88.107.101:6204/jabar5/jabar5/9986
+#EXTINF:-1,Es- LA 2
+http://194.88.107.101:6204/jabar5/jabar5/9985
+#EXTINF:-1,Es- LA SXTA
+http://194.88.107.101:6204/jabar5/jabar5/9984
+#EXTINF:-1,Es- NAT GEO WILD
+http://194.88.107.101:6204/jabar5/jabar5/9967
+#EXTINF:-1,Es- NATIONAL GEOGRAPHIC
+http://194.88.107.101:6204/jabar5/jabar5/9966
+#EXTINF:-1,Es- NEOX
+http://194.88.107.101:6204/jabar5/jabar5/9965
+#EXTINF:-1,Es- NICKELODEON
+http://194.88.107.101:6204/jabar5/jabar5/9964
+#EXTINF:-1,Es- NOVA
+http://194.88.107.101:6204/jabar5/jabar5/9962
+#EXTINF:-1,Es- PARAMOUNT
+http://194.88.107.101:6204/jabar5/jabar5/9961
+#EXTINF:-1,Es- SUNDANCE
+http://194.88.107.101:6204/jabar5/jabar5/9959
+#EXTINF:-1,Es- SYFY
+http://194.88.107.101:6204/jabar5/jabar5/9958
+#EXTINF:-1,Es- TCM
+http://194.88.107.101:6204/jabar5/jabar5/9957
+#EXTINF:-1,Es- TELECINCO
+http://194.88.107.101:6204/jabar5/jabar5/9956
+#EXTINF:-1,Es- TELEDEPORTE
+http://194.88.107.101:6204/jabar5/jabar5/9955
+#EXTINF:-1,Es- TNT
+http://194.88.107.101:6204/jabar5/jabar5/9954
