@@ -1,99 +1,424 @@
 #EXTM3U
-#EXTINF:-1,RO: Acasa TV
-http://195.154.156.46:8000/farid22/farid22/2714
-#EXTINF:-1,RO: Antena 1
-http://195.154.156.46:8000/farid22/farid22/2709
-#EXTINF:-1,RO: Antena 3
-http://195.154.156.46:8000/farid22/farid22/2710
-#EXTINF:-1,RO: Antena Stars
-http://195.154.156.46:8000/farid22/farid22/2711
-#EXTINF:-1,RO: AXN
-http://195.154.156.46:8000/farid22/farid22/2731
-#EXTINF:-1,RO: B1 TV
-http://195.154.156.46:8000/farid22/farid22/2735
-#EXTINF:-1,RO: Boomerang
-http://195.154.156.46:8000/farid22/farid22/2722
-#EXTINF:-1,RO: Boomrang
-http://195.154.156.46:8000/farid22/farid22/2386
-#EXTINF:-1,RO: Cinemax 2
-http://195.154.156.46:8000/farid22/farid22/2727
-#EXTINF:-1,RO: Digi 24
-http://195.154.156.46:8000/farid22/farid22/2732
-#EXTINF:-1,RO: DIGI 24 GALATI
-http://195.154.156.46:8000/farid22/farid22/2740
-#EXTINF:-1,RO: Digi Animal World
-http://195.154.156.46:8000/farid22/farid22/2733
-#EXTINF:-1,RO: Digi Life
-http://195.154.156.46:8000/farid22/farid22/2730
-#EXTINF:-1,RO: DIGI SPORT 1
-http://195.154.156.46:8000/farid22/farid22/2377
-#EXTINF:-1,RO: DIGI SPORT 2
-http://195.154.156.46:8000/farid22/farid22/2378
-#EXTINF:-1,RO: DIGI SPORT 3
-http://195.154.156.46:8000/farid22/farid22/2379
-#EXTINF:-1,RO: DIGI SPORT 4
-http://195.154.156.46:8000/farid22/farid22/2380
-#EXTINF:-1,RO: Digi World
-http://195.154.156.46:8000/farid22/farid22/2387
-#EXTINF:-1,RO: Disney Junior
-http://195.154.156.46:8000/farid22/farid22/2728
-#EXTINF:-1,RO: Eurosport 1
-http://195.154.156.46:8000/farid22/farid22/2743
-#EXTINF:-1,RO: Eurosport 2
-http://195.154.156.46:8000/farid22/farid22/2744
-#EXTINF:-1,RO: Fishing & Hunting
-http://195.154.156.46:8000/farid22/farid22/2726
-#EXTINF:-1,RO: Happy Channel
-http://195.154.156.46:8000/farid22/farid22/2383
-#EXTINF:-1,RO: HBO 2
-http://195.154.156.46:8000/farid22/farid22/2718
+
+#EXTINF:-1,RO: Antena Play Cook
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1076
+#EXTINF:-1,RO: B1
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1089
+#EXTINF:-1,RO: BOLLYWOOD TV
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1071
+#EXTINF:-1,RO: BUCOVINA TV
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1056
+#EXTINF:-1,RO: DigiSport 1
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1065
+#EXTINF:-1,RO: Diva Universal
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1075
+#EXTINF:-1,RO: Film Cafe
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1072
 #EXTINF:-1,RO: HBO 3
-http://195.154.156.46:8000/farid22/farid22/2719
-#EXTINF:-1,RO: HBO Romania
-http://195.154.156.46:8000/farid22/farid22/2717
-#EXTINF:-1,RO: HBO2
-http://195.154.156.46:8000/farid22/farid22/2374
-#EXTINF:-1,RO: HBO3
-http://195.154.156.46:8000/farid22/farid22/2385
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1068
+#EXTINF:-1,RO: MUSIC CHANNEL
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1059
+#EXTINF:-1,RO: Telekom 1
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1063
+#EXTINF:-1,RO: TNT
+http://111x111.ddns.net:25461/Royal/1Hb2MTeD0p/1073
+#EXTINF:-1,RO: AXN Black
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25749
+#EXTINF:-1,RO: AXN Romania
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25748
+#EXTINF:-1,RO: AXN White
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25747
+#EXTINF:-1,RO: Agro TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25746
+#EXTINF:-1,RO: Antena 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25745
+#EXTINF:-1,RO: Antena 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25744
+#EXTINF:-1,RO: Antena Stars
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25743
+#EXTINF:-1,RO: B1 TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25742
+#EXTINF:-1,RO: Boomerang
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25741
+#EXTINF:-1,RO: CineMax 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25740
+#EXTINF:-1,RO: CineMax 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25739
+#EXTINF:-1,RO: DIGI Sport 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25738
+#EXTINF:-1,RO: Digi 24 Craiova
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25737
+#EXTINF:-1,RO: Digi 24
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25736
+#EXTINF:-1,RO: Digi Animal World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25735
+#EXTINF:-1,RO: Digi Film
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25734
+#EXTINF:-1,RO: Digi Life
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25733
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25732
+#EXTINF:-1,RO: Digi Sport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25731
+#EXTINF:-1,RO: Digi Sport 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25730
+#EXTINF:-1,RO: Digi Sport 4
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25729
+#EXTINF:-1,RO: Digi World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25728
+#EXTINF:-1,RO: Disney Junior
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25727
+#EXTINF:-1,RO: Etno TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25726
+#EXTINF:-1,RO: EuroSport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25725
+#EXTINF:-1,RO: EuroSport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25724
+#EXTINF:-1,RO: Favorit TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25723
+#EXTINF:-1,RO: Fishing & Hunting
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25722
+#EXTINF:-1,RO: HBO 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25721
+#EXTINF:-1,RO: HBO 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25720
+#EXTINF:-1,RO: HBO 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25719
+#EXTINF:-1,RO: Happy Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25718
 #EXTINF:-1,RO: History Channel
-http://195.154.156.46:8000/farid22/farid22/2741
-#EXTINF:-1,RO: Hit Music Channel
-http://195.154.156.46:8000/farid22/farid22/2723
-#EXTINF:-1,RO: Kanal D HD
-http://195.154.156.46:8000/farid22/farid22/2725
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25717
+#EXTINF:-1,RO: Kanal D
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25716
 #EXTINF:-1,RO: Kiss TV
-http://195.154.156.46:8000/farid22/farid22/2715
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25715
 #EXTINF:-1,RO: Look Plus
-http://195.154.156.46:8000/farid22/farid22/2720
-#EXTINF:-1,RO: Look tv
-http://195.154.156.46:8000/farid22/farid22/2384
-#EXTINF:-1,RO: MINIMAX
-http://195.154.156.46:8000/farid22/farid22/2376
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25714
+#EXTINF:-1,RO: Look TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25713
+#EXTINF:-1,RO: MegaMax HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25712
+#EXTINF:-1,RO: Megamax
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25711
+#EXTINF:-1,RO: Minimax
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25710
+#EXTINF:-1,RO: 1 Music Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25709
 #EXTINF:-1,RO: Nat Geo Wild
-http://195.154.156.46:8000/farid22/farid22/2742
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25708
 #EXTINF:-1,RO: National Geographic
-http://195.154.156.46:8000/farid22/farid22/2737
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25707
 #EXTINF:-1,RO: National TV
-http://195.154.156.46:8000/farid22/farid22/2712
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25706
+#EXTINF:-1,RO: Neptun TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25705
 #EXTINF:-1,RO: Nickelodeon
-http://195.154.156.46:8000/farid22/farid22/2729
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25704
+#EXTINF:-1,RO: PRO.2 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25703
+#EXTINF:-1,RO: PRO.2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25702
+#EXTINF:-1,RO: PRO.GOLD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25701
 #EXTINF:-1,RO: Paramount Channel
-http://195.154.156.46:8000/farid22/farid22/2736
-#EXTINF:-1,RO: PRIMA TV
-http://195.154.156.46:8000/farid22/farid22/2381
-#EXTINF:-1,RO: PRO TV
-http://195.154.156.46:8000/farid22/farid22/2388
-#EXTINF:-1,RO: Realitatea Tv
-http://195.154.156.46:8000/farid22/farid22/2724
-#EXTINF:-1,RO: Romania tv
-http://195.154.156.46:8000/farid22/farid22/2382
-#EXTINF:-1,RO: Sport RO
-http://195.154.156.46:8000/farid22/farid22/2745
-#EXTINF:-1,RO: Taraf Tv
-http://195.154.156.46:8000/farid22/farid22/2716
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25700
+#EXTINF:-1,RO: Prima Cool
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25699
+#EXTINF:-1,RO: Prima Love
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25698
+#EXTINF:-1,RO: Prima TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25697
+#EXTINF:-1,RO: ProCinema
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25696
+#EXTINF:-1,RO: ProTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25695
+#EXTINF:-1,RO: Realitatea TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25694
+#EXTINF:-1,RO: Romania TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25693
+#EXTINF:-1,RO: Sport.ro
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25692
+#EXTINF:-1,RO: TNT
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25691
 #EXTINF:-1,RO: TV1000
-http://195.154.156.46:8000/farid22/farid22/2721
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25690
+#EXTINF:-1,RO: TV5 Monde
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25689
 #EXTINF:-1,RO: TVR 1
-http://195.154.156.46:8000/farid22/farid22/2373
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25688
 #EXTINF:-1,RO: TVR 2
-http://195.154.156.46:8000/farid22/farid22/2713
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25687
+#EXTINF:-1,RO: Taraf TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25686
+#EXTINF:-1,RO: Trinitas
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25685
+#EXTINF:-1,RO: U TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25684
+#EXTINF:-1,RO: Universal HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25683
+#EXTINF:-1,RO: Viasat Explorer
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25682
+#EXTINF:-1,RO: Viasat History
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25681
+#EXTINF:-1,RO: Viasat Nature
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25680
+#EXTINF:-1,RO: Dolce Sport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/41823
+#EXTINF:-1,RO: Comedy Central
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50186
+#EXTINF:-1,RO: Antena 1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/56634
+#EXTINF:-1,RO: Kanal D FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/56635
+#EXTINF:-1,RO: ZU TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/62063
+#EXTINF:-1,(RO) ACASA TV
+http://www.nilsattv.com:8080/bedri/gungor/2540
+#EXTINF:-1,(RO) AXN
+http://www.nilsattv.com:8080/bedri/gungor/2541
+#EXTINF:-1,(RO) DIGI 24 HD
+http://www.nilsattv.com:8080/bedri/gungor/2543
+#EXTINF:-1,(RO) DIGI LIFE
+http://www.nilsattv.com:8080/bedri/gungor/2544
+#EXTINF:-1,(RO) DIGI SPORT 4 HD
+http://www.nilsattv.com:8080/bedri/gungor/2545
+#EXTINF:-1,(RO) KANAL D
+http://www.nilsattv.com:8080/bedri/gungor/2546
+#EXTINF:-1,(RO) MINIMAX
+http://www.nilsattv.com:8080/bedri/gungor/2548
+#EXTINF:-1,(RO) NAT GEO WILD
+http://www.nilsattv.com:8080/bedri/gungor/2549
+#EXTINF:-1,(RO) NATIONAL GEOGRAPHIC HD
+http://www.nilsattv.com:8080/bedri/gungor/2550
+#EXTINF:-1,(RO) PRIMA TV
+http://www.nilsattv.com:8080/bedri/gungor/2551
+#EXTINF:-1,(RO) ROMANIA TV
+http://www.nilsattv.com:8080/bedri/gungor/2553
+#EXTINF:-1,(RO) VIASAT  NATURE HD
+http://www.nilsattv.com:8080/bedri/gungor/2556
+#EXTINF:-1,(RO) Cinemax 2
+http://www.nilsattv.com:8080/bedri/gungor/1587
+#EXTINF:-1,(RO) HBO 2
+http://www.nilsattv.com:8080/bedri/gungor/1577
+#EXTINF:-1,(RO) HBO 3
+http://www.nilsattv.com:8080/bedri/gungor/1578
+#EXTINF:-1,(RO) DIGI Film
+http://www.nilsattv.com:8080/bedri/gungor/1586
+#EXTINF:-1,(RO) Digi Sport 1 HD
+http://www.nilsattv.com:8080/bedri/gungor/1584
+#EXTINF:-1,(RO) Digi Sport 2 HD
+http://www.nilsattv.com:8080/bedri/gungor/1585
+#EXTINF:-1,(RO) Disney Junior
+http://www.nilsattv.com:8080/bedri/gungor/1583
+#EXTINF:-1,(RO) Eurosport 1
+http://www.nilsattv.com:8080/bedri/gungor/1580
+#EXTINF:-1,(RO) Eurosport 2
+http://www.nilsattv.com:8080/bedri/gungor/1581
+#EXTINF:-1,(RO) Fishing & Hunting
+http://www.nilsattv.com:8080/bedri/gungor/1579
+#EXTINF:-1,(RO) Digi Sport 3
+http://www.nilsattv.com:8080/bedri/gungor/1576
+#EXTINF:-1,(RO) Kiss TV
+http://www.nilsattv.com:8080/bedri/gungor/1575
+#EXTINF:-1,(RO) Digi 24
+http://www.nilsattv.com:8080/bedri/gungor/141
+#EXTINF:-1,RO: AXN Black
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25749
+#EXTINF:-1,RO: AXN Romania
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25748
+#EXTINF:-1,RO: AXN White
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25747
+#EXTINF:-1,RO: Agro TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25746
+#EXTINF:-1,RO: Antena 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25745
+#EXTINF:-1,RO: Antena 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25744
+#EXTINF:-1,RO: Antena Stars
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25743
+#EXTINF:-1,RO: B1 TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25742
+#EXTINF:-1,RO: Boomerang
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25741
+#EXTINF:-1,RO: CineMax 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25740
+#EXTINF:-1,RO: CineMax 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25739
+#EXTINF:-1,RO: DIGI Sport 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25738
+#EXTINF:-1,RO: Digi 24 Craiova
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25737
+#EXTINF:-1,RO: Digi 24
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25736
+#EXTINF:-1,RO: Digi Animal World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25735
+#EXTINF:-1,RO: Digi Film
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25734
+#EXTINF:-1,RO: Digi Life
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25733
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25732
+#EXTINF:-1,RO: Digi Sport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25731
+#EXTINF:-1,RO: Digi Sport 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25730
+#EXTINF:-1,RO: Digi Sport 4
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25729
+#EXTINF:-1,RO: Digi World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25728
+#EXTINF:-1,RO: Disney Junior
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25727
+#EXTINF:-1,RO: Etno TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25726
+#EXTINF:-1,RO: EuroSport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25725
+#EXTINF:-1,RO: EuroSport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25724
+#EXTINF:-1,RO: Favorit TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25723
+#EXTINF:-1,RO: Fishing & Hunting
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25722
+#EXTINF:-1,RO: HBO 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25721
+#EXTINF:-1,RO: HBO 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25720
+#EXTINF:-1,RO: HBO 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25719
+#EXTINF:-1,RO: Happy Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25718
+#EXTINF:-1,RO: History Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25717
+#EXTINF:-1,RO: Kanal D
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25716
+#EXTINF:-1,RO: Kiss TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25715
+#EXTINF:-1,RO: Look Plus
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25714
+#EXTINF:-1,RO: Look TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25713
+#EXTINF:-1,RO: MegaMax HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25712
+#EXTINF:-1,RO: Megamax
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25711
+#EXTINF:-1,RO: Minimax
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25710
+#EXTINF:-1,RO: 1 Music Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25709
+#EXTINF:-1,RO: Nat Geo Wild
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25708
+#EXTINF:-1,RO: National Geographic
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25707
+#EXTINF:-1,RO: National TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25706
+#EXTINF:-1,RO: Neptun TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25705
+#EXTINF:-1,RO: Nickelodeon
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25704
+#EXTINF:-1,RO: PRO.2 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25703
+#EXTINF:-1,RO: PRO.2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25702
+#EXTINF:-1,RO: PRO.GOLD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25701
+#EXTINF:-1,RO: Paramount Channel
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25700
+#EXTINF:-1,RO: Prima Cool
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25699
+#EXTINF:-1,RO: Prima Love
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25698
+#EXTINF:-1,RO: Prima TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25697
+#EXTINF:-1,RO: ProCinema
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25696
+#EXTINF:-1,RO: ProTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25695
+#EXTINF:-1,RO: Realitatea TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25694
+#EXTINF:-1,RO: Romania TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25693
+#EXTINF:-1,RO: Sport.ro
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25692
+#EXTINF:-1,RO: TNT
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25691
+#EXTINF:-1,RO: TV1000
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25690
+#EXTINF:-1,RO: TV5 Monde
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25689
+#EXTINF:-1,RO: TVR 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25688
+#EXTINF:-1,RO: TVR 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25687
+#EXTINF:-1,RO: Taraf TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25686
+#EXTINF:-1,RO: Trinitas
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25685
+#EXTINF:-1,RO: U TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25684
+#EXTINF:-1,RO: Universal HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25683
+#EXTINF:-1,RO: Viasat Explorer
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25682
+#EXTINF:-1,RO: Viasat History
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25681
+#EXTINF:-1,RO: Viasat Nature
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25680
+#EXTINF:-1,RO: Dolce Sport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/41823
+#EXTINF:-1,RO: Comedy Central
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50186
+#EXTINF:-1,RO: Antena 1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/56634
+#EXTINF:-1,RO: Kanal D FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/56635
+#EXTINF:-1,RO: ZU TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/62063
+#EXTINF:-1,(RO) ACASA TV
+http://www.nilsattv.com:8080/bedri/gungor/2540
+#EXTINF:-1,(RO) AXN
+http://www.nilsattv.com:8080/bedri/gungor/2541
+#EXTINF:-1,(RO) DIGI 24 HD
+http://www.nilsattv.com:8080/bedri/gungor/2543
+#EXTINF:-1,(RO) DIGI LIFE
+http://www.nilsattv.com:8080/bedri/gungor/2544
+#EXTINF:-1,(RO) DIGI SPORT 4 HD
+http://www.nilsattv.com:8080/bedri/gungor/2545
+#EXTINF:-1,(RO) KANAL D
+http://www.nilsattv.com:8080/bedri/gungor/2546
+#EXTINF:-1,(RO) MINIMAX
+http://www.nilsattv.com:8080/bedri/gungor/2548
+#EXTINF:-1,(RO) NAT GEO WILD
+http://www.nilsattv.com:8080/bedri/gungor/2549
+#EXTINF:-1,(RO) NATIONAL GEOGRAPHIC HD
+http://www.nilsattv.com:8080/bedri/gungor/2550
+#EXTINF:-1,(RO) PRIMA TV
+http://www.nilsattv.com:8080/bedri/gungor/2551
+#EXTINF:-1,(RO) ROMANIA TV
+http://www.nilsattv.com:8080/bedri/gungor/2553
+#EXTINF:-1,(RO) VIASAT  NATURE HD
+http://www.nilsattv.com:8080/bedri/gungor/2556
+#EXTINF:-1,(RO) Cinemax 2
+http://www.nilsattv.com:8080/bedri/gungor/1587
+#EXTINF:-1,(RO) HBO 2
+http://www.nilsattv.com:8080/bedri/gungor/1577
+#EXTINF:-1,(RO) HBO 3
+http://www.nilsattv.com:8080/bedri/gungor/1578
+#EXTINF:-1,(RO) DIGI Film
+http://www.nilsattv.com:8080/bedri/gungor/1586
+#EXTINF:-1,(RO) Digi Sport 1 HD
+http://www.nilsattv.com:8080/bedri/gungor/1584
+#EXTINF:-1,(RO) Digi Sport 2 HD
+http://www.nilsattv.com:8080/bedri/gungor/1585
+#EXTINF:-1,(RO) Disney Junior
+http://www.nilsattv.com:8080/bedri/gungor/1583
+#EXTINF:-1,(RO) Eurosport 1
+http://www.nilsattv.com:8080/bedri/gungor/1580
+#EXTINF:-1,(RO) Eurosport 2
+http://www.nilsattv.com:8080/bedri/gungor/1581
+#EXTINF:-1,(RO) Fishing & Hunting
+http://www.nilsattv.com:8080/bedri/gungor/1579
+#EXTINF:-1,(RO) Digi Sport 3
+http://www.nilsattv.com:8080/bedri/gungor/1576
+#EXTINF:-1,(RO) Kiss TV
+http://www.nilsattv.com:8080/bedri/gungor/1575
+#EXTINF:-1,(RO) Digi 24
+http://www.nilsattv.com:8080/bedri/gungor/141
