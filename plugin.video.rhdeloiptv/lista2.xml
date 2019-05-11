@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TELE RED
+#EXTINF:-1 tvg-logo="http://puu.sh/reSse/a7ab00d18b.png" group-title="MEXICO",MX: DISTRITO COMEDIA
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-
 #EXTINF:-1,TELE UNO
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-
 #EXTINF:-1,PYC TELEVISIÓN
 http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
 
