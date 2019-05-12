@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF: -1, LAS EXTRELLAS
+http://23.237.36.178/livestream/estrellas.m3u8?token=fPevWjA4O7Mo4Dlhejbb6A&expires=1556308933
+#EXTINF: -2, DISTRITO COMEDIA
+http://23.237.36.178/livestream/distritocomedia.m3u8?token=MRGQWGD1-7x8dbuygUrqmQ&expires=1556309122
+#EXTINF: -3, CANAL 7
+https://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+#EXTINF: -4, TN23
+https://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
+#EXTINF: -5, GUATEVICION
+https://playback.akamaized.net/streams/25697071_7829275_lsir5kht9pe4b2koafb_1/media/25697071_7829275_lsir5kht9pe4b2koafb_1@1756000p.m3u8?dw=14400&ts=1556294400&hdnts=exp=1556468342~acl=/streams/25697071_7829275_lsir5kht9pe4b2koafb_1/media*~hmac=2bff6abf4c23e36a62e62dc99a74097b3dd093ce9d2d83110f23fb18fccf3852
+#EXTINF: -6, FOX CHANNEL
+http://134.209.75.14:9981/stream/channelid/1095588360?profile=h265
+#EXTINF: -7, CINE MAX
+http://134.209.75.14:9981/stream/channelid/1886498934?profile=h265
+#EXTINF: -8, FOX SERIES
+http://134.209.75.14:9981/stream/channelid/506895825?profile=h265
+#EXTINF: -9, ANIMAL PLANET
+http://181.176.176.2:8000/play/a01e
+#EXTINF: -10, CATOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF: -11, CINE CANAL
+http://181.176.176.2:8000/play/a00u
+#EXTINF: -12, CNN
+http://181.176.176.2:8000/play/a027
+#EXTINF: -13,DISCOVERY CHANNEL
+http://181.176.176.2:8000/play/a01d
+#EXTINF: -14,DISCOVERY KIDS
+http://181.176.176.2:8000/play/a026
+#EXTINF: -15,DISNEY CHANNEL
+http://181.176.176.2:8000/play/a01c
+#EXTINF: -16,DISNEY JUNIOR
+http://181.176.176.2:8000/play/a02n
+#EXTINF: -17,DISNEY XD
+http://181.176.176.2:8000/play/a00r
+#EXTINF: -18,ESPN
+http://181.176.176.2:8000/play/a01i
+#EXTINF: -19,ESPN 2
+http://181.176.176.2:8000/play/a01j
+#EXTINF: -20,FOX CHANNEL
+http://181.176.176.2:8000/play/a00w
+#EXTINF: -21,FOX LIFE
+http://181.176.176.2:8000/play/a010
+#EXTINF: -22, Fox PREMIUN CINEMA
+http://181.176.176.2:8000/play/a010
+#EXTINF: -23, FOX SPORTS 2
+http://181.176.176.2:8000/play/a022
+#EXTINF: -24, FOX SPORTS 3
+http://181.176.176.2:8000/play/a023
+#EXTINF: -25, FOX SPORTS PREMIUM
+http://181.176.176.2:8000/play/a02f
+#EXTINF: -26, FXM
+http://181.176.176.2:8000/play/a02d
+#EXTINF: -27,HISTORY
+http://181.176.176.2:8000/play/a00t
+#EXTINF: -28, NET GEO KIDS
+http://181.176.176.2:8000/play/a013
+#EXTINF: -29,NATIONAL GEOGRAPHIC
+http://181.176.176.2:8000/play/a00s
+#EXTINF: -30, NICKELODEON
+http://181.176.176.2:8000/play/a00q
+#EXTINF: -31, TELEMUNDO
+http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
