@@ -10,13 +10,13 @@ https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8
 http://drive.google.com/open?id=1VgNfJ75DqiQbA9sJLuHZCyZvYPwAnSBi
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",PELI2
-https://vk.com/video544634181_456239017
+https://vk.com/video544634181_456239017 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News (Opt-2)
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",peli3
+https://cs564332.vkuservideo.net/video/hls/8/u544634181/videos/207d0d5352/index-f2-v1-a1.m3u8?extra=p3FmvhTGNGbnm8RSlhB2EHPZ_ZVLM9Yd1ScnCojG6l1VIcdFzL-vkm6-WvaRlI6hCPASZgpHHP8RzXElBgGDZGAj0WshS-JfMbP7Ed-kw8HcZdec_3WmxAhEsRA0sblHkm-vxXP2o2rkN_9Nd659Kg/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://50.204.222.53/Cablecast/WebFiles/873/channel%2019.fw.png" group-title="USA",Access 19 Montgomery County
-http://reflect-ch19-mcmedia.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 tvg-logo="http://50.204.222.53/Cablecast/WebFiles/873/channel%2019.fw.png" group-title="USA",peli4
+https://cs564332.vkuservideo.net/video/hls/8/u544634181/videos/207d0d5352/index-f2-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.acretv.org/wp-content/uploads/2015/01/screen-shot-2014-02-17-at-9-41-01-am.png" group-title="USA",ACRE TV
 http://54.152.189.82/live/smil:AcreTVABR.smil/chunklist_w1077221950_b4128000_sleng.m3u8?fluxustv.m3u8
