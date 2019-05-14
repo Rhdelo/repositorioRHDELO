@@ -2,14 +2,16 @@
 
 #EXTINF:-1,###### AL OULA ######
 
-
+#EXTINF:-1,iptvsmarttv.net MAROC - AL OULA HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:-1,iptvsmarttv.net MAROC - AL OULA HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:-1,iptvsmarttv.net MAROC - AL OULA laayoune
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 
 #EXTINF:-1,###### 2M  ######
-
+#EXTINF:0,iptvsmarttv.net 2m HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-video=1000000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:0,iptvsmarttv.net 2m HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-video=1000000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:0,iptvsmarttv.net 2m SD
@@ -18,12 +20,14 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
 #EXTINF:-1,###### ARRAUDIA  ######
-
+#EXTINF:0,iptvsmarttv.net arriadia HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:0,iptvsmarttv.net arriadia HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
 #EXTINF:-1,###### ASSADISSA  ######
-
+#EXTINF:0,iptvsmarttv.net assadissa HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:0,iptvsmarttv.net assadissa HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
 #EXTINF:0,iptvsmarttv.net assadissa SD
@@ -32,13 +36,14 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadi
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-video=400000-audio_AACL_qad_130400_110=130400.m3u8
 
 #EXTINF:-1,###### MEDIL  ######
-
+#EXTINF:-1,iptvsmarttv.net MAROC - Medi1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
 #EXTINF:-1,iptvsmarttv.net MAROC - Medi1 TV
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
 #EXTINF:-1,iptvsmarttv.net MAROC - MEDI1 TV Afrique
 http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
 
-#EXTINF:-1,###### MEDIL  ######
+#EXTINF:-1,###### FRANCIA TV  ######
 
 #EXTINF:-1, iptvsmarttv Fr | Tf1 Hd
 http://force102.com:8080/Ersin60/Tokat60/11410
