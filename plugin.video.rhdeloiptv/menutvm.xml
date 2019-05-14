@@ -89,6 +89,13 @@
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ita.xml</externallink>
 </item>
 
+<item>
+<title>Arab IPTV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/arab.xml</externallink>
+</item>
 
 <item>
 <title>Marruecos IPTV</title>
