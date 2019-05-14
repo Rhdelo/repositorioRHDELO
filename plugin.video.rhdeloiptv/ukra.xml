@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:-1,Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Первый деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,News 24 HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,5 канал UA
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,112 Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1,Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,Планета UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Антенна (Черкасы)
+http://streamer.antenna.com.ua/hls/antenna.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,21 канал (Ужгород)
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1 group-title=»РАЗНОЕ»,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ТРК Черновцы
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Сфера ТВ
+rtmp://194.44.173.130:1935/live/SFERA
+#EXTINF:-1 group-title=»РАЗНОЕ»,Свое ТВ (Ставрополь)
+#EXTINF:-1 group-title=»РАЗНОЕ»,Пульсар UA
+rtmp://78.154.164.191:19350/Pulsar/forever
+#EXTINF:-1 group-title=»РАЗНОЕ»,Правда Тут
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8?_=1496918218
+#EXTINF:-1 group-title=»РАЗНОЕ»,Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Первый (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Первый (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ОДТРК ЛТАВА
+http://ltava.poltava.ua:8000/hls/tvltava.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Мариупольское ТВ
+rtmp://31.202.208.204:1935/live/livestream1
+#EXTINF:-1 group-title=»РАЗНОЕ»,Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Житомир
+rtmp://online1.tvradiozt.com.ua/rtplive/live1.stream
+#EXTINF:-1 group-title=»РАЗНОЕ»,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Горизонт ТВ UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Алекс Запоріжжя
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1 group-title=»РАЗНОЕ»,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ZTV (Запорожье)
+rtmp://91.214.29.99/live/livestream
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA Суми (Украина)
+rtmp://94.179.129.54:8134/live/my_livestream
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA TV
+http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV7+
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Tonis
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,News 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,KPT КИЕВ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,5 канал
+http://91.196.149.76/5channel/stream.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,24 Украiна
+http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,ZTV (Запорожье)
+rtmp://91.214.29.99/live/livestream
+#EXTINF:-1 group-title=»Разное»,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,Алекс Запоріжжя
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1 group-title=»Разное»,ЛОТ (Украина)
+rtmp://94.179.129.2:1935/live/lotlive
+#EXTINF:-1 group-title=»Разное»,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1 group-title=»Разное»,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,Интер
+http://37.57.21.147:8888/udp/238.0.0.4:1234
+#EXTINF:-1,2+2
+http://37.57.21.147:8888/udp/238.0.0.50:1234
+#EXTINF:-1,НТН
+http://37.57.21.147:8888/udp/238.0.0.10:1234
+#EXTINF:-1,ТЕТ
+http://37.57.21.147:8888/udp/238.0.0.11:1234
+#EXTINF:-1,Первый национальный
+http://37.57.21.147:8888/udp/238.0.0.19:1234
+#EXTINF:-1,Донбасс
+http://37.57.21.147:8888/udp/238.0.0.106:1234
+#EXTINF:-1,Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Первый деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,News 24 HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,5 канал UA
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,112 Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1,Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,Планета UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1,Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Антенна (Черкасы)
+http://streamer.antenna.com.ua/hls/antenna.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,21 канал (Ужгород)
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1 group-title=»РАЗНОЕ»,Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ТРК Черновцы
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Сфера ТВ
+rtmp://194.44.173.130:1935/live/SFERA
+#EXTINF:-1 group-title=»РАЗНОЕ»,Свое ТВ (Ставрополь)
+#EXTINF:-1 group-title=»РАЗНОЕ»,Пульсар UA
+rtmp://78.154.164.191:19350/Pulsar/forever
+#EXTINF:-1 group-title=»РАЗНОЕ»,Правда Тут
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8?_=1496918218
+#EXTINF:-1 group-title=»РАЗНОЕ»,Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Первый (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Первый (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ОДТРК ЛТАВА
+http://ltava.poltava.ua:8000/hls/tvltava.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Мариупольское ТВ
+rtmp://31.202.208.204:1935/live/livestream1
+#EXTINF:-1 group-title=»РАЗНОЕ»,Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Крым 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Житомир
+rtmp://online1.tvradiozt.com.ua/rtplive/live1.stream
+#EXTINF:-1 group-title=»РАЗНОЕ»,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Горизонт ТВ UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Алекс Запоріжжя
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1 group-title=»РАЗНОЕ»,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ZTV (Запорожье)
+rtmp://91.214.29.99/live/livestream
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA Суми (Украина)
+rtmp://94.179.129.54:8134/live/my_livestream
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,UA TV
+http://vs38.vcdn.biz/fa5a0dda44c68b44804557b13322cff3_megogo/vod/fs/o/22814441/u_sid/0/u_uid/0/u_vod/1/u_device/flash/type.live/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV7+
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,Tonis
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,News 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,KPT КИЕВ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,5 канал
+http://91.196.149.76/5channel/stream.m3u8
+#EXTINF:-1 group-title=»РАЗНОЕ»,24 Украiна
+http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,ZTV (Запорожье)
+rtmp://91.214.29.99/live/livestream
+#EXTINF:-1 group-title=»Разное»,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title=»Разное»,Алекс Запоріжжя
+rtmp://94.240.131.3/live/livestream3
+#EXTINF:-1 group-title=»Разное»,ЛОТ (Украина)
+rtmp://94.179.129.2:1935/live/lotlive
+#EXTINF:-1 group-title=»Разное»,НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1 group-title=»Разное»,Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,2+2
+http://tv.crypton.com.ua/stream?id=3450
+#EXTINF:-1,Інтер
+http://tv.crypton.com.ua/stream?id=3451
+#EXTINF:-1,НТН
+http://tv.crypton.com.ua/stream?id=3453
+#EXTINF:-1,К-1
+http://tv.crypton.com.ua/stream?id=3454
+#EXTINF:-1,ПЕРШИЙТ 2
+http://tv.crypton.com.ua/stream?id=3455
+#EXTINF:-1,ICTV
+http://tv.crypton.com.ua/stream?id=3456
+#EXTINF:-1,Enter-фільм
+http://tv.crypton.com.ua/stream?id=3457
+#EXTINF:-1,Культура
+http://tv.crypton.com.ua/stream?id=3458
+#EXTINF:-1,Вінтаж
+http://tv.crypton.com.ua/stream?id=3459
+#EXTINF:-1,Ескулап ТБ
+http://tv.crypton.com.ua/stream?id=3460
+#EXTINF:-1,Центральний канал
+http://tv.crypton.com.ua/stream?id=3461
+#EXTINF:-1,112-UA HD
+http://tv.crypton.com.ua/stream?id=3462
+#EXTINF:-1,ТРК Київ
+http://tv.crypton.com.ua/stream?id=3463
+#EXTINF:-1,ВСІНОВИНИ
+http://tv.crypton.com.ua/stream?id=3464
+#EXTINF:-1,ПРЯМИЙ
+http://tv.crypton.com.ua/stream?id=3465
+#EXTINF:-1,ZOOM
+http://tv.crypton.com.ua/stream?id=3466
+#EXTINF:-1,Indigo TV
+http://tv.crypton.com.ua/stream?id=3467
+#EXTINF:-1,СТБ
+http://tv.crypton.com.ua/stream?id=3468
+#EXTINF:-1,К-2
+http://tv.crypton.com.ua/stream?id=3469
+#EXTINF:-1,Новий канал
+http://tv.crypton.com.ua/stream?id=3470
+#EXTINF:-1,М-1
+http://tv.crypton.com.ua/stream?id=3471
+#EXTINF:-1,5 канал
+http://tv.crypton.com.ua/stream?id=3472
+#EXTINF:-1,Мега
+http://tv.crypton.com.ua/stream?id=3473
+#EXTINF:-1,Pixel
+http://tv.crypton.com.ua/stream?id=3474
+#EXTINF:-1,XSPORT
+http://tv.crypton.com.ua/stream?id=3475
+#EXTINF:-1,НЛО
+http://tv.crypton.com.ua/stream?id=3476
+#EXTINF:-1,ZIK
+http://tv.crypton.com.ua/stream?id=3477
+#EXTINF:-1,BUSINESS
+http://tv.crypton.com.ua/stream?id=3525
+#EXTINF:-1,Donbass
+http://tv.crypton.com.ua/stream?id=3526
+#EXTINF:-1,34
+http://tv.crypton.com.ua/stream?id=3527
+#EXTINF:-1,News Network Ukraine
+http://tv.crypton.com.ua/stream?id=3528
+#EXTINF:-1,NADIYA
+http://tv.crypton.com.ua/stream?id=3529
+#EXTINF:-1,SONCE (UA)
+http://tv.crypton.com.ua/stream?id=3530
+#EXTINF:-1,RTi
+http://tv.crypton.com.ua/stream?id=3532
+#EXTINF:-1,KRT
+http://tv.crypton.com.ua/stream?id=3533
+#EXTINF:-1,ATR
+http://tv.crypton.com.ua/stream?id=3534
+#EXTINF:-1,LALE
+http://tv.crypton.com.ua/stream?id=3535
+#EXTINF:-1,MAXXI TV
+http://tv.crypton.com.ua/stream?id=3536
+#EXTINF:-1,BlackSea TV
+http://tv.crypton.com.ua/stream?id=3537
+#EXTINF:-1,Horizont
+http://tv.crypton.com.ua/stream?id=3538
+#EXTINF:-1,1+1 International
+http://tv.crypton.com.ua/stream?id=3539
+#EXTINF:-1,Plus Plus
+http://tv.crypton.com.ua/stream?id=3540
+#EXTINF:-1,Bigudi
+http://tv.crypton.com.ua/stream?id=3541
+#EXTINF:-1,UnianTV
+http://tv.crypton.com.ua/stream?id=3542
+#EXTINF:-1,MusicBox
+http://tv.crypton.com.ua/stream?id=3543
+#EXTINF:-1,O-TV
+http://tv.crypton.com.ua/stream?id=3544
+#EXTINF:-1,NEWSONE
+http://tv.crypton.com.ua/stream?id=3545
+#EXTINF:-1,hromadske
+http://tv.crypton.com.ua/stream?id=3547
+#EXTINF:-1,ZIK
+http://tv.crypton.com.ua/stream?id=3548
+#EXTINF:-1,RADA
+http://tv.crypton.com.ua/stream?id=3549
+#EXTINF:-1,Terra
+http://tv.crypton.com.ua/stream?id=3554
+#EXTINF:-1,Nauka
+http://tv.crypton.com.ua/stream?id=3555
+#EXTINF:-1,Fauna
+http://tv.crypton.com.ua/stream?id=3556
+#EXTINF:-1,BOLT
+http://tv.crypton.com.ua/stream?id=3558
+#EXTINF:-1,TV KYIV
+http://tv.crypton.com.ua/stream?id=3559
+#EXTINF:-1,Indigo
+http://tv.crypton.com.ua/stream?id=3566
+#EXTINF:-1,Channel5 (Ukraine)
+http://tv.crypton.com.ua/stream?id=3567
+#EXTINF:-1,Inter
+http://tv.crypton.com.ua/stream?id=3568
+#EXTINF:-1,MEGA
+http://tv.crypton.com.ua/stream?id=3570
+#EXTINF:-1,K2
+http://tv.crypton.com.ua/stream?id=3572
+#EXTINF:-1,ZOOM
+http://tv.crypton.com.ua/stream?id=3573
+#EXTINF:-1,PIXEL
+http://tv.crypton.com.ua/stream?id=3574
+#EXTINF:-1,Enter Film
+http://tv.crypton.com.ua/stream?id=3575
+#EXTINF:-1,1+1
+http://tv.crypton.com.ua/stream?id=3576
+#EXTINF:-1,TET
+http://tv.crypton.com.ua/stream?id=3577
+#EXTINF:-1,2+2
+http://tv.crypton.com.ua/stream?id=3578
+#EXTINF:-1,KARAVAN
+http://tv.crypton.com.ua/stream?id=3581
+#EXTINF:-1,Sirius TV
+http://tv.crypton.com.ua/stream?id=3582
+#EXTINF:-1,SHOPping TV
+http://tv.crypton.com.ua/stream?id=3584
