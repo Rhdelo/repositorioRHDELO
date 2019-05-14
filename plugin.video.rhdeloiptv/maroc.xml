@@ -37,3 +37,454 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadi
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
 #EXTINF:-1,iptvsmarttv.net MAROC - MEDI1 TV Afrique
 http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
+
+#EXTINF:-1,###### MEDIL  ######
+
+#EXTINF:-1, iptvsmarttv Fr | Tf1 Hd
+http://force102.com:8080/Ersin60/Tokat60/11410
+#EXTINF:-1, iptvsmarttv Fr | France O Hd
+http://force102.com:8080/Ersin60/Tokat60/11404
+#EXTINF:-1, iptvsmarttv Fr | France 2 Hd
+http://force102.com:8080/Ersin60/Tokat60/11403
+#EXTINF:-1, iptvsmarttv Fr | France 24
+http://force102.com:8080/Ersin60/Tokat60/11362
+#EXTINF:-1, iptvsmarttv Fr | France 3 Hd
+http://force102.com:8080/Ersin60/Tokat60/11402
+#EXTINF:-1, iptvsmarttv Fr | France 4 Hd
+http://force102.com:8080/Ersin60/Tokat60/11401
+#EXTINF:-1, iptvsmarttv Fr | France 5
+http://force102.com:8080/Ersin60/Tokat60/11400
+#EXTINF:-1, iptvsmarttv Fr | M6 Hd
+http://force102.com:8080/Ersin60/Tokat60/11406
+#EXTINF:-1, iptvsmarttv Fr | M6 Music
+http://force102.com:8080/Ersin60/Tokat60/11365
+#EXTINF:-1, iptvsmarttv Fr | Rtl9
+http://force102.com:8080/Ersin60/Tokat60/11385
+#EXTINF:-1, iptvsmarttv Fr | Syfy Hd
+http://force102.com:8080/Ersin60/Tokat60/11372
+#EXTINF:-1, iptvsmarttv Fr | Teva Hd
+http://force102.com:8080/Ersin60/Tokat60/11379
+#EXTINF:-1, iptvsmarttv Fr | Tmc
+http://force102.com:8080/Ersin60/Tokat60/11397
+#EXTINF:-1, iptvsmarttv Fr | Tv Breitz
+http://force102.com:8080/Ersin60/Tokat60/11374
+#EXTINF:-1, iptvsmarttv Fr | W9
+http://force102.com:8080/Ersin60/Tokat60/11375
+#EXTINF:-1, iptvsmarttv Fr | 13 Eme Rue
+http://force102.com:8080/Ersin60/Tokat60/11348
+#EXTINF:-1, iptvsmarttv Fr | 6ter Hd
+http://force102.com:8080/Ersin60/Tokat60/11349
+#EXTINF:-1, iptvsmarttv Fr | Ab1 Hd
+http://force102.com:8080/Ersin60/Tokat60/11378
+#EXTINF:-1, iptvsmarttv Fr | Ab3
+http://force102.com:8080/Ersin60/Tokat60/11351
+#EXTINF:-1, iptvsmarttv Fr | Ab Moteurs Hd
+http://force102.com:8080/Ersin60/Tokat60/11350
+#EXTINF:-1, iptvsmarttv Fr | Arte Hd
+http://force102.com:8080/Ersin60/Tokat60/11384
+#EXTINF:-1, iptvsmarttv Fr | I Tele
+http://force102.com:8080/Ersin60/Tokat60/11364
+#EXTINF:-1, iptvsmarttv Fr | L'equipe 21
+http://force102.com:8080/Ersin60/Tokat60/11377
+#EXTINF:-1, iptvsmarttv Fr | Mangas
+http://force102.com:8080/Ersin60/Tokat60/11366
+#EXTINF:-1, iptvsmarttv Fr | Nrj 12 Hd
+http://force102.com:8080/Ersin60/Tokat60/11391
+#EXTINF:-1, iptvsmarttv Fr | Nt 1
+http://force102.com:8080/Ersin60/Tokat60/11389
+#EXTINF:-1, iptvsmarttv Fr | Cherie 25 Hd
+http://force102.com:8080/Ersin60/Tokat60/11383
+#EXTINF:-1, iptvsmarttv Fr | Comedie Hd
+http://force102.com:8080/Ersin60/Tokat60/11345
+#EXTINF:-1, iptvsmarttv Fr | Discovery Science Hd
+http://force102.com:8080/Ersin60/Tokat60/11388
+#EXTINF:-1, iptvsmarttv Fr | Disney Channel
+http://force102.com:8080/Ersin60/Tokat60/11361
+#EXTINF:-1, iptvsmarttv Fr | Disney Xd
+http://force102.com:8080/Ersin60/Tokat60/11387
+#EXTINF:-1, iptvsmarttv Fr | Foot 24 Hd
+http://force102.com:8080/Ersin60/Tokat60/11390
+#EXTINF:-1, iptvsmarttv Fr | Gulli Hd
+http://force102.com:8080/Ersin60/Tokat60/11363
+#EXTINF:-1, iptvsmarttv Fr | Nat Geo Wild
+http://force102.com:8080/Ersin60/Tokat60/11367
+#EXTINF:-1, iptvsmarttv Fr | Ocs Choc Hd
+http://force102.com:8080/Ersin60/Tokat60/11382
+#EXTM3U
+#EXTINF:-1, iptvsmarttv TF1 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1905
+#EXTINF:-1, iptvsmarttv FR| TF1 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4779
+#EXTINF:-1, iptvsmarttv FR: TF1 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13342
+#EXTINF:-1, iptvsmarttv FRANCE 2 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1906
+#EXTINF:-1, iptvsmarttv FR| FRANCE 2 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4778
+#EXTINF:-1, iptvsmarttv FR: FRANCE2 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13341
+#EXTINF:-1, iptvsmarttv FRANCE 3 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1953
+#EXTINF:-1, iptvsmarttv FR| FRANCE 3 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4777
+#EXTINF:-1, iptvsmarttv FR: FRANCE3 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13340
+#EXTINF:-1, iptvsmarttv FRANCE 4 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2596
+#EXTINF:-1, iptvsmarttv FR| FRANCE 4 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4776
+#EXTINF:-1, iptvsmarttv FR: FRANCE4 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13339
+#EXTINF:-1, iptvsmarttv FRANCE 5 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2204
+#EXTINF:-1, iptvsmarttv FR| FRANCE 5 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4775
+#EXTINF:-1, iptvsmarttv FR: FRANCE5 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13338
+#EXTINF:-1, iptvsmarttv FRANCE Ô Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5064
+#EXTINF:-1, iptvsmarttv FR| FRANCE Ô HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4774
+#EXTINF:-1, iptvsmarttv FR: FRANCE O SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13337
+#EXTINF:-1, iptvsmarttv W9 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1909
+#EXTINF:-1, iptvsmarttv FR| W9 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4772
+#EXTINF:-1, iptvsmarttv FR: W9 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13207
+#EXTINF:-1, iptvsmarttv M6 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1907
+#EXTINF:-1, iptvsmarttv FR| M6 HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4773
+#EXTINF:-1, iptvsmarttv FR: M6 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13336
+#EXTINF:-1, iptvsmarttv RTS UN Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2634
+#EXTINF:-1, iptvsmarttv FR| RTS UN HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4742
+#EXTINF:-1, iptvsmarttv RTS DEUX Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2635
+#EXTINF:-1, iptvsmarttv FR| RTS DEUX HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4741
+#EXTINF:-1, iptvsmarttv 6TER Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3703
+#EXTINF:-1, iptvsmarttv FR| 6TER HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4764
+#EXTINF:-1, iptvsmarttv FR: 6TER SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13332
+#EXTINF:-1, iptvsmarttv RTL 9 Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1479
+#EXTINF:-1, iptvsmarttv FR: RTL9 SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13211
+#EXTINF:-1, iptvsmarttv FR| TEVA HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1513
+#EXTINF:-1, iptvsmarttv FR: TEVA SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13232
+#EXTINF:-1, iptvsmarttv FR| CNEWS HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4685
+#EXTINF:-1, iptvsmarttv FR: CNEWS HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13138
+#EXTINF:-1, iptvsmarttv I24 NEWS Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5084
+#EXTINF:-1, iptvsmarttv LCI Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5085
+#EXTINF:-1, iptvsmarttv FR: LCI
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13141
+#EXTINF:-1, iptvsmarttv FR: LCP
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13140
+#EXTINF:-1, iptvsmarttv FR: LUXE TV
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13205
+#EXTINF:-1, iptvsmarttv FR: FASHIONTV HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13200
+#EXTINF:-1, iptvsmarttv BFM TV Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2704
+#EXTINF:-1, iptvsmarttv FR| BFM TV HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4722
+#EXTINF:-1, iptvsmarttv FR: BFM TV HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13143
+#EXTINF:-1, iptvsmarttv FR| BFM BUSINESS HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4687
+#EXTINF:-1, iptvsmarttv FR: BFM BUISINESS
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13142
+#EXTINF:-1, iptvsmarttv La Chainne Météo
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7759
+#EXTINF:-1, iptvsmarttv FR| EURONEWS HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4680
+#EXTINF:-1, iptvsmarttv FR: EURONEWS
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13145
+#EXTINF:-1, iptvsmarttv FR: EURO NEWS HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13312
+#EXTINF:-1, iptvsmarttv FR| FRANCE INFO HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4683
+#EXTINF:-1, iptvsmarttv FR: FRANCE INFO SD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13137
+#EXTINF:-1, iptvsmarttv FR: LA CHAINE METEO
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13146
+#EXTINF:-1, iptvsmarttv FR: FRANCE 24
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13144
+#EXTINF:-1, iptvsmarttv TV5MONDE Full HD
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7576
+#EXTINF:-1, iptvsmarttv FR: TV 5 monde
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13135
+#EXTINF:-1, iptvsmarttv FR: TV5 MONDE
+http://satfrog-tv.ddns.net:5890/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13136
+#EXTINF:-1, iptvsmarttv FR| BEINSPORTS 1 FHD
+http://iptvpro.premium-tv.media:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41005
+#EXTINF:-1, iptvsmarttv FR| BEINSPORTS 2 FHD
+http://iptvpro.premium-tv.media:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41004
+#EXTINF:-1, iptvsmarttv FR| FRANCE 2 FHD
+http://iptvpro.premium-tv.media:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41003
+#EXTINF:-1, iptvsmarttv FR| RMC SPORT 1FHD
+http://iptvpro.premium-tv.media:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41001
+#EXTINF:-1, iptvsmarttv FR| RMC SPORT 2FHD
+http://iptvpro.premium-tv.media:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41000
+#EXTM3U
+#EXTINF:-1,FR: AB1
+http://212.8.248.71:8000/live/aprile/aprile123/42909.m3u8
+#EXTINF:-1,FR: AB3
+http://212.8.248.71:8000/live/aprile/aprile123/42908.m3u8
+#EXTINF:-1,FR: Action
+http://212.8.248.71:8000/live/aprile/aprile123/42907.m3u8
+#EXTINF:-1,FR: Animaux
+http://212.8.248.71:8000/live/aprile/aprile123/42906.m3u8
+#EXTINF:-1,FR: Arte
+http://212.8.248.71:8000/live/aprile/aprile123/42905.m3u8
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42904.m3u8
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42903.m3u8
+#EXTINF:-1,FR: beIN SPORTS 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42902.m3u8
+#EXTINF:-1,FR: beIN SPORTS 4 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42901.m3u8
+#EXTINF:-1,FR: beIN SPORTS 5 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42900.m3u8
+#EXTINF:-1,FR: beIN SPORTS 6 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42899.m3u8
+#EXTINF:-1,FR: beIN SPORTS 7 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42898.m3u8
+#EXTINF:-1,FR: beIN SPORTS 8 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42896.m3u8
+#EXTINF:-1,FR: beIN SPORTS 9 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42895.m3u8
+#EXTINF:-1,FR: beIN SPORTS 10 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42897.m3u8
+#EXTINF:-1,FR: BFM TV
+http://212.8.248.71:8000/live/aprile/aprile123/42894.m3u8
+#EXTINF:-1,FR: Boing HD
+http://212.8.248.71:8000/live/aprile/aprile123/42893.m3u8
+#EXTINF:-1,FR: Boomerang HD
+http://212.8.248.71:8000/live/aprile/aprile123/42892.m3u8
+#EXTINF:-1,FR: C8
+http://212.8.248.71:8000/live/aprile/aprile123/42891.m3u8
+#EXTINF:-1,FR: Canal  Cinema HD
+http://212.8.248.71:8000/live/aprile/aprile123/42890.m3u8
+#EXTINF:-1,FR: Canal  Cinéma HD 1
+http://212.8.248.71:8000/live/aprile/aprile123/42889.m3u8
+#EXTINF:-1,FR: Canal  Decale HD
+http://212.8.248.71:8000/live/aprile/aprile123/42888.m3u8
+#EXTINF:-1,FR: CANAL  FAMILY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42887.m3u8
+#EXTINF:-1,FR: Canal  HD
+http://212.8.248.71:8000/live/aprile/aprile123/42886.m3u8
+#EXTINF:-1,FR: Canal  Series HD
+http://212.8.248.71:8000/live/aprile/aprile123/42885.m3u8
+#EXTINF:-1,FR: Canal  Sport HD
+http://212.8.248.71:8000/live/aprile/aprile123/42884.m3u8
+#EXTINF:-1,FR: Canal Decale HD
+http://212.8.248.71:8000/live/aprile/aprile123/42883.m3u8
+#EXTINF:-1,FR: Canal J
+http://212.8.248.71:8000/live/aprile/aprile123/42882.m3u8
+#EXTINF:-1,FR: Canal Plus Sport HD
+http://212.8.248.71:8000/live/aprile/aprile123/42881.m3u8
+#EXTINF:-1,FR: CANALPLAY 1 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42805.m3u8
+#EXTINF:-1,FR: CANALPLAY 2 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42801.m3u8
+#EXTINF:-1,FR: CANALPLAY 3 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42800.m3u8
+#EXTINF:-1,FR: CANALPLAY 4 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42799.m3u8
+#EXTINF:-1,FR: CANALPLAY 5 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42798.m3u8
+#EXTINF:-1,FR: CANALPLAY 6 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42797.m3u8
+#EXTINF:-1,FR: CANALPLAY 7 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42796.m3u8
+#EXTINF:-1,FR: CANALPLAY 8 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42795.m3u8
+#EXTINF:-1,FR: CANALPLAY 9 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42794.m3u8
+#EXTINF:-1,FR: CANALPLAY 10 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42804.m3u8
+#EXTINF:-1,FR: CANALPLAY 11 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42803.m3u8
+#EXTINF:-1,FR: CANALPLAY 12 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42802.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 1 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42793.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 2 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42792.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 3 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42791.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 4 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42790.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 5 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42789.m3u8
+#EXTINF:-1,FR: CANALPLAY XTR 6 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42788.m3u8
+#EXTINF:-1,FR: Cartoon Network HD
+http://212.8.248.71:8000/live/aprile/aprile123/42880.m3u8
+#EXTINF:-1,FR: Chasse & Peche
+http://212.8.248.71:8000/live/aprile/aprile123/42879.m3u8
+#EXTINF:-1,FR: CHERIE 25
+http://212.8.248.71:8000/live/aprile/aprile123/42878.m3u8
+#EXTINF:-1,FR: Cine  Classic HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42877.m3u8
+#EXTINF:-1,FR: Cine  Club HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42876.m3u8
+#EXTINF:-1,FR: Cine  Emotion HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42875.m3u8
+#EXTINF:-1,FR: Cine  Famiz
+http://212.8.248.71:8000/live/aprile/aprile123/42874.m3u8
+#EXTINF:-1,FR: Cine  Frisson HD
+http://212.8.248.71:8000/live/aprile/aprile123/42873.m3u8
+#EXTINF:-1,FR: Cine  FX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42872.m3u8
+#EXTINF:-1,FR: Cine  Premier HD
+http://212.8.248.71:8000/live/aprile/aprile123/42871.m3u8
+#EXTINF:-1,FR: Cine  Star HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42870.m3u8
+#EXTINF:-1,FR: Cine Action HD
+http://212.8.248.71:8000/live/aprile/aprile123/42807.m3u8
+#EXTINF:-1,FR: Cine Comedie HD
+http://212.8.248.71:8000/live/aprile/aprile123/42806.m3u8
+#EXTINF:-1,FR: DISCOVERY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42869.m3u8
+#EXTINF:-1,FR: Disney Channel
+http://212.8.248.71:8000/live/aprile/aprile123/42868.m3u8
+#EXTINF:-1,FR: Disney Cinema HD
+http://212.8.248.71:8000/live/aprile/aprile123/42867.m3u8
+#EXTINF:-1,FR: Disney Junior HD
+http://212.8.248.71:8000/live/aprile/aprile123/42866.m3u8
+#EXTINF:-1,FR: Disney XD HD
+http://212.8.248.71:8000/live/aprile/aprile123/42865.m3u8
+#EXTINF:-1,FR: E Entertainment
+http://212.8.248.71:8000/live/aprile/aprile123/42864.m3u8
+#EXTINF:-1,FR: Equidia Life HD
+http://212.8.248.71:8000/live/aprile/aprile123/42912.m3u8
+#EXTINF:-1,FR: EuroNews
+http://212.8.248.71:8000/live/aprile/aprile123/42863.m3u8
+#EXTINF:-1,FR: Euronews fr
+http://212.8.248.71:8000/live/aprile/aprile123/42862.m3u8
+#EXTINF:-1,FR: Foot  24/24 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42861.m3u8
+#EXTINF:-1,FR: France 24 en Anglais
+http://212.8.248.71:8000/live/aprile/aprile123/42859.m3u8
+#EXTINF:-1,FR: France 24 News
+http://212.8.248.71:8000/live/aprile/aprile123/42858.m3u8
+#EXTINF:-1,FR: France 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42860.m3u8
+#EXTINF:-1,FR: France 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42857.m3u8
+#EXTINF:-1,FR: France 4 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42856.m3u8
+#EXTINF:-1,FR: France 5 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42855.m3u8
+#EXTINF:-1,FR: France O
+http://212.8.248.71:8000/live/aprile/aprile123/42854.m3u8
+#EXTINF:-1,FR: GONG
+http://212.8.248.71:8000/live/aprile/aprile123/42853.m3u8
+#EXTINF:-1,FR: Gulli
+http://212.8.248.71:8000/live/aprile/aprile123/42852.m3u8
+#EXTINF:-1,FR: HD1
+http://212.8.248.71:8000/live/aprile/aprile123/42851.m3u8
+#EXTINF:-1,FR: HISTOIRE
+http://212.8.248.71:8000/live/aprile/aprile123/42850.m3u8
+#EXTINF:-1,FR: iTele
+http://212.8.248.71:8000/live/aprile/aprile123/42849.m3u8
+#EXTINF:-1,FR: La Chaine Normande
+http://212.8.248.71:8000/live/aprile/aprile123/42848.m3u8
+#EXTINF:-1,FR: LCP
+http://212.8.248.71:8000/live/aprile/aprile123/42847.m3u8
+#EXTINF:-1,FR: M6 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42846.m3u8
+#EXTINF:-1,FR: M6 Music
+http://212.8.248.71:8000/live/aprile/aprile123/42845.m3u8
+#EXTINF:-1,FR: Mangas
+http://212.8.248.71:8000/live/aprile/aprile123/42844.m3u8
+#EXTINF:-1,FR: MTV
+http://212.8.248.71:8000/live/aprile/aprile123/42843.m3u8
+#EXTINF:-1,FR: MTV HD
+http://212.8.248.71:8000/live/aprile/aprile123/42842.m3u8
+#EXTINF:-1,FR: Nat Geo HD
+http://212.8.248.71:8000/live/aprile/aprile123/42841.m3u8
+#EXTINF:-1,FR: National Geo
+http://212.8.248.71:8000/live/aprile/aprile123/42840.m3u8
+#EXTINF:-1,FR: National Geo Wild
+http://212.8.248.71:8000/live/aprile/aprile123/42839.m3u8
+#EXTINF:-1,FR: Nickelodeon
+http://212.8.248.71:8000/live/aprile/aprile123/42838.m3u8
+#EXTINF:-1,FR: Nickelodeon Junior
+http://212.8.248.71:8000/live/aprile/aprile123/42837.m3u8
+#EXTINF:-1,FR: NT1
+http://212.8.248.71:8000/live/aprile/aprile123/42836.m3u8
+#EXTINF:-1,FR: OCS CHOC HD
+http://212.8.248.71:8000/live/aprile/aprile123/42835.m3u8
+#EXTINF:-1,FR: OCS CITY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42834.m3u8
+#EXTINF:-1,FR: OCS GEANTS HD
+http://212.8.248.71:8000/live/aprile/aprile123/42833.m3u8
+#EXTINF:-1,FR: OCS MAX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42832.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://212.8.248.71:8000/live/aprile/aprile123/42831.m3u8
+#EXTINF:-1,FR: Paris Premiere HD
+http://212.8.248.71:8000/live/aprile/aprile123/42830.m3u8
+#EXTINF:-1,FR: Piwi
+http://212.8.248.71:8000/live/aprile/aprile123/42829.m3u8
+#EXTINF:-1,FR: Planete A&E HD
+http://212.8.248.71:8000/live/aprile/aprile123/42828.m3u8
+#EXTINF:-1,FR: Planete-A-and-E-HD
+http://212.8.248.71:8000/live/aprile/aprile123/42827.m3u8
+#EXTINF:-1,FR: Planete-HD
+http://212.8.248.71:8000/live/aprile/aprile123/42826.m3u8
+#EXTINF:-1,FR: RMC Decouverte
+http://212.8.248.71:8000/live/aprile/aprile123/42825.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42824.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42823.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42822.m3u8
+#EXTINF:-1,FR: RMC SPORT NEWS HD
+http://212.8.248.71:8000/live/aprile/aprile123/42821.m3u8
+#EXTINF:-1,FR: RTS LA DEUX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42820.m3u8
+#EXTINF:-1,FR: RTS LA UN HD
+http://212.8.248.71:8000/live/aprile/aprile123/42819.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://212.8.248.71:8000/live/aprile/aprile123/42818.m3u8
+#EXTINF:-1,FR: Serie Club
+http://212.8.248.71:8000/live/aprile/aprile123/42817.m3u8
+#EXTINF:-1,FR: Syfy HD
+http://212.8.248.71:8000/live/aprile/aprile123/42816.m3u8
+#EXTINF:-1,FR: TCM CINEMA
+http://212.8.248.71:8000/live/aprile/aprile123/42815.m3u8
+#EXTINF:-1,FR: TeleToon
+http://212.8.248.71:8000/live/aprile/aprile123/42814.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42813.m3u8
+#EXTINF:-1,FR: TIJI
+http://212.8.248.71:8000/live/aprile/aprile123/42812.m3u8
+#EXTINF:-1,FR: TMC
+http://212.8.248.71:8000/live/aprile/aprile123/42811.m3u8
+#EXTINF:-1,FR: TV 5 Monde
+http://212.8.248.71:8000/live/aprile/aprile123/42810.m3u8
+#EXTINF:-1,FR: Vitrine CanalPlay Live
+http://212.8.248.71:8000/live/aprile/aprile123/42787.m3u8
+#EXTINF:-1,FR: W9 Music
+http://212.8.248.71:8000/live/aprile/aprile123/42809.m3u8
+#EXTINF:-1,FR: WEO HD
+http://212.8.248.71:8000/live/aprile/aprile123/42808.m3u8
