@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>MOVISTAR+</title>
+<thumbnail>https://i.imgur.com/5LHkt3Z.png</thumbnail>
+<fanart>https://i.imgur.com/o4hmj95.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/mstar.xml</externallink>
+</item>
+
+<item>
 <title>LATAM PREMIUM</title>
 <thumbnail>https://i.imgur.com/5LHkt3Z.png</thumbnail>
 <fanart>https://i.imgur.com/o4hmj95.png</fanart>
