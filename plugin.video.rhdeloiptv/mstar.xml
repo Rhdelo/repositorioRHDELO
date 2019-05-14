@@ -1,4 +1,3 @@
-f#EXTM3U
 #EXTM3U
 #EXTINF:-1,24/7 4K Infantil
 http://iptv.wtf:8080/aeumddet/J4lqpR24p2/17420
@@ -676,6 +675,8 @@ http://iptv.wtf:8080/aeumddet/J4lqpR24p2/17267
 http://iptv.wtf:8080/aeumddet/J4lqpR24p2/17266
 #EXTINF:-1,ES: XTRM
 http://iptv.wtf:8080/aeumddet/J4lqpR24p2/17191
+
+#EXTINF:-1,###### SPA VIP 2 ######
 
 #EXTINF:-1,24/7 4K Infantil
 http://iptv.wtf:8080/aeumddet/J4lqpR24p2/17420
