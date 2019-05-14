@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [018] Cosmo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[018] Cosmo HD
 rtp://@239.0.5.71:8208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [019] AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[019] AMC
 rtp://@239.0.0.8:8208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [000] Movistar+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[000] Movistar+
 rtp://@239.0.0.77:8208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [001] TVE 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[001] TVE 1
 rtp://@239.0.0.76:8208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [001] TVE 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[001] TVE 1 HD
 rtp://@239.0.0.185:8208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7", [055] Canal+ Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g0pHpyQ.jpg" group-title="CANALES 24/7",[055] Canal+ Deportes
 rtp://@239.0.4.193:8208
 #EXTINF:-1 type=mpeg dlna_extras=mpeg_ps_pal logo=http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg, [002] TVE 2
 rtp://@239.0.0.2:8208
