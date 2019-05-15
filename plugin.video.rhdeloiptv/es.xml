@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1,###### ESPAÑA VIP ######
 #EXTINF:-1,[COLOR gold][01] [/COLOR]#0
-http://xxultraxx.com:80/uu123456/uu123456/3062
+#multilink
+SD,http://xxultraxx.com:80/uu123456/uu123456/3062
+HD,http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88901
+#multilink
 #EXTINF:-1,[COLOR gold][01] [/COLOR]#0
 http://xxultraxx.com:80/uu123456/uu123456/3062
 #EXTINF:-1,[COLOR gold][02] [/COLOR]#Vamos
