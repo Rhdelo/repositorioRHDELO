@@ -498,6 +498,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1,MLB Network (ING)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1,MLB Network op 2 (ING)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1,###### SPORT VIP 5 ######
 #EXTINF:-1,Bolivia Deportes (CAST)
@@ -512,6 +514,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1,AD Sport 2 (ARAB)
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Dubai Sports (ARAB)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1,ESPN (ING)
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,Abu Dhabi Sport (ARAB)
@@ -528,6 +532,12 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
 #EXTINF:-1,Fight Time (CAST)
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,CDO Premium (CAST)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,Flow Sport (ING)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,
+#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
