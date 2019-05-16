@@ -4,63 +4,60 @@
 #EXTINF:-1,[COLOR gold][01] [/COLOR]#0
 http://xxultraxx.com:80/uu123456/uu123456/3062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJvCN6d.png",[COLOR gold][01] [/COLOR]#0
-#multilink
 SD,http://xxultraxx.com:80/uu123456/uu123456/3062
-HD,http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88901
-#multilink
-#EXTINF:-1,[COLOR gold][02] [/COLOR]#Vamos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDxzKUe.png",[COLOR gold][02] [/COLOR]#Vamos
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/141391
-#EXTINF:-1,[COLOR gold][03] [/COLOR]M.Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1241CL9.png",[COLOR gold][03] [/COLOR]M.Series
 http://x3iptv.com:57000/danilo/12345/649
-#EXTINF:-1,[COLOR gold][04] [/COLOR]M.Seriesmania
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbbmVld.png",[COLOR gold][04] [/COLOR]M.Seriesmania
 http://xxultraxx.com:80/uu123456/uu123456/25630
-#EXTINF:-1,[COLOR gold][05] [/COLOR]Fox Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C06p9P0.png",[COLOR gold][05] [/COLOR]FOX
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/64190
-#EXTINF:-1,[COLOR gold][06] [/COLOR]AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKUm6Hp.png",[COLOR gold][06] [/COLOR]AXN
 http://hostiptv.com:8089/titi/1234/11502
-#EXTINF:-1,[COLOR gold][07] [/COLOR]TNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2ADF3u.png",[COLOR gold][07] [/COLOR]TNT
 http://hostiptv.com:8089/titi/1234/9424
-#EXTINF:-1,[COLOR gold][08] [/COLOR]Comedy Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ps07LFu.png",[COLOR gold][08] [/COLOR]Comedy Central
 http://hostiptv.com:8089/titi/1234/11496
-#EXTINF:-1,[COLOR gold][09] [/COLOR]Calle 13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JTZ5NpY.png",[COLOR gold][09] [/COLOR]Calle 13
 http://hostiptv.com:8089/titi/1234/11509
-#EXTINF:-1,[COLOR gold][10] [/COLOR]Cosmo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oYZwL7.png",[COLOR gold][10] [/COLOR]Cosmo
 http://x3iptv.com:57000/danilo/12345/589
-#EXTINF:-1,[COLOR gold][11] [/COLOR]AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e84feaH.png",[COLOR gold][11] [/COLOR]AMC
 http://x3iptv.com:57000/danilo/12345/711
-#EXTINF:-1,[COLOR gold][12] [/COLOR]Fox Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uq2fLX8.png",[COLOR gold][12] [/COLOR]Fox Life
 http://x3iptv.com:57000/danilo/12345/579
-#EXTINF:-1,[COLOR gold][13] [/COLOR]AXN White
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQc9pRE.png",[COLOR gold][13] [/COLOR]AXN White
 http://x3iptv.com:57000/danilo/12345/601
-#EXTINF:-1,[COLOR gold][14] [/COLOR]SYFY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvVMoaw.png",[COLOR gold][14] [/COLOR]SYFY
 http://x3iptv.com:57000/danilo/12345/549
-#EXTINF:-1,[COLOR gold][15] [/COLOR]MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvVMoaw.png",[COLOR gold][15] [/COLOR]MTV
 http://x3iptv.com:57000/danilo/12345/559
-#EXTINF:-1,[COLOR gold][16] [/COLOR]M.Estrenos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfhXwHj.png",[COLOR gold][16] [/COLOR]M.Estrenos
 http://hostiptv.com:8089/titi/1234/11483
-#EXTINF:-1,[COLOR gold][17] [/COLOR]M.CineDocAndRoll
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvXnBvt.png",[COLOR gold][17] [/COLOR]M.CineDocAndRoll
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/70877
-#EXTINF:-1,[COLOR gold][18] [/COLOR]M.Disney
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8y2J1g.png",[COLOR gold][18] [/COLOR]M.Disney
 http://hostiptv.com:8089/titi/1234/11485
-#EXTINF:-1,[COLOR gold][19] [/COLOR]M.Accion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIX2Q6W.png",[COLOR gold][19] [/COLOR]M.Accion
 http://x3iptv.com:57000/danilo/12345/656
-#EXTINF:-1,[COLOR gold][20] [/COLOR]M.Comedia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8oF3Jg4.png",[COLOR gold][20] [/COLOR]M.Comedia
 http://x3iptv.com:57000/danilo/12345/568
-#EXTINF:-1,[COLOR gold][21] [/COLOR]M.Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LF7CWPm.png",[COLOR gold][21] [/COLOR]M.Drama
 http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149101
-#EXTINF:-1,[COLOR gold][22] [/COLOR]M.Cine N
+#EXTINF:-1 tvg-logo="",[COLOR gold][22] [/COLOR]M.Cine N
 http://x3iptv.com:57000/danilo/12345/655
-#EXTINF:-1,[COLOR gold][23] [/COLOR]TCM
+#EXTINF:-1 tvg-logo="",[COLOR gold][23] [/COLOR]TCM
 http://x3iptv.com:57000/danilo/12345/623
-#EXTINF:-1,[COLOR gold][24] [/COLOR]Canal Hollywood
+#EXTINF:-1 tvg-logo="",[COLOR gold][24] [/COLOR]Canal Hollywood
 http://x3iptv.com:57000/danilo/12345/576
-#EXTINF:-1,[COLOR gold][25] [/COLOR]Sundance TV
+#EXTINF:-1 tvg-logo="",[COLOR gold][25] [/COLOR]Sundance TV
 http://x3iptv.com:57000/danilo/12345/624
-#EXTINF:-1,[COLOR gold][26] [/COLOR]Paramount Channel
+#EXTINF:-1 tvg-logo="",[COLOR gold][26] [/COLOR]Paramount Channel
 http://x3iptv.com:57000/danilo/12345/551
-#EXTINF:-1,[COLOR gold][27] [/COLOR]M.Partidazo
+#EXTINF:-1 tvg-logo="",[COLOR gold][27] [/COLOR]M.Partidazo
 http://x3iptv.com:57000/danilo/12345/643
-#EXTINF:-1,[COLOR gold][28] [/COLOR]Bein Sport
+#EXTINF:-1 tvg-logo="",[COLOR gold][28] [/COLOR]Bein Sport
 http://x3iptv.com:57000/danilo/12345/698
 #EXTINF:-1,[COLOR gold][29] [/COLOR]Bein Sport La Liga TV
 http://x3iptv.com:57000/danilo/12345/516
