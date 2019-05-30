@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="",CAM 1
-https://cam4-hls.xcdnpro.com/310/cam4-origin-live/KinkyCrazy7-310-94473479-f5f1-4f83-acd6-d8215e4badec_aac/chunklist.m3u8
-#EXTINF:0 tvg-logo="",CAM 2
-https://cam4-hls.xcdnpro.com/255/cam4-origin-live/ngrp:cjpq2525-255-f6a74866-1648-495b-a9b2-393a44cbcf68_all/chunklist_b2828800.m3u8
-#EXTINF:0 tvg-logo="",CAM 3
-https://cam4-hls.xcdnpro.com/298/cam4-origin-live/dzintars_fun-298-921757cf-c841-4baf-bd53-ed25ed30428c_aac/chunklist.m3u8
-#EXTINF:0 tvg-logo="",CAM 4
-#EXTINF:0 tvg-logo="",CAM 5
+#EXTINF:0 tvg-logo="https://i.imgur.com/NMCgtz1.png",Dragon Ball Super: Broly
+https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Dragon%20Ball%20Super_%20Broly_Castellano.mp4
