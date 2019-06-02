@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="",1
 https://cam4-hls.xcdnpro.com/288/cam4-origin-live/Zky_Blue-288-ec326d09-598a-4d3b-b8a2-2ad07ae95f5a_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="",2
+https://cam4-hls.xcdnpro.com/300/cam4-origin-live/ngrp:spanishstar-300-d828418b-2d94-43b1-8513-eb9599f7c647_all/chunklist_b2828800.m3u8
