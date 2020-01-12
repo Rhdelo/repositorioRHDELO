@@ -18,10 +18,10 @@
 
 <item>
 <title>Youtubers TV</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/wC24FrC.jpg</thumbnail>
+<fanart>https://i.imgur.com/GXRYnWh.png</fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuYou.xml</externallink>
 </item>
 
 <item>
@@ -49,7 +49,7 @@
 </item>
 
 <item>
-<title>Cine</title>
+<title>Videoclub</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
