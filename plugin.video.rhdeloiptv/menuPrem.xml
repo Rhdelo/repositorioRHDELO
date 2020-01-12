@@ -31,7 +31,7 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menunet.xml</externallink>
 </item>
-menunet.xml
+
 <item>
 <title>Series Premium (OFFLINE)</title>
 <thumbnail>https://i.imgur.com/OyMG57U.png</thumbnail>
@@ -49,25 +49,9 @@ menunet.xml
 </item>
 
 <item>
-<title>Documentales</title>
-<thumbnail>https://i.imgur.com/Z6HPjvo.png</thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menudocumentales.xml</externallink>
-</item>
-
-<item>
 <title>Musica</title>
 <thumbnail>https://i.imgur.com/EZXRP9M.png</thumbnail>
 <fanart>https://i.imgur.com/zJcnl06.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/musicamenu.xml</externallink>
-</item>
-
-<item>
-<title>Marvel (OFFLINE)</title>
-<thumbnail>https://i.imgur.com/AQ9YIAB.png</thumbnail>
-<fanart>https://i.imgur.com/g4r57T2.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
 </item>
