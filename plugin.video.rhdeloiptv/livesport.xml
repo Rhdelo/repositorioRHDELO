@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Koc7ne6.png" group-title="live",TWITCH|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
-https://1-edge1-eu-west.picarto.tv/mp4/RhdeloG01.mp4?token=public&con=1578924260595
+https://e5.cdn4.us/ingest012/58162.m3u8?sf=aTlJa3BuSHZlWA==&token=IVdTOlZbBgjE7nWXYGP0UQ&expires=1581026931&rnd=
 #EXTINF:0 tvg-logo="https://i.imgur.com/mxCuroh.png" group-title="live",LIGUE 1|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/7Anttks.png" group-title="live",LA LIGA|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
 #EXTINF:0 tvg-logo="https://i.imgur.com/fjCCzLm.png" group-title="live",LIGA 123|[COLOR green]HORA[/COLOR][COLOR gold] IDIOMA[/COLOR]
