@@ -23,3 +23,11 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuYou.xml</externallink>
 </item>
+
+<item>
+<title>eSports</title>
+<thumbnail>https://i.imgur.com/RAoP6ap.png</thumbnail>
+<fanart>https://i.imgur.com/0gXeC0h.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/eSports.xml</externallink>
+</item>
