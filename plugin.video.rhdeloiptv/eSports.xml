@@ -17,9 +17,17 @@
 </item>
 
 <item>
-<title>Free Fire League (Latam)</title>
-<thumbnail>https://i.imgur.com/oPnguhI.png</thumbnail>
-<fanart>https://i.imgur.com/l1xDsz5.png</fanart>
+<title>Free Fire League</title>
+<thumbnail>https://i.imgur.com/n2CyRvz.png</thumbnail>
+<fanart>https://i.imgur.com/PXb1LR4.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/freeFireLatamLeague.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuff.xml</externallink>
+</item>
+
+<item>
+<title>Esports Championship Series (ECS)</title>
+<thumbnail>https://i.imgur.com/b8OHcNd.png</thumbnail>
+<fanart>https://i.imgur.com/jFi3FOr.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ecs.xml</externallink>
 </item>
