@@ -39,3 +39,11 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/rocketLeague.xml</externallink>
 </item>
+
+<item>
+<title>PUGB Europe League (PEL)</title>
+<thumbnail>https://i.imgur.com/CtTEzTS.png</thumbnail>
+<fanart>https://i.imgur.com/RhhTjjX.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/pel.xml</externallink>
+</item>
