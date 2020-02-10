@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>ESL Pro League</title>
+<thumbnail>https://i.imgur.com/7wap6zD.png</thumbnail>
+<fanart>https://i.imgur.com/twvOfs6.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/eslcounter.xml</externallink>
+</item>
+
+<item>
+<title>ESL Master España</title>
+<thumbnail>https://i.imgur.com/fOpGAOM.png</thumbnail>
+<fanart>https://i.imgur.com/3Xo8ZCQ.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/eslmasterspa.xml</externallink>
+</item>
+
+<item>
+<title>ESL National Championships</title>
+<thumbnail>https://i.imgur.com/DJTFzaE.png</thumbnail>
+<fanart>https://i.imgur.com/PrsZvIw.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/eslnational.xml</externallink>
+</item>
+
+<item>
+<title>ESL </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/esl.xml</externallink>
+</item>

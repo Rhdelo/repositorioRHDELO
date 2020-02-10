@@ -25,9 +25,17 @@
 </item>
 
 <item>
-<title>Esports Championship Series (ECS)</title>
-<thumbnail>https://i.imgur.com/b8OHcNd.png</thumbnail>
+<title>ESL</title>
+<thumbnail>https://i.imgur.com/TLSiF1r.png</thumbnail>
 <fanart>https://i.imgur.com/jFi3FOr.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/ecs.xml</externallink>
+</item>
+
+<item>
+<title>Rocket League Esports</title>
+<thumbnail>https://i.imgur.com/To7KDr7.png</thumbnail>
+<fanart>https://i.imgur.com/tvn0enQ.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/rocketLeague.xml</externallink>
 </item>
