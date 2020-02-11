@@ -63,11 +63,19 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/gll.xml</externallink>
 </item>
-https://i.imgur.com/MhLdLDk.png
+
 <item>
 <title>Rainbow Six Esports</title>
 <thumbnail>https://i.imgur.com/MhLdLDk.png</thumbnail>
 <fanart>https://i.imgur.com/o9YfIHE.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/r6.xml</externallink>
+</item>
+
+<item>
+<title>Echo Arena Master League</title>
+<thumbnail>https://i.imgur.com/kFmQ3tJ.png</thumbnail>
+<fanart>https://i.imgur.com/b01q1Yy.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/r6.xml</externallink>
 </item>
