@@ -47,3 +47,19 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/pel.xml</externallink>
 </item>
+
+<item>
+<title>Onward Master League</title>
+<thumbnail>https://i.imgur.com/m5Cpgn8.png</thumbnail>
+<fanart>https://i.imgur.com/A72ScZa.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/onward.xml</externallink>
+</item>
+
+<item>
+<title>GLL</title>
+<thumbnail>https://i.imgur.com/NMU5D9S.png</thumbnail>
+<fanart>https://i.imgur.com/meDNF9a.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/gll.xml</externallink>
+</item>
