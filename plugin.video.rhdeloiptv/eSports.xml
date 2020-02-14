@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>eLaLiga</title>
+<thumbnail>https://i.imgur.com/wKmqmFr.png</thumbnail>
+<fanart>https://i.imgur.com/rva2L9S.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/echoArena.xml</externallink>
+</item>
+
 <item>
 <title>FIFA eClub World Cup Milan 2020</title>
 <thumbnail>https://i.imgur.com/YJ6RzeS.png</thumbnail>
@@ -77,5 +86,5 @@
 <thumbnail>https://i.imgur.com/kFmQ3tJ.png</thumbnail>
 <fanart>https://i.imgur.com/b01q1Yy.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/r6.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/echoArena.xml</externallink>
 </item>
