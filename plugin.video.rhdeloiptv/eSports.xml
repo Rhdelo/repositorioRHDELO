@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>LOL</title>
+<thumbnail>https://i.imgur.com/EKgu6SF.png</thumbnail>
+<fanart>https://i.imgur.com/4DoyABf.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/lol.xml</externallink>
+</item>
 
 <item>
 <title>eLaLiga</title>
 <thumbnail>https://i.imgur.com/wKmqmFr.png</thumbnail>
 <fanart>https://i.imgur.com/rva2L9S.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/echoArena.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/elaliga.xml</externallink>
 </item>
 
 <item>

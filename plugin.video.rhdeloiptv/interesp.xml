@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>BBC One</title>
+<urlsolve>https://www.bbc.co.uk/iplayer/live/bbcone</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>Telesur</title>
 <urlsolve>https://www.youtube.com/watch?v=BRPtKbFVF_8</urlsolve>
@@ -30,7 +38,7 @@
 
 <item>
 <title>TV publica de Argentina</title>
-<urlsolve>https://www.youtube.com/watch?v=gDjglU2RukM</urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=qKpdhpCD1UU</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
