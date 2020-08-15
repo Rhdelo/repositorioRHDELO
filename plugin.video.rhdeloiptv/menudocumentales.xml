@@ -3,15 +3,23 @@
 <item>
 <title>IPTV de Documentales</title>
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<fanart>https://i.imgur.com/S8Tos2M.png[/img]</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/dotiv.xml</externallink>
 </item>
 
 <item>
+<title>Documentalia Paranormal</title>
+<thumbnail>https://i.imgur.com/wtall10.png</thumbnail>
+<fanart>https://i.imgur.com/S8Tos2M.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/paranormal.xml</externallink>
+</item>
+
+<item>
 <title>Documentales del Espacio</title>
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<fanart>https://i.imgur.com/S8Tos2M.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuDocusEspacio.xml</externallink>
 </item>
@@ -19,7 +27,7 @@
 <item>
 <title>Documentales de Historia</title>
 <thumbnail>https://i.imgur.com/Xqx15z1.png</thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<fanart>https://i.imgur.com/S8Tos2M.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuHistoria.xml</externallink>
 </item>
@@ -27,7 +35,7 @@
 <item>
 <title>Documentales de Crimenes</title>
 <thumbnail>https://i.imgur.com/WavHcAn.png</thumbnail>
-<fanart>https://i.imgur.com/2y2Qm7M.png</fanart>
+<fanart>https://i.imgur.com/S8Tos2M.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menucrimen.xml</externallink>
 </item>
