@@ -17,20 +17,20 @@
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Benditos Bastados TV</title>
+<thumbnail>https://i.imgur.com/Qvu0b2i.png</thumbnail>
+<fanart>https://i.imgur.com/xzoDLhg.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/bbtv.xml</externallink>
 </item>
 
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>Misterio Norte</title>
+<thumbnail>https://i.imgur.com/qv1rPpw.png</thumbnail>
+<fanart>https://i.imgur.com/d8RoJmg.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/misterionorte.xml</externallink>
 </item>
 
 
