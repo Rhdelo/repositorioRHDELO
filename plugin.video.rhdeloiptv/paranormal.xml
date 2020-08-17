@@ -17,19 +17,21 @@
 </item>
 
 <item>
-<title>Benditos Bastados TV</title>
-<thumbnail>https://i.imgur.com/Qvu0b2i.png</thumbnail>
-<fanart>https://i.imgur.com/xzoDLhg.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/bbtv.xml</externallink>
-</item>
-
-<item>
 <title>División Enigma</title>
 <thumbnail>https://i.imgur.com/is1uFce.png</thumbnail>
 <fanart>https://i.imgur.com/U2IZ8bZ.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/divisionP.xml</externallink>
+</item>
+
+
+
+<item>
+<title>Benditos Bastados TV</title>
+<thumbnail>https://i.imgur.com/Qvu0b2i.png</thumbnail>
+<fanart>https://i.imgur.com/xzoDLhg.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/bbtv.xml</externallink>
 </item>
 
 <item>
