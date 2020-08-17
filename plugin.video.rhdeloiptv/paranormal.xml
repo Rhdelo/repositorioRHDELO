@@ -24,7 +24,13 @@
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/divisionP.xml</externallink>
 </item>
 
-
+<item>
+<title>GIP AlyFA Jaén</title>
+<thumbnail>https://i.imgur.com/qv1rPpw.png</thumbnail>
+<fanart>https://i.imgur.com/is1zL6w.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/alYfa.xml</externallink>
+</item>
 
 <item>
 <title>Benditos Bastados TV</title>
@@ -42,13 +48,6 @@
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/misterionorte.xml</externallink>
 </item>
 
-<item>
-<title>GIP AlyFA Jaén</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/.xml</externallink>
-</item>
 
 <item>
 <title></title>
