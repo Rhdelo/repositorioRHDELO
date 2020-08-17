@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>TV PREMIUM</title>
+<title>Cine</title>
 <thumbnail>https://i.imgur.com/HMtvnGt.png</thumbnail>
 <fanart>https://i.imgur.com/PjqA2Y7.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menmovi.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/generoCine.xml</externallink>
+</item>
+
+<item>
+<title>Series</title>
+<thumbnail>https://i.imgur.com/4HEEVBs.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/series.xml</externallink>
 </item>
 
 <item>
@@ -14,14 +22,6 @@
 <fanart>https://i.imgur.com/S8Tos2M.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/documentalia.xml</externallink>
-</item>
-
-<item>
-<title>Videoclub Premium (OFF)</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/</externallink>
 </item>
 
 <item>
