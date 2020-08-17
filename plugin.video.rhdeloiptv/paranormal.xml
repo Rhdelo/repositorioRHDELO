@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>Objetivo Paranormal</title>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/xIb3Z5S.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/objParanormal.xml</externallink>
+</item>
+
+<item>
 <title>GIP AlyFA Jaén</title>
 <thumbnail>https://i.imgur.com/3H0nrkF.png</thumbnail>
 <fanart>https://i.imgur.com/is1zL6w.png</fanart>
@@ -46,15 +54,6 @@
 <fanart>https://i.imgur.com/d8RoJmg.png</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/misterionorte.xml</externallink>
-</item>
-
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/.xml</externallink>
 </item>
 
 <item>
