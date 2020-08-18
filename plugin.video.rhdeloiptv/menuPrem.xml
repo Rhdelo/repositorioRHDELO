@@ -21,7 +21,7 @@
 <thumbnail>https://i.imgur.com/IuFMXSn.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menunet.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/menuDepor.xml</externallink>
 </item>
 
 <item>
@@ -33,11 +33,11 @@
 </item>
 
 <item>
-<title>Series Premium (OFFLINE)</title>
-<thumbnail>https://i.imgur.com/OyMG57U.png</thumbnail>
+<title>Klax</title>
+<thumbnail>https://i.imgur.com/GANSQca.png</thumbnail>
 <fanart>https://i.imgur.com/swpqQjF.png</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/videoclub.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/klax.xml</externallink>
 </item>
 
 <item>
