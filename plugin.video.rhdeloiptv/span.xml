@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="",Argelia
+#EXTINF:0 tvg-logo="",Echorouk TV 
+https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8
+#EXTINF:0 tvg-logo="",Awraas TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc3677caee.smil/lDFJLs1YCJTMC_0.m3u8
+#EXTINF:0 tvg-logo="",Al Fadjr TV
+https://cdn.hta.dz/live/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_240p/chunks.m3u8?nimblesessionid=14558288&wmsAuthSign=c2VydmVyX3RpbWU9MDIvMTEvMjAyMSAwMzowNTozMyBBTSZoYXNoX3ZhbHVlPWdCRTNYbVRYZ3BJMTRNQnlXNDdpYkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:0 tvg-logo="",Prueba
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist_w1963190428.m3u8
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",
 #EXTINF:0 tvg-logo="",SYRYA
 #EXTINF:0 tvg-logo="",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
@@ -19,6 +36,7 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/almasira_chunks.m3u8
 https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvUEiaw-Ig3M7ddEaEXAmN1xTwcgFZYwXd477OYKuJm4NUUeKl37sH8C8nP7Ox-FBL9JeJUx9NREFYSk1Y3C4z1AQjZRnK28jIl4Yp5ejlrzzXrB5GsJIXlI5gDNg1MgKVQslxgOWuoaBOYOrjXzAITPa_SIvTdlQIAg7k48oBOFvXi_dtWzubQk_x7KwTgiAgGyTUOss64LQIxpUeQvtYqaCulOuidy8UjnWoyu5abZ6eYIXDOWUk77NNVMoQhPCdtQbxPohpR1uCOlEe73NnHodzVR7D767zrEvrrPUsjUKKn1oS5iYyfq5eWRLHZftFqCN_MQs4DIJCT779TNhogr9JDhM_2e_gZ4uNgOcObE5bXW0ivPJuyqpdW2L46UC6Mf9qX1WgdyDaY7iv3OxKFym6f1JDKDignp3Jj75fcef5otRPscQ-0HE7s4ZJxGFjgzkUi3oppWmEHCMPbHuxSNaXK8dO1B5nq6gOGwgo6vTRFoLisnnu9WBjz0X1tanYFM-vIIQathEgWID4EQ7cyOI1mdrc13TRG4JaIOXUFEBeGTf-V8leKKdlLjCsEMnkOgV2Qg2tx8vs9ElG5TxjPLfxcb8Mce_rRLjdADbSXS7UF1bn1SXg0XxhB_yVx9EWpFhqY4OficmBJIj0_uCYM5gk_k_l4lnzBGcyD4es7tPEZ8zbXSJycDHqJIjMUxp7S8_1mD5yfv7U5o-vmSBPPAAgWiL346g0PMRwLq15d0GAjeAiKSJJ3T1A9vXIk6juhUX16YMe4bXpBf4FGxwHOgPTGKnmksXnF3qmOzeEsHCiyPQQtB16ekowcfv5ynmr-R8F91VPoSEJc3JkaGqhLp0a6-8W9tguMaDB6Q7iuF3rpF1RalTQ.m3u8
 #EXTINF:0 tvg-logo="",Belqees TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613031563/ei/K5QkYN2ZIIG10wX277fwDQ/ip/81.0.1.131/id/AzNigAgM3EE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJokqw5FIBC2li-Ote4OFUitL4uQdHolnBVCwLXMJ5RyAiBOyNr2JCEvNuZ8nQbcqTcaOF2X7JTTAvXwygJ06htjLg%3D%3D/file/index.m3u8
-#EXTINF:0 tvg-logo="", 
-
-#EXTINF:0 tvg-logo="", 
+#EXTINF:0 tvg-logo="",Yemen Today
+https://video.yementdy.tv/live/yementoday/index.m3u8
+#EXTINF:0 tvg-logo="",SAMAA TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613032868/ei/RJkkYLoOi5Fa89Wo4Ak/ip/81.0.1.131/id/UM8xZEWObK4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKrnc4Coc1HetPVSvwo28_gwCJylaYkFC2V5AtwGymJiAiEAkWoPslmj4zkuiW5ntr4vBAneGdE7WeTqaypQl_lp878%3D/file/index.m3u8
