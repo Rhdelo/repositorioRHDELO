@@ -1,3 +1,20 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="",SYRYA
 #EXTINF:0 tvg-logo="",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+#EXTINF:0 tvg-logo="",Sama TV 
+http://stream.sama-tv.net:8080/hls/samatv.m3u8?720
+#EXTINF:0 tvg-logo="",Lana TV 
+https://stream.lanacanal.tv:5443/LiveApp/streams/725036471648486808631404.m3u8
+#EXTINF:0 tvg-logo="",Alyaum TV 
+https://besttv650-myflix-alyaum.aoslive.it.best-tv.com/egress/bhandler/ikomg/alyaum_tv/chunklist_b2128000.m3u8
+#EXTINF:0 tvg-logo="",Alalam tv
+https://live2.alalamtv.net/live/Alalam_high/index.m3u8 
+#EXTINF:0 tvg-logo="", YEMEN
+
+#EXTINF:0 tvg-logo="", Yemen TV
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CuUE4a0Mq5AFhW9eOi9hSNF-nWE05hWlhJ7U8iM8VqXdQBdIGvNYO5Uag3rdoaU1JMk92d3zPdK1xLGoemuZTyK-_RL1sUNTwPPb9I01cOXwyGl8dU1GktnBmfpeQ0LN5GxbZpbfiaGnfHaVn0PlJWWniaiSR0K3VuN1P9QTp0q0M05v50RdJWAD4AUQiSuQqIQnVDRACPrhFfsxD5AmDPevOB3sxMBBgnlIzIJ8X2ygDcNy2WVAMBlJTlvGGZ-QuPyG4v04UU9FHF7Whh_z3T_okWhzIYmNftpexzSQhMDXCQm71xU5jlpEIc_qH82q407cmEDtXlQH1KF8frRZdT88po-_YRxXEZ6Mr1tmDred5hAGg1VvCHLMTe_NfUWNk8YSTVvfeBRQXaTTBRvKg-lNymeHXol-vAmJFjw7qrJcC_fBLWeCZ8ttnIGU-8gqmefwpd-Il6YTxRu6Y3t_9XqXOuK-MbYh9krQM3AtWkhvt5AbDPYc7G_P-l4CS1goE6DuHsKjQnmDuXsGLZDW9oxXMXIb8TgAJXd0UNGd5PMr2eAX1Yg7VNHKUuWOLxs-xQgrehLcPEGMWNctp1SSQJgUN-ngQaXWZBjz6ze9sFcJ6klu2MtcqhLu7mSDOs8yrssj1eTvG8vcUhIUp13Ng-7c_zOpeT6U_qES8Xg10ZceyQsl5LEPepT5FCi10SxiBGwx-Nn-1OFAHvuFzBWuNhr_8_Dp88g5ywKDFDrVEV278mscOPqMJdT2o8TOHNBUWRNXYoiZdnMDumzkubUdAWyoSP59_CnMIs08v4lSjF1LBvVThEkznBIQ6YeJNHNbvPw71klxfjnWWBoMGWWB0p4CEEJLlYo5.m3u8
+#EXTINF:0 tvg-logo="", 
+#EXTINF:0 tvg-logo="", 
+#EXTINF:0 tvg-logo="", 
+#EXTINF:0 tvg-logo="", 
