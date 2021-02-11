@@ -7,7 +7,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc36
 #EXTINF:0 tvg-logo="",Al Fadjr TV
 https://cdn.hta.dz/live/EL_FADJR_TV_DZ/htatv/EL_FADJR_TV_DZ_240p/chunks.m3u8?nimblesessionid=14558288&wmsAuthSign=c2VydmVyX3RpbWU9MDIvMTEvMjAyMSAwMzowNTozMyBBTSZoYXNoX3ZhbHVlPWdCRTNYbVRYZ3BJMTRNQnlXNDdpYkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:0 tvg-logo="",Prueba
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist_w1963190428.m3u8
+https://vsd63.mycdn.me/hls/868961487478.m3u8/s
 #EXTINF:0 tvg-logo="",
 #EXTINF:0 tvg-logo="",
 #EXTINF:0 tvg-logo="",
@@ -15,7 +15,13 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 #EXTINF:0 tvg-logo="",
 #EXTINF:0 tvg-logo="",
 #EXTINF:0 tvg-logo="",
-#EXTINF:0 tvg-logo="",
+#EXTINF:0 tvg-logo="",KURDISTAN
+#EXTINF:0 tvg-logo="",Kurdistan24 
+https://d1x82nydcxndze.cloudfront.net/live/index_720p25.m3u8
+#EXTINF:0 tvg-logo="",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1683377070_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:0 tvg-logo="",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_720p_chunks.m3u8
 #EXTINF:0 tvg-logo="",SYRYA
 #EXTINF:0 tvg-logo="",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
