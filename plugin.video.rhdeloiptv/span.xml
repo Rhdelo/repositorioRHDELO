@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="",Argelia
-#EXTM3U
+#EXTINF:0 tvg-logo="",Marruecos
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Undefined",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Undefined",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Undefined",PRUEBA
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/31373?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.net
+
 #PLAYLIST:iptvcat.net
 #EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",2m.maroc
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/58271.m3u8?checkedby:iptvcat.net
