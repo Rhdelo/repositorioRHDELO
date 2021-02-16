@@ -7,7 +7,15 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/tdt.xml</externallink>
 </item>
-sudafrica.xml
+
+<item>
+<title>Africa</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Rhdelo/repositorioRHDELO/master/plugin.video.rhdeloiptv/afri.xml</externallink>
+</item>
+
 <item>
 <title>Sudafrica</title>
 <thumbnail></thumbnail>
