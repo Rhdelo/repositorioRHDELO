@@ -35,6 +35,9 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 #EXTINF:-1 tvg-id="DKISS TDT SD 1.sp" tvg-logo="http://graph.facebook.com/DKissTV/picture?width=320&height=320" group-title="Generalistas",DKISS HD
 http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
 
+#EXTINF:0 tvg-logo="" tvg-id="ext" group-title="Channels",SobreRuedas
+https://edge1o.live.opencaster.com/caster/sjHnrmaDpafA.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YNIZ43U.png" group-title="Generalistas",Fama a Bailar 24H
 blob:https://www.youtube.com/a4453698-9222-4565-85ed-71c75bba5a2e
 
